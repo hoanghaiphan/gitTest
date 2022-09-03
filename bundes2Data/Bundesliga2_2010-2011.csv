@@ -1,0 +1,6089 @@
+,Round,Hometeam,Scorehome,Scoreaway,Awayteam,Home,Draw,Away,Date,Status
+0,1,Hertha Berlin,3,2,Rot-Weiss Oberhausen,1.4,4.5,7.5,08-19 02:50,Live
+1,1,Hertha Berlin,3,2,Rot-Weiss Oberhausen,1.4,4.2,6.5,08-13 18:17,Live
+2,1,Alemannia Aachen,2,2,Union Berlin,2.1,3.4,3.4,08-19 02:50,Live
+3,1,Alemannia Aachen,2,2,Union Berlin,2.1,3.4,3,08-14 00:34,Live
+4,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.3,3.3,3,08-20 17:57,Live
+5,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.4,3.3,2.9,08-20 17:06,Live
+6,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.3,3.3,3.1,08-20 13:58,Live
+7,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.4,3.3,2.87,08-20 13:22,Live
+8,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.45,3.3,2.8,08-19 02:50,Live
+9,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.45,3.25,2.6,08-16 23:47,Live
+10,1,FSV Frankfurt,2,1,Arminia Bielefeld,2.62,3.25,2.4,08-14 00:34,Live
+11,1,SC Paderborn 07,0,1,Erzgebirge Aue,2,3.5,3.6,08-19 09:41,Live
+12,1,SC Paderborn 07,0,1,Erzgebirge Aue,2.1,3.4,3.4,08-19 03:31,Live
+13,1,SC Paderborn 07,0,1,Erzgebirge Aue,2.1,3.4,3,08-14 18:54,Live
+14,1,Ingolstadt,1,4,Augsburg,3.1,3.4,2.25,08-19 02:50,Live
+15,1,Ingolstadt,1,4,Augsburg,3,3.4,2.1,08-14 18:54,Live
+16,1,Greuther Furth,4,1,Karlsruher SC,2.2,3.4,3.2,08-19 03:31,Live
+17,1,Greuther Furth,4,1,Karlsruher SC,2.2,3.3,2.87,08-15 13:42,Live
+18,1,Energie Cottbus,2,0,Fortuna Dusseldorf,2.1,3.4,3,08-17 14:24,Live
+19,1,Energie Cottbus,2,0,Fortuna Dusseldorf,2.2,3.3,2.87,08-15 19:47,Live
+20,1,VfL Osnabruck,1,3,MSV Duisburg,2.5,3.3,2.75,08-22 09:49,Live
+21,1,VfL Osnabruck,1,3,MSV Duisburg,2.45,3.4,2.75,08-19 03:31,Live
+22,1,VfL Osnabruck,1,3,MSV Duisburg,2.37,3.25,2.7,08-16 23:08,Live
+23,1,VfL Osnabruck,1,3,MSV Duisburg,2.62,3.25,2.4,08-15 13:42,Live
+24,1,VfL Bochum,3,2,TSV 1860 Munchen,1.95,3.4,3.8,08-23 18:31,Live
+25,1,VfL Bochum,3,2,TSV 1860 Munchen,1.83,3.5,4.33,08-22 23:34,Live
+26,1,VfL Bochum,3,2,TSV 1860 Munchen,1.9,3.4,4,08-19 09:41,Live
+27,1,VfL Bochum,3,2,TSV 1860 Munchen,1.85,3.5,4.2,08-19 02:50,Live
+28,1,VfL Bochum,3,2,TSV 1860 Munchen,1.8,3.4,4,08-16 20:19,Live
+29,2,Augsburg,1,0,SC Paderborn 07,1.53,3.8,6.5,08-26 22:38,Live
+30,2,Augsburg,1,0,SC Paderborn 07,1.57,3.75,6,08-26 07:18,Live
+31,2,Augsburg,1,0,SC Paderborn 07,1.57,3.6,5.25,08-24 17:30,Live
+32,2,Erzgebirge Aue,1,0,VfL Bochum,3.2,3.25,2.2,08-27 15:48,Live
+33,2,Erzgebirge Aue,1,0,VfL Bochum,3.4,3.3,2.1,08-26 07:18,Live
+34,2,Erzgebirge Aue,1,0,VfL Bochum,3.1,3.25,2.1,08-25 14:34,Live
+35,2,Erzgebirge Aue,1,0,VfL Bochum,3,3.2,2.2,08-24 17:30,Live
+36,2,Rot-Weiss Oberhausen,1,0,FSV Frankfurt,2.4,3.3,2.8,08-27 12:24,Live
+37,2,Rot-Weiss Oberhausen,1,0,FSV Frankfurt,2.3,3.3,3,08-26 07:18,Live
+38,2,Rot-Weiss Oberhausen,1,0,FSV Frankfurt,2.25,3.2,2.9,08-24 17:30,Live
+39,2,Union Berlin,1,2,Greuther Furth,2.3,3.3,3.1,08-28 12:39,Live
+40,2,Union Berlin,1,2,Greuther Furth,2.5,3.25,2.8,08-28 11:16,Live
+41,2,Union Berlin,1,2,Greuther Furth,2.3,3.25,3.1,08-26 23:52,Live
+42,2,Union Berlin,1,2,Greuther Furth,2.37,3.25,3,08-26 07:18,Live
+43,2,Union Berlin,1,2,Greuther Furth,2.3,3.2,2.8,08-24 17:30,Live
+44,2,MSV Duisburg,4,1,Ingolstadt,1.61,3.75,5.25,08-26 07:18,Live
+45,2,MSV Duisburg,4,1,Ingolstadt,1.61,3.5,5,08-24 17:30,Live
+46,2,Arminia Bielefeld,1,2,Energie Cottbus,2.4,3.3,2.87,08-29 13:07,Live
+47,2,Arminia Bielefeld,1,2,Energie Cottbus,2.5,3.3,2.75,08-29 11:57,Live
+48,2,Arminia Bielefeld,1,2,Energie Cottbus,2.3,3.3,3,08-29 09:52,Live
+49,2,Arminia Bielefeld,1,2,Energie Cottbus,2.25,3.3,3.1,08-26 07:18,Live
+50,2,Arminia Bielefeld,1,2,Energie Cottbus,2.2,3.2,3,08-24 18:15,Live
+51,2,Arminia Bielefeld,1,2,Energie Cottbus,2.1,3.2,3.2,08-24 17:30,Live
+52,2,Karlsruher SC,3,0,Alemannia Aachen,2.3,3.3,3,08-29 09:52,Live
+53,2,Karlsruher SC,3,0,Alemannia Aachen,2.25,3.3,3.1,08-26 07:18,Live
+54,2,Karlsruher SC,3,0,Alemannia Aachen,2.1,3.25,3.1,08-24 21:43,Live
+55,2,Karlsruher SC,3,0,Alemannia Aachen,2.05,3.25,3.2,08-24 17:30,Live
+56,2,TSV 1860 Munchen,3,1,VfL Osnabruck,1.66,3.75,5,08-26 07:18,Live
+57,2,TSV 1860 Munchen,3,1,VfL Osnabruck,1.61,3.6,4.75,08-24 21:43,Live
+58,2,TSV 1860 Munchen,3,1,VfL Osnabruck,1.66,3.5,4.5,08-24 17:30,Live
+59,2,Fortuna Dusseldorf,1,2,Hertha Berlin,2.8,3.2,2.5,08-30 15:49,Live
+60,2,Fortuna Dusseldorf,1,2,Hertha Berlin,2.9,3.25,2.4,08-30 09:29,Live
+61,2,Fortuna Dusseldorf,1,2,Hertha Berlin,3,3.3,2.3,08-29 21:27,Live
+62,2,Fortuna Dusseldorf,1,2,Hertha Berlin,2.87,3.3,2.4,08-26 07:18,Live
+63,2,Fortuna Dusseldorf,1,2,Hertha Berlin,2.7,3.2,2.37,08-24 17:30,Live
+64,3,VfL Osnabruck,3,2,Erzgebirge Aue,2.2,3.3,3.25,09-07 06:20,Live
+65,3,VfL Osnabruck,3,2,Erzgebirge Aue,2.1,3.25,3.25,09-06 21:55,Live
+66,3,VfL Osnabruck,3,2,Erzgebirge Aue,2.2,3.25,3,09-03 18:08,Live
+67,3,Ingolstadt,1,2,Rot-Weiss Oberhausen,2,3.5,3.6,09-09 21:10,Live
+68,3,Ingolstadt,1,2,Rot-Weiss Oberhausen,2.15,3.4,3.3,09-07 06:20,Live
+69,3,Ingolstadt,1,2,Rot-Weiss Oberhausen,2.1,3.25,3.1,09-03 18:56,Live
+70,3,Ingolstadt,1,2,Rot-Weiss Oberhausen,2.25,3.25,2.9,09-03 18:08,Live
+71,3,SC Paderborn 07,2,0,Union Berlin,2.1,3.3,3.5,09-09 21:10,Live
+72,3,SC Paderborn 07,2,0,Union Berlin,2.25,3.25,3.2,09-07 06:20,Live
+73,3,SC Paderborn 07,2,0,Union Berlin,2.25,3.25,2.9,09-03 18:08,Live
+74,3,MSV Duisburg,2,1,TSV 1860 Munchen,2.1,3.3,3.4,09-11 01:03,Live
+75,3,MSV Duisburg,2,1,TSV 1860 Munchen,2,3.4,3.75,09-07 06:20,Live
+76,3,MSV Duisburg,2,1,TSV 1860 Munchen,2,3.3,3.4,09-04 13:27,Live
+77,3,FSV Frankfurt,1,0,Fortuna Dusseldorf,2.37,3.25,3,09-11 10:12,Live
+78,3,FSV Frankfurt,1,0,Fortuna Dusseldorf,2.5,3.25,2.8,09-07 06:20,Live
+79,3,FSV Frankfurt,1,0,Fortuna Dusseldorf,2.4,3.25,2.7,09-04 13:26,Live
+80,3,VfL Bochum,0,2,Augsburg,2.25,3.4,3.1,09-12 07:47,Live
+81,3,VfL Bochum,0,2,Augsburg,2.15,3.4,3.3,09-09 16:31,Live
+82,3,VfL Bochum,0,2,Augsburg,2.2,3.4,3.2,09-09 12:33,Live
+83,3,VfL Bochum,0,2,Augsburg,2.25,3.4,3.1,09-07 06:20,Live
+84,3,VfL Bochum,0,2,Augsburg,2.2,3.25,3,09-05 13:40,Live
+85,3,Greuther Furth,1,1,Alemannia Aachen,1.72,3.75,4.5,09-12 10:31,Live
+86,3,Greuther Furth,1,1,Alemannia Aachen,1.72,3.5,5,09-11 21:56,Live
+87,3,Greuther Furth,1,1,Alemannia Aachen,1.8,3.5,4.5,09-07 06:20,Live
+88,3,Greuther Furth,1,1,Alemannia Aachen,1.75,3.5,4.2,09-05 13:40,Live
+89,3,Hertha Berlin,3,1,Arminia Bielefeld,1.5,4,6.5,09-12 09:09,Live
+90,3,Hertha Berlin,3,1,Arminia Bielefeld,1.53,4,6,09-07 06:20,Live
+91,3,Hertha Berlin,3,1,Arminia Bielefeld,1.57,3.75,5.25,09-05 13:40,Live
+92,3,Energie Cottbus,5,5,Karlsruher SC,1.8,3.6,4.33,09-13 19:36,Live
+93,3,Energie Cottbus,5,5,Karlsruher SC,1.83,3.5,4.33,09-13 17:32,Live
+94,3,Energie Cottbus,5,5,Karlsruher SC,1.8,3.5,4.5,09-09 17:26,Live
+95,3,Energie Cottbus,5,5,Karlsruher SC,1.9,3.4,4,09-07 06:20,Live
+96,3,Energie Cottbus,5,5,Karlsruher SC,1.9,3.4,3.6,09-06 20:22,Live
+97,4,Greuther Furth,1,0,FSV Frankfurt,1.85,3.5,4.2,09-17 17:52,Live
+98,4,Greuther Furth,1,0,FSV Frankfurt,1.8,3.5,4.5,09-17 13:59,Live
+99,4,Greuther Furth,1,0,FSV Frankfurt,1.72,3.6,4.75,09-16 02:17,Live
+100,4,Greuther Furth,1,0,FSV Frankfurt,1.66,3.5,4.5,09-14 13:53,Live
+101,4,Union Berlin,1,1,Hertha Berlin,4.5,3.75,1.75,09-17 17:52,Live
+102,4,Union Berlin,1,1,Hertha Berlin,4.2,3.6,1.83,09-17 11:47,Live
+103,4,Union Berlin,1,1,Hertha Berlin,3.9,3.5,1.9,09-16 02:17,Live
+104,4,Union Berlin,1,1,Hertha Berlin,3.75,3.4,1.85,09-15 17:45,Live
+105,4,Union Berlin,1,1,Hertha Berlin,3.6,3.3,1.9,09-14 13:53,Live
+106,4,Alemannia Aachen,2,3,Energie Cottbus,2.1,3.4,3.4,09-17 17:15,Live
+107,4,Alemannia Aachen,2,3,Energie Cottbus,2.2,3.4,3.2,09-17 15:19,Live
+108,4,Alemannia Aachen,2,3,Energie Cottbus,2.3,3.4,3,09-17 13:59,Live
+109,4,Alemannia Aachen,2,3,Energie Cottbus,2.35,3.4,2.9,09-16 02:17,Live
+110,4,Alemannia Aachen,2,3,Energie Cottbus,2.37,3.2,2.7,09-14 13:53,Live
+111,4,Rot-Weiss Oberhausen,3,1,VfL Bochum,2.9,3.3,2.4,09-17 16:30,Live
+112,4,Rot-Weiss Oberhausen,3,1,VfL Bochum,2.9,3.4,2.35,09-16 02:17,Live
+113,4,Rot-Weiss Oberhausen,3,1,VfL Bochum,2.87,3.2,2.25,09-14 13:53,Live
+114,4,Karlsruher SC,2,1,SC Paderborn 07,1.72,3.6,4.75,09-18 11:28,Live
+115,4,Karlsruher SC,2,1,SC Paderborn 07,1.83,3.5,4.2,09-17 16:30,Live
+116,4,Karlsruher SC,2,1,SC Paderborn 07,1.85,3.4,4.2,09-16 02:17,Live
+117,4,Karlsruher SC,2,1,SC Paderborn 07,1.75,3.4,4.2,09-14 13:53,Live
+118,4,Augsburg,2,2,VfL Osnabruck,1.4,4.5,8,09-17 16:30,Live
+119,4,Augsburg,2,2,VfL Osnabruck,1.4,4.5,7.5,09-16 02:30,Live
+120,4,Augsburg,2,2,VfL Osnabruck,1.4,4.2,6.5,09-14 13:53,Live
+121,4,Erzgebirge Aue,1,0,MSV Duisburg,2.87,3.3,2.4,09-19 11:59,Live
+122,4,Erzgebirge Aue,1,0,MSV Duisburg,2.75,3.3,2.5,09-17 16:30,Live
+123,4,Erzgebirge Aue,1,0,MSV Duisburg,2.7,3.4,2.5,09-16 02:30,Live
+124,4,Erzgebirge Aue,1,0,MSV Duisburg,2.6,3.1,2.5,09-14 13:53,Live
+125,4,Fortuna Dusseldorf,1,2,TSV 1860 Munchen,2.3,3.25,3.1,09-17 16:30,Live
+126,4,Fortuna Dusseldorf,1,2,TSV 1860 Munchen,2.3,3.4,3,09-16 02:30,Live
+127,4,Fortuna Dusseldorf,1,2,TSV 1860 Munchen,2.3,3.2,2.8,09-14 13:53,Live
+128,4,Arminia Bielefeld,1,0,Ingolstadt,2.05,3.3,3.6,09-19 11:59,Live
+129,4,Arminia Bielefeld,1,0,Ingolstadt,2,3.4,3.75,09-17 16:30,Live
+130,4,Arminia Bielefeld,1,0,Ingolstadt,1.95,3.4,3.8,09-16 02:30,Live
+131,4,Arminia Bielefeld,1,0,Ingolstadt,1.9,3.3,3.6,09-14 13:53,Live
+132,5,Hertha Berlin,4,0,Karlsruher SC,1.61,3.8,5.5,09-21 17:24,Live
+133,5,Hertha Berlin,4,0,Karlsruher SC,1.55,4,6,09-21 13:20,Live
+134,5,Hertha Berlin,4,0,Karlsruher SC,1.57,3.75,6,09-21 03:57,Live
+135,5,Hertha Berlin,4,0,Karlsruher SC,1.57,3.6,5.5,09-20 12:07,Live
+136,5,SC Paderborn 07,0,0,Rot-Weiss Oberhausen,2.1,3.3,3.5,09-21 09:17,Live
+137,5,SC Paderborn 07,0,0,Rot-Weiss Oberhausen,2.05,3.4,3.5,09-21 03:57,Live
+138,5,SC Paderborn 07,0,0,Rot-Weiss Oberhausen,2.1,3.25,3.2,09-20 12:07,Live
+139,5,Energie Cottbus,2,0,Greuther Furth,2.15,3.4,3.3,09-21 06:39,Live
+140,5,Energie Cottbus,2,0,Greuther Furth,2.1,3.4,3.4,09-21 03:57,Live
+141,5,Energie Cottbus,2,0,Greuther Furth,1.95,3.3,3.6,09-20 12:22,Live
+142,5,Energie Cottbus,2,0,Greuther Furth,2,3.25,3.5,09-20 12:07,Live
+143,5,FSV Frankfurt,1,3,Alemannia Aachen,2.4,3.4,2.8,09-21 16:28,Live
+144,5,FSV Frankfurt,1,3,Alemannia Aachen,2.37,3.2,3,09-21 12:10,Live
+145,5,FSV Frankfurt,1,3,Alemannia Aachen,2.3,3.25,3.1,09-21 03:57,Live
+146,5,FSV Frankfurt,1,3,Alemannia Aachen,2.2,3.25,3,09-20 12:07,Live
+147,5,VfL Osnabruck,4,1,Union Berlin,2.2,3.4,3.2,09-22 17:03,Live
+148,5,VfL Osnabruck,4,1,Union Berlin,2.1,3.4,3.4,09-22 14:08,Live
+149,5,VfL Osnabruck,4,1,Union Berlin,2.2,3.4,3.2,09-21 03:57,Live
+150,5,VfL Osnabruck,4,1,Union Berlin,2.1,3.25,3.2,09-20 12:07,Live
+151,5,MSV Duisburg,1,0,Augsburg,2.4,3.25,2.9,09-22 17:03,Live
+152,5,MSV Duisburg,1,0,Augsburg,2.25,3.25,3.2,09-22 14:44,Live
+153,5,MSV Duisburg,1,0,Augsburg,2.37,3.3,2.9,09-22 13:13,Live
+154,5,MSV Duisburg,1,0,Augsburg,2.4,3.3,2.87,09-21 03:57,Live
+155,5,MSV Duisburg,1,0,Augsburg,2.3,3.25,2.8,09-20 12:07,Live
+156,5,VfL Bochum,3,1,Arminia Bielefeld,1.66,3.75,5,09-22 17:03,Live
+157,5,VfL Bochum,3,1,Arminia Bielefeld,1.7,3.6,5,09-22 14:08,Live
+158,5,VfL Bochum,3,1,Arminia Bielefeld,1.72,3.6,4.75,09-21 03:57,Live
+159,5,VfL Bochum,3,1,Arminia Bielefeld,1.72,3.4,4.5,09-20 12:07,Live
+160,5,TSV 1860 Munchen,0,0,Erzgebirge Aue,1.61,3.75,5.5,09-22 07:16,Live
+161,5,TSV 1860 Munchen,0,0,Erzgebirge Aue,1.66,3.6,5.25,09-21 03:57,Live
+162,5,TSV 1860 Munchen,0,0,Erzgebirge Aue,1.66,3.4,5,09-20 12:07,Live
+163,5,Ingolstadt,3,0,Fortuna Dusseldorf,2.6,3.2,2.75,09-21 03:57,Live
+164,5,Ingolstadt,3,0,Fortuna Dusseldorf,2.5,3.2,2.62,09-20 12:07,Live
+165,6,Energie Cottbus,0,1,Hertha Berlin,2.8,3.4,2.4,09-24 13:13,Live
+166,6,Energie Cottbus,0,1,Hertha Berlin,2.9,3.4,2.3,09-24 06:20,Live
+167,6,Energie Cottbus,0,1,Hertha Berlin,2.8,3.4,2.4,09-23 23:27,Live
+168,6,Energie Cottbus,0,1,Hertha Berlin,2.7,3.2,2.37,09-23 15:38,Live
+169,6,Karlsruher SC,0,2,FSV Frankfurt,1.8,3.5,4.5,09-24 13:13,Live
+170,6,Karlsruher SC,0,2,FSV Frankfurt,1.83,3.5,4.2,09-23 23:27,Live
+171,6,Karlsruher SC,0,2,FSV Frankfurt,1.7,3.5,4.33,09-23 15:38,Live
+172,6,Alemannia Aachen,2,0,SC Paderborn 07,1.8,3.5,4.33,09-24 05:22,Live
+173,6,Alemannia Aachen,2,0,SC Paderborn 07,1.83,3.5,4.2,09-23 23:27,Live
+174,6,Alemannia Aachen,2,0,SC Paderborn 07,1.83,3.4,3.75,09-23 15:38,Live
+175,6,Greuther Furth,1,0,Ingolstadt,1.6,3.75,5.75,09-25 09:53,Live
+176,6,Greuther Furth,1,0,Ingolstadt,1.7,3.6,5,09-23 23:27,Live
+177,6,Greuther Furth,1,0,Ingolstadt,1.61,3.6,4.75,09-23 15:38,Live
+178,6,Arminia Bielefeld,0,1,Erzgebirge Aue,2,3.3,3.75,09-25 11:12,Live
+179,6,Arminia Bielefeld,0,1,Erzgebirge Aue,2.05,3.3,3.6,09-24 23:15,Live
+180,6,Arminia Bielefeld,0,1,Erzgebirge Aue,2.1,3.25,3.5,09-23 23:27,Live
+181,6,Arminia Bielefeld,0,1,Erzgebirge Aue,1.95,3.3,3.5,09-23 15:38,Live
+182,6,Union Berlin,2,0,MSV Duisburg,2.87,3.3,2.4,09-26 09:31,Live
+183,6,Union Berlin,2,0,MSV Duisburg,2.75,3.25,2.5,09-23 23:27,Live
+184,6,Union Berlin,2,0,MSV Duisburg,2.75,3.25,2.3,09-23 15:38,Live
+185,6,Rot-Weiss Oberhausen,1,0,VfL Osnabruck,2.2,3.25,3.25,09-26 11:42,Live
+186,6,Rot-Weiss Oberhausen,1,0,VfL Osnabruck,2.1,3.25,3.5,09-23 23:27,Live
+187,6,Rot-Weiss Oberhausen,1,0,VfL Osnabruck,2,3.25,3.4,09-23 15:38,Live
+188,6,Augsburg,1,2,TSV 1860 Munchen,1.83,3.4,4.33,09-26 09:31,Live
+189,6,Augsburg,1,2,TSV 1860 Munchen,1.8,3.4,4.5,09-25 22:14,Live
+190,6,Augsburg,1,2,TSV 1860 Munchen,1.8,3.5,4.33,09-23 23:27,Live
+191,6,Augsburg,1,2,TSV 1860 Munchen,1.8,3.5,4,09-23 21:11,Live
+192,6,Augsburg,1,2,TSV 1860 Munchen,1.72,3.5,4.2,09-23 15:38,Live
+193,6,Fortuna Dusseldorf,0,1,VfL Bochum,2.6,3.2,2.7,09-27 14:49,Live
+194,6,Fortuna Dusseldorf,0,1,VfL Bochum,2.5,3.25,2.8,09-26 19:26,Live
+195,6,Fortuna Dusseldorf,0,1,VfL Bochum,2.4,3.25,2.87,09-23 23:27,Live
+196,6,Fortuna Dusseldorf,0,1,VfL Bochum,2.3,3.25,2.8,09-23 19:58,Live
+197,6,Fortuna Dusseldorf,0,1,VfL Bochum,2.3,3.25,2.75,09-23 15:38,Live
+198,7,SC Paderborn 07,3,1,Arminia Bielefeld,2.2,3.4,3.25,10-01 17:43,Live
+199,7,SC Paderborn 07,3,1,Arminia Bielefeld,2.15,3.4,3.3,10-01 15:31,Live
+200,7,SC Paderborn 07,3,1,Arminia Bielefeld,2.05,3.4,3.6,10-01 12:38,Live
+201,7,SC Paderborn 07,3,1,Arminia Bielefeld,2.25,3.4,3.1,09-29 06:55,Live
+202,7,SC Paderborn 07,3,1,Arminia Bielefeld,2.2,3.25,3,09-28 14:37,Live
+203,7,MSV Duisburg,3,0,Rot-Weiss Oberhausen,1.66,3.75,5,09-29 06:55,Live
+204,7,MSV Duisburg,3,0,Rot-Weiss Oberhausen,1.66,3.5,4.75,09-28 14:37,Live
+205,7,Ingolstadt,1,1,Karlsruher SC,2.4,3.4,2.8,10-01 12:38,Live
+206,7,Ingolstadt,1,1,Karlsruher SC,2.5,3.4,2.7,09-29 06:55,Live
+207,7,Ingolstadt,1,1,Karlsruher SC,2.5,3.2,2.6,09-28 14:37,Live
+208,7,VfL Osnabruck,2,3,Fortuna Dusseldorf,2.25,3.4,3.1,09-29 06:55,Live
+209,7,VfL Osnabruck,2,3,Fortuna Dusseldorf,2.25,3.25,2.9,09-28 14:37,Live
+210,7,VfL Bochum,0,2,Greuther Furth,2,3.5,3.6,10-02 10:06,Live
+211,7,VfL Bochum,0,2,Greuther Furth,2.1,3.4,3.4,09-29 06:55,Live
+212,7,VfL Bochum,0,2,Greuther Furth,2,3.3,3.4,09-28 14:37,Live
+213,7,TSV 1860 Munchen,1,0,Union Berlin,1.72,3.6,4.75,09-29 06:55,Live
+214,7,TSV 1860 Munchen,1,0,Union Berlin,1.72,3.4,4.5,09-28 14:37,Live
+215,7,Erzgebirge Aue,3,2,Augsburg,2.8,3.4,2.4,09-29 06:55,Live
+216,7,Erzgebirge Aue,3,2,Augsburg,2.75,3.2,2.4,09-28 14:37,Live
+217,7,FSV Frankfurt,3,2,Energie Cottbus,2.62,3.4,2.55,09-29 06:55,Live
+218,7,FSV Frankfurt,3,2,Energie Cottbus,2.6,3.2,2.5,09-28 14:37,Live
+219,7,Hertha Berlin,0,0,Alemannia Aachen,1.45,4.5,6.5,10-04 09:02,Live
+220,7,Hertha Berlin,0,0,Alemannia Aachen,1.5,4.33,6,10-04 02:53,Live
+221,7,Hertha Berlin,0,0,Alemannia Aachen,1.53,4,6,10-02 10:06,Live
+222,7,Hertha Berlin,0,0,Alemannia Aachen,1.5,4,6.5,09-29 06:55,Live
+223,7,Hertha Berlin,0,0,Alemannia Aachen,1.44,4,6.5,09-28 14:37,Live
+224,8,Greuther Furth,3,0,VfL Osnabruck,1.61,3.8,5.5,10-15 15:00,Live
+225,8,Greuther Furth,3,0,VfL Osnabruck,1.66,3.8,5,10-15 11:35,Live
+226,8,Greuther Furth,3,0,VfL Osnabruck,1.57,4,5.5,10-11 05:16,Live
+227,8,Greuther Furth,3,0,VfL Osnabruck,1.57,3.6,5.5,10-08 18:06,Live
+228,8,Union Berlin,1,1,Erzgebirge Aue,2.1,3.4,3.4,10-15 16:39,Live
+229,8,Union Berlin,1,1,Erzgebirge Aue,2.15,3.4,3.4,10-11 22:23,Live
+230,8,Union Berlin,1,1,Erzgebirge Aue,2.25,3.4,3.1,10-11 09:59,Live
+231,8,Union Berlin,1,1,Erzgebirge Aue,2.3,3.3,3.1,10-11 05:16,Live
+232,8,Union Berlin,1,1,Erzgebirge Aue,2.3,3.25,2.87,10-08 18:06,Live
+233,8,Fortuna Dusseldorf,1,0,Augsburg,2.5,3.25,2.8,10-15 15:37,Live
+234,8,Fortuna Dusseldorf,1,0,Augsburg,2.6,3.25,2.7,10-15 12:50,Live
+235,8,Fortuna Dusseldorf,1,0,Augsburg,2.62,3.25,2.62,10-11 05:16,Live
+236,8,Fortuna Dusseldorf,1,0,Augsburg,2.62,3.2,2.5,10-08 18:06,Live
+237,8,FSV Frankfurt,0,1,Hertha Berlin,4,3.4,1.9,10-11 05:16,Live
+238,8,FSV Frankfurt,0,1,Hertha Berlin,3.75,3.3,1.9,10-09 13:06,Live
+239,8,Karlsruher SC,0,2,VfL Bochum,2.25,3.3,3.1,10-16 10:30,Live
+240,8,Karlsruher SC,0,2,VfL Bochum,2.4,3.3,2.9,10-11 05:16,Live
+241,8,Karlsruher SC,0,2,VfL Bochum,2.3,3.25,2.87,10-09 13:06,Live
+242,8,Energie Cottbus,3,1,SC Paderborn 07,1.72,3.6,4.75,10-17 13:17,Live
+243,8,Energie Cottbus,3,1,SC Paderborn 07,1.66,3.75,5,10-11 05:19,Live
+244,8,Energie Cottbus,3,1,SC Paderborn 07,1.66,3.4,5,10-10 13:35,Live
+245,8,Alemannia Aachen,2,1,Ingolstadt,1.65,4,4.75,10-17 11:54,Live
+246,8,Alemannia Aachen,2,1,Ingolstadt,1.7,3.75,4.75,10-11 05:19,Live
+247,8,Alemannia Aachen,2,1,Ingolstadt,1.7,3.6,4.33,10-10 13:35,Live
+248,8,Rot-Weiss Oberhausen,0,0,TSV 1860 Munchen,2.9,3.25,2.4,10-16 10:30,Live
+249,8,Rot-Weiss Oberhausen,0,0,TSV 1860 Munchen,2.7,3.25,2.6,10-11 05:19,Live
+250,8,Rot-Weiss Oberhausen,0,0,TSV 1860 Munchen,2.62,3.2,2.5,10-10 13:35,Live
+251,8,Arminia Bielefeld,1,3,MSV Duisburg,3.1,3.3,2.25,10-18 19:55,Live
+252,8,Arminia Bielefeld,1,3,MSV Duisburg,3,3.3,2.3,10-15 07:42,Live
+253,8,Arminia Bielefeld,1,3,MSV Duisburg,2.9,3.3,2.4,10-11 21:26,Live
+254,9,Hertha Berlin,2,0,Greuther Furth,1.7,3.6,5,10-22 17:23,Live
+255,9,Hertha Berlin,2,0,Greuther Furth,1.66,3.6,5.25,10-20 21:12,Live
+256,9,Augsburg,2,1,Union Berlin,1.7,3.6,5,10-22 00:27,Live
+257,9,Augsburg,2,1,Union Berlin,1.72,3.6,4.75,10-20 21:12,Live
+258,9,VfL Osnabruck,2,0,Energie Cottbus,2.87,3.4,2.37,10-22 14:56,Live
+259,9,VfL Osnabruck,2,0,Energie Cottbus,3,3.4,2.3,10-22 12:08,Live
+260,9,VfL Osnabruck,2,0,Energie Cottbus,2.8,3.4,2.4,10-20 21:12,Live
+261,9,Ingolstadt,0,1,FSV Frankfurt,2.1,3.4,3.25,10-23 12:36,Live
+262,9,Ingolstadt,0,1,FSV Frankfurt,2.2,3.4,3.1,10-23 12:24,Live
+263,9,Ingolstadt,0,1,FSV Frankfurt,2.25,3.4,3,10-23 11:24,Live
+264,9,Ingolstadt,0,1,FSV Frankfurt,2.37,3.3,2.9,10-20 21:12,Live
+265,9,TSV 1860 Munchen,0,0,Arminia Bielefeld,1.53,3.8,6.5,10-23 09:32,Live
+266,9,TSV 1860 Munchen,0,0,Arminia Bielefeld,1.57,3.75,6,10-20 21:12,Live
+267,9,SC Paderborn 07,3,0,Fortuna Dusseldorf,2.5,3.2,2.8,10-20 21:12,Live
+268,9,VfL Bochum,1,1,Alemannia Aachen,2.05,3.4,3.5,10-20 21:12,Live
+269,9,MSV Duisburg,3,0,Karlsruher SC,1.65,3.6,5.5,10-23 11:09,Live
+270,9,MSV Duisburg,3,0,Karlsruher SC,1.66,3.6,5.25,10-20 21:12,Live
+271,9,Erzgebirge Aue,2,0,Rot-Weiss Oberhausen,1.95,3.3,4,10-25 19:32,Live
+272,9,Erzgebirge Aue,2,0,Rot-Weiss Oberhausen,2,3.3,3.75,10-20 21:12,Live
+273,10,Arminia Bielefeld,1,2,Union Berlin,2.3,3.3,3.1,10-27 10:16,Live
+274,10,Arminia Bielefeld,1,2,Union Berlin,2.2,3.3,3.2,10-27 02:52,Live
+275,10,Arminia Bielefeld,1,2,Union Berlin,2.2,3.2,3,10-26 16:54,Live
+276,10,FSV Frankfurt,2,0,SC Paderborn 07,2,3.4,3.6,10-27 02:52,Live
+277,10,FSV Frankfurt,2,0,SC Paderborn 07,1.9,3.3,3.6,10-26 16:54,Live
+278,10,Greuther Furth,1,2,Erzgebirge Aue,1.8,3.6,4.33,10-27 02:52,Live
+279,10,Greuther Furth,1,2,Erzgebirge Aue,1.75,3.4,4.2,10-26 17:26,Live
+280,10,Hertha Berlin,3,1,Ingolstadt,1.3,5,10,10-27 02:52,Live
+281,10,Hertha Berlin,3,1,Ingolstadt,1.3,4.5,9,10-26 16:54,Live
+282,10,Karlsruher SC,2,4,TSV 1860 Munchen,2.3,3.3,2.9,10-30 12:30,Live
+283,10,Karlsruher SC,2,4,TSV 1860 Munchen,2.45,3.3,2.75,10-28 22:09,Live
+284,10,Karlsruher SC,2,4,TSV 1860 Munchen,2.6,3.3,2.62,10-27 02:52,Live
+285,10,Karlsruher SC,2,4,TSV 1860 Munchen,2.5,3.2,2.6,10-26 16:54,Live
+286,10,Alemannia Aachen,2,1,VfL Osnabruck,1.55,3.8,6,10-31 08:17,Live
+287,10,Alemannia Aachen,2,1,VfL Osnabruck,1.61,3.75,5.5,10-27 02:52,Live
+288,10,Alemannia Aachen,2,1,VfL Osnabruck,1.61,3.6,4.75,10-26 16:54,Live
+289,10,Rot-Weiss Oberhausen,0,3,Augsburg,3.1,3.3,2.25,10-31 11:01,Live
+290,10,Rot-Weiss Oberhausen,0,3,Augsburg,3,3.3,2.3,10-31 03:17,Live
+291,10,Rot-Weiss Oberhausen,0,3,Augsburg,2.9,3.3,2.37,10-28 22:09,Live
+292,10,Rot-Weiss Oberhausen,0,3,Augsburg,2.75,3.3,2.5,10-27 02:52,Live
+293,10,Rot-Weiss Oberhausen,0,3,Augsburg,2.6,3.2,2.5,10-26 16:54,Live
+294,10,Energie Cottbus,2,1,VfL Bochum,2.2,3.3,3.2,10-27 02:52,Live
+295,10,Energie Cottbus,2,1,VfL Bochum,2.1,3.25,3.1,10-26 16:54,Live
+296,10,Fortuna Dusseldorf,1,0,MSV Duisburg,3,3.3,2.3,11-01 13:33,Live
+297,10,Fortuna Dusseldorf,1,0,MSV Duisburg,2.9,3.25,2.4,11-01 09:43,Live
+298,10,Fortuna Dusseldorf,1,0,MSV Duisburg,2.8,3.25,2.5,11-01 09:11,Live
+299,10,Fortuna Dusseldorf,1,0,MSV Duisburg,2.8,3.3,2.45,11-01 03:51,Live
+300,10,Fortuna Dusseldorf,1,0,MSV Duisburg,2.75,3.3,2.5,10-27 02:52,Live
+301,10,Fortuna Dusseldorf,1,0,MSV Duisburg,2.6,3.2,2.5,10-26 16:54,Live
+302,11,VfL Bochum,1,0,FSV Frankfurt,1.83,3.5,4.33,11-03 06:19,Live
+303,11,VfL Bochum,1,0,FSV Frankfurt,1.8,3.4,4,11-02 12:21,Live
+304,11,Ingolstadt,1,2,Energie Cottbus,3.1,3.3,2.3,11-03 06:26,Live
+305,11,Ingolstadt,1,2,Energie Cottbus,2.9,3.2,2.3,11-02 12:21,Live
+306,11,Erzgebirge Aue,1,0,Fortuna Dusseldorf,2,3.4,3.75,11-03 06:19,Live
+307,11,Erzgebirge Aue,1,0,Fortuna Dusseldorf,1.9,3.3,3.75,11-02 19:51,Live
+308,11,Erzgebirge Aue,1,0,Fortuna Dusseldorf,1.8,3.4,4,11-02 12:21,Live
+309,11,MSV Duisburg,2,0,Greuther Furth,1.8,3.6,4.33,11-06 12:41,Live
+310,11,MSV Duisburg,2,0,Greuther Furth,1.72,3.75,4.5,11-06 11:47,Live
+311,11,MSV Duisburg,2,0,Greuther Furth,1.83,3.6,4.2,11-06 11:27,Live
+312,11,MSV Duisburg,2,0,Greuther Furth,1.9,3.4,4,11-03 06:26,Live
+313,11,MSV Duisburg,2,0,Greuther Furth,1.8,3.4,4,11-02 12:21,Live
+314,11,Augsburg,3,0,Arminia Bielefeld,1.33,4.75,9,11-06 11:47,Live
+315,11,Augsburg,3,0,Arminia Bielefeld,1.36,4.75,8.5,11-06 11:15,Live
+316,11,Augsburg,3,0,Arminia Bielefeld,1.4,4.5,8,11-03 06:19,Live
+317,11,Augsburg,3,0,Arminia Bielefeld,1.4,4.2,7,11-02 12:21,Live
+318,11,SC Paderborn 07,1,0,Hertha Berlin,3.8,3.3,2,11-07 12:27,Live
+319,11,SC Paderborn 07,1,0,Hertha Berlin,3.6,3.3,2.05,11-07 12:01,Live
+320,11,SC Paderborn 07,1,0,Hertha Berlin,3.2,3.25,2.25,11-07 11:57,Live
+321,11,SC Paderborn 07,1,0,Hertha Berlin,4,3.4,1.9,11-07 10:58,Live
+322,11,SC Paderborn 07,1,0,Hertha Berlin,4.2,3.4,1.85,11-07 10:50,Live
+323,11,SC Paderborn 07,1,0,Hertha Berlin,3.8,3.4,1.95,11-07 09:54,Live
+324,11,SC Paderborn 07,1,0,Hertha Berlin,4,3.4,1.9,11-03 06:26,Live
+325,11,SC Paderborn 07,1,0,Hertha Berlin,3.75,3.25,1.9,11-02 12:21,Live
+326,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.61,3.75,5.5,11-07 13:02,Live
+327,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.57,3.8,6.5,11-07 12:40,Live
+328,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.72,3.5,5,11-07 11:23,Live
+329,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.75,3.5,4.75,11-07 10:58,Live
+330,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.8,3.5,4.5,11-04 21:09,Live
+331,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.85,3.4,4.33,11-03 06:26,Live
+332,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.85,3.25,4,11-02 20:56,Live
+333,11,Union Berlin,2,1,Rot-Weiss Oberhausen,1.9,3.25,3.75,11-02 12:21,Live
+334,11,TSV 1860 Munchen,2,1,Alemannia Aachen,2.25,3.4,3.1,11-07 11:39,Live
+335,11,TSV 1860 Munchen,2,1,Alemannia Aachen,2.15,3.4,3.25,11-07 09:54,Live
+336,11,TSV 1860 Munchen,2,1,Alemannia Aachen,2.1,3.4,3.4,11-03 06:19,Live
+337,11,TSV 1860 Munchen,2,1,Alemannia Aachen,2.1,3.2,3.25,11-02 20:30,Live
+338,11,TSV 1860 Munchen,2,1,Alemannia Aachen,2,3.25,3.5,11-02 12:21,Live
+339,11,VfL Osnabruck,0,0,Karlsruher SC,2.15,3.5,3.1,11-08 12:57,Live
+340,11,VfL Osnabruck,0,0,Karlsruher SC,2.1,3.5,3.25,11-08 12:15,Live
+341,11,VfL Osnabruck,0,0,Karlsruher SC,2.25,3.4,3.1,11-08 09:22,Live
+342,11,VfL Osnabruck,0,0,Karlsruher SC,2.3,3.4,3,11-03 06:26,Live
+343,11,VfL Osnabruck,0,0,Karlsruher SC,2.25,3.2,3,11-02 12:21,Live
+344,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.72,3.6,4.75,11-12 17:31,Live
+345,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.61,3.8,5.5,11-12 16:02,Live
+346,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.66,3.75,5.25,11-12 14:42,Live
+347,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.72,3.6,4.75,11-12 13:32,Live
+348,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.66,3.6,5.25,11-12 10:09,Live
+349,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.72,3.5,5,11-11 17:59,Live
+350,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.75,3.5,4.75,11-11 04:26,Live
+351,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.72,3.25,4.75,11-09 16:11,Live
+352,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,1.83,3.25,4.2,11-09 00:21,Live
+353,12,Fortuna Dusseldorf,3,0,Rot-Weiss Oberhausen,2,3.2,3.5,11-08 12:51,Live
+354,12,Karlsruher SC,1,1,Erzgebirge Aue,2.3,3.5,2.87,11-12 17:40,Live
+355,12,Karlsruher SC,1,1,Erzgebirge Aue,2.37,3.4,3,11-12 17:26,Live
+356,12,Karlsruher SC,1,1,Erzgebirge Aue,2.25,3.4,3.1,11-11 04:26,Live
+357,12,Karlsruher SC,1,1,Erzgebirge Aue,2.25,3.2,3,11-09 11:59,Live
+358,12,Karlsruher SC,1,1,Erzgebirge Aue,2.2,3.2,3.1,11-09 00:21,Live
+359,12,Karlsruher SC,1,1,Erzgebirge Aue,2.3,3.2,2.87,11-08 21:51,Live
+360,12,Karlsruher SC,1,1,Erzgebirge Aue,2.5,3.2,2.62,11-08 12:51,Live
+361,12,Greuther Furth,1,1,Augsburg,2.5,3.3,2.8,11-12 15:04,Live
+362,12,Greuther Furth,1,1,Augsburg,2.62,3.3,2.62,11-12 13:59,Live
+363,12,Greuther Furth,1,1,Augsburg,2.5,3.3,2.75,11-11 04:26,Live
+364,12,Greuther Furth,1,1,Augsburg,2.4,3.2,2.75,11-08 12:51,Live
+365,12,FSV Frankfurt,2,1,Union Berlin,2.6,3.3,2.62,11-13 11:56,Live
+366,12,FSV Frankfurt,2,1,Union Berlin,2.4,3.3,2.87,11-12 05:26,Live
+367,12,FSV Frankfurt,2,1,Union Berlin,2.15,3.4,3.25,11-11 04:26,Live
+368,12,FSV Frankfurt,2,1,Union Berlin,2.2,3.1,3.1,11-09 10:52,Live
+369,12,FSV Frankfurt,2,1,Union Berlin,2.1,3.1,3.4,11-08 12:51,Live
+370,12,Arminia Bielefeld,2,1,VfL Osnabruck,2.75,3.3,2.5,11-13 11:56,Live
+371,12,Arminia Bielefeld,2,1,VfL Osnabruck,2.5,3.3,2.75,11-11 04:26,Live
+372,12,Arminia Bielefeld,2,1,VfL Osnabruck,2.5,3.1,2.75,11-08 21:51,Live
+373,12,Arminia Bielefeld,2,1,VfL Osnabruck,2.3,3.1,3,11-08 12:51,Live
+374,12,Energie Cottbus,0,0,TSV 1860 Munchen,2.15,3.4,3.25,11-14 09:48,Live
+375,12,Energie Cottbus,0,0,TSV 1860 Munchen,2.1,3.4,3.4,11-14 06:58,Live
+376,12,Energie Cottbus,0,0,TSV 1860 Munchen,2,3.4,3.6,11-13 02:03,Live
+377,12,Energie Cottbus,0,0,TSV 1860 Munchen,2.05,3.4,3.5,11-11 04:26,Live
+378,12,Energie Cottbus,0,0,TSV 1860 Munchen,2,3.2,3.5,11-08 12:51,Live
+379,12,Alemannia Aachen,2,2,MSV Duisburg,2.3,3.3,3,11-13 22:14,Live
+380,12,Alemannia Aachen,2,2,MSV Duisburg,2.5,3.3,2.75,11-11 04:26,Live
+381,12,Alemannia Aachen,2,2,MSV Duisburg,2.4,3.2,2.7,11-08 12:51,Live
+382,12,Ingolstadt,1,2,SC Paderborn 07,2.2,3.3,3.25,11-14 09:48,Live
+383,12,Ingolstadt,1,2,SC Paderborn 07,2.15,3.4,3.25,11-13 21:20,Live
+384,12,Ingolstadt,1,2,SC Paderborn 07,2.3,3.4,3,11-11 04:31,Live
+385,12,Ingolstadt,1,2,SC Paderborn 07,2.25,3.25,2.9,11-09 00:21,Live
+386,12,Ingolstadt,1,2,SC Paderborn 07,2.3,3.25,2.8,11-08 12:51,Live
+387,12,Hertha Berlin,2,0,VfL Bochum,1.57,3.75,6,11-15 19:39,Live
+388,12,Hertha Berlin,2,0,VfL Bochum,1.53,3.8,6.5,11-15 17:56,Live
+389,12,Hertha Berlin,2,0,VfL Bochum,1.57,3.75,6,11-15 15:50,Live
+390,12,Hertha Berlin,2,0,VfL Bochum,1.61,3.75,5.5,11-15 09:24,Live
+391,12,Hertha Berlin,2,0,VfL Bochum,1.6,3.75,5.75,11-11 04:31,Live
+392,12,Hertha Berlin,2,0,VfL Bochum,1.6,3.6,5.25,11-08 22:19,Live
+393,12,Hertha Berlin,2,0,VfL Bochum,1.55,3.75,5.5,11-08 22:01,Live
+394,12,Hertha Berlin,2,0,VfL Bochum,1.5,3.8,6,11-08 21:23,Live
+395,13,Union Berlin,1,0,Fortuna Dusseldorf,2,3.4,3.75,11-19 17:48,Live
+396,13,Union Berlin,1,0,Fortuna Dusseldorf,2.1,3.3,3.5,11-19 17:32,Live
+397,13,Union Berlin,1,0,Fortuna Dusseldorf,2,3.3,3.8,11-19 15:29,Live
+398,13,Union Berlin,1,0,Fortuna Dusseldorf,2.1,3.3,3.5,11-19 13:08,Live
+399,13,Union Berlin,1,0,Fortuna Dusseldorf,1.9,3.4,4,11-19 12:11,Live
+400,13,Union Berlin,1,0,Fortuna Dusseldorf,2,3.4,3.75,11-19 11:08,Live
+401,13,Union Berlin,1,0,Fortuna Dusseldorf,2.05,3.3,3.6,11-18 15:50,Live
+402,13,Union Berlin,1,0,Fortuna Dusseldorf,2.1,3.3,3.5,11-17 07:47,Live
+403,13,Union Berlin,1,0,Fortuna Dusseldorf,2.1,3.2,3.25,11-15 14:54,Live
+404,13,Rot-Weiss Oberhausen,3,0,Arminia Bielefeld,2.25,3.25,3.2,11-19 13:23,Live
+405,13,Rot-Weiss Oberhausen,3,0,Arminia Bielefeld,2.4,3.2,3,11-19 11:31,Live
+406,13,Rot-Weiss Oberhausen,3,0,Arminia Bielefeld,2.2,3.25,3.25,11-17 07:42,Live
+407,13,Rot-Weiss Oberhausen,3,0,Arminia Bielefeld,2.05,3.25,3.3,11-15 16:40,Live
+408,13,Rot-Weiss Oberhausen,3,0,Arminia Bielefeld,2,3.25,3.5,11-15 14:54,Live
+409,13,VfL Osnabruck,2,0,Hertha Berlin,4.33,3.25,1.9,11-19 20:11,Live
+410,13,VfL Osnabruck,2,0,Hertha Berlin,4.75,3.5,1.8,11-19 18:07,Live
+411,13,VfL Osnabruck,2,0,Hertha Berlin,4.5,3.4,1.83,11-19 17:48,Live
+412,13,VfL Osnabruck,2,0,Hertha Berlin,4,3.4,1.9,11-19 09:04,Live
+413,13,VfL Osnabruck,2,0,Hertha Berlin,4.33,3.5,1.83,11-17 07:36,Live
+414,13,VfL Osnabruck,2,0,Hertha Berlin,4,3.4,1.8,11-15 15:12,Live
+415,13,VfL Osnabruck,2,0,Hertha Berlin,3.75,3.25,1.9,11-15 14:54,Live
+416,13,SC Paderborn 07,0,4,Greuther Furth,2.37,3.25,3,11-20 12:17,Live
+417,13,SC Paderborn 07,0,4,Greuther Furth,2.5,3.2,2.87,11-17 07:47,Live
+418,13,SC Paderborn 07,0,4,Greuther Furth,2.37,3.25,2.75,11-15 14:54,Live
+419,13,VfL Bochum,1,4,Ingolstadt,1.7,3.6,5,11-20 12:44,Live
+420,13,VfL Bochum,1,4,Ingolstadt,1.72,3.6,4.75,11-20 10:35,Live
+421,13,VfL Bochum,1,4,Ingolstadt,1.61,3.75,5.5,11-17 07:07,Live
+422,13,VfL Bochum,1,4,Ingolstadt,1.57,3.5,5.75,11-15 14:54,Live
+423,13,TSV 1860 Munchen,3,3,FSV Frankfurt,1.75,3.4,5,11-21 10:15,Live
+424,13,TSV 1860 Munchen,3,3,FSV Frankfurt,1.72,3.4,5.25,11-21 09:23,Live
+425,13,TSV 1860 Munchen,3,3,FSV Frankfurt,1.66,3.6,5.25,11-20 10:12,Live
+426,13,TSV 1860 Munchen,3,3,FSV Frankfurt,1.75,3.5,4.75,11-17 07:07,Live
+427,13,TSV 1860 Munchen,3,3,FSV Frankfurt,1.75,3.5,4.2,11-16 22:14,Live
+428,13,TSV 1860 Munchen,3,3,FSV Frankfurt,1.8,3.4,4,11-15 14:54,Live
+429,13,Erzgebirge Aue,2,1,Alemannia Aachen,2.5,3.2,2.87,11-21 07:19,Live
+430,13,Erzgebirge Aue,2,1,Alemannia Aachen,2.4,3.2,3,11-21 00:29,Live
+431,13,Erzgebirge Aue,2,1,Alemannia Aachen,2.25,3.2,3.2,11-17 07:18,Live
+432,13,Erzgebirge Aue,2,1,Alemannia Aachen,2.15,3.2,3.2,11-15 14:54,Live
+433,13,Augsburg,3,1,Karlsruher SC,1.57,3.8,6,11-17 07:07,Live
+434,13,Augsburg,3,1,Karlsruher SC,1.53,3.6,6,11-15 14:54,Live
+435,13,MSV Duisburg,2,2,Energie Cottbus,1.8,3.5,4.5,11-22 16:12,Live
+436,13,MSV Duisburg,2,2,Energie Cottbus,1.85,3.4,4.33,11-22 10:53,Live
+437,13,MSV Duisburg,2,2,Energie Cottbus,1.83,3.4,4.33,11-21 21:24,Live
+438,13,MSV Duisburg,2,2,Energie Cottbus,1.9,3.4,4,11-17 07:36,Live
+439,13,MSV Duisburg,2,2,Energie Cottbus,1.9,3.25,3.75,11-16 06:59,Live
+440,13,MSV Duisburg,2,2,Energie Cottbus,2,3.25,3.5,11-15 20:16,Live
+441,14,VfL Bochum,3,0,SC Paderborn 07,1.85,3.5,4,11-26 17:59,Live
+442,14,VfL Bochum,3,0,SC Paderborn 07,1.8,3.5,4.33,11-26 09:59,Live
+443,14,VfL Bochum,3,0,SC Paderborn 07,1.85,3.4,4.2,11-24 02:43,Live
+444,14,VfL Bochum,3,0,SC Paderborn 07,1.8,3.3,4.2,11-23 15:15,Live
+445,14,Arminia Bielefeld,0,2,Fortuna Dusseldorf,3.2,3.25,2.25,11-26 17:51,Live
+446,14,Arminia Bielefeld,0,2,Fortuna Dusseldorf,3.1,3.25,2.3,11-26 17:46,Live
+447,14,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.87,3.3,2.4,11-26 14:15,Live
+448,14,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.75,3.3,2.5,11-25 14:34,Live
+449,14,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.6,3.3,2.62,11-24 02:43,Live
+450,14,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.5,3.2,2.6,11-23 15:15,Live
+451,14,FSV Frankfurt,4,1,VfL Osnabruck,2.1,3.25,3.5,11-26 16:46,Live
+452,14,FSV Frankfurt,4,1,VfL Osnabruck,2,3.3,3.8,11-26 16:32,Live
+453,14,FSV Frankfurt,4,1,VfL Osnabruck,1.9,3.4,4,11-26 15:56,Live
+454,14,FSV Frankfurt,4,1,VfL Osnabruck,1.85,3.4,4.33,11-26 15:10,Live
+455,14,FSV Frankfurt,4,1,VfL Osnabruck,1.9,3.4,4,11-26 09:49,Live
+456,14,FSV Frankfurt,4,1,VfL Osnabruck,2,3.4,3.75,11-24 19:59,Live
+457,14,FSV Frankfurt,4,1,VfL Osnabruck,1.95,3.4,3.8,11-24 02:43,Live
+458,14,FSV Frankfurt,4,1,VfL Osnabruck,1.9,3.3,3.75,11-23 15:15,Live
+459,14,Hertha Berlin,0,2,MSV Duisburg,1.65,3.75,5.25,11-27 12:46,Live
+460,14,Hertha Berlin,0,2,MSV Duisburg,1.7,3.6,5,11-27 09:37,Live
+461,14,Hertha Berlin,0,2,MSV Duisburg,1.8,3.5,4.5,11-27 06:14,Live
+462,14,Hertha Berlin,0,2,MSV Duisburg,1.85,3.4,4.2,11-24 02:46,Live
+463,14,Hertha Berlin,0,2,MSV Duisburg,1.8,3.3,4.2,11-23 15:15,Live
+464,14,Alemannia Aachen,1,3,Augsburg,2.3,3.3,3,11-27 12:07,Live
+465,14,Alemannia Aachen,1,3,Augsburg,2.45,3.3,2.8,11-24 02:43,Live
+466,14,Alemannia Aachen,1,3,Augsburg,2.4,3.2,2.75,11-23 15:15,Live
+467,14,Ingolstadt,1,0,Union Berlin,2.1,3.4,3.4,11-27 12:32,Live
+468,14,Ingolstadt,1,0,Union Berlin,2.15,3.4,3.3,11-27 10:25,Live
+469,14,Ingolstadt,1,0,Union Berlin,2.25,3.4,3.1,11-27 09:37,Live
+470,14,Ingolstadt,1,0,Union Berlin,2.5,3.3,2.75,11-24 11:48,Live
+471,14,Ingolstadt,1,0,Union Berlin,2.55,3.3,2.7,11-24 02:46,Live
+472,14,Ingolstadt,1,0,Union Berlin,2.4,3.2,2.75,11-23 15:15,Live
+473,14,Energie Cottbus,6,0,Erzgebirge Aue,1.9,3.4,4,11-24 02:46,Live
+474,14,Energie Cottbus,6,0,Erzgebirge Aue,2,3.25,3.5,11-23 15:15,Live
+475,14,Karlsruher SC,4,0,Rot-Weiss Oberhausen,1.8,3.5,4.5,11-28 11:47,Live
+476,14,Karlsruher SC,4,0,Rot-Weiss Oberhausen,1.75,3.5,4.75,11-27 09:37,Live
+477,14,Karlsruher SC,4,0,Rot-Weiss Oberhausen,1.83,3.4,4.33,11-24 02:46,Live
+478,14,Karlsruher SC,4,0,Rot-Weiss Oberhausen,1.83,3.3,4,11-23 15:15,Live
+479,14,Greuther Furth,1,0,TSV 1860 Munchen,2.1,3.4,3.4,11-29 10:59,Live
+480,14,Greuther Furth,1,0,TSV 1860 Munchen,2.2,3.3,3.25,11-29 09:35,Live
+481,14,Greuther Furth,1,0,TSV 1860 Munchen,2.15,3.4,3.25,11-26 23:39,Live
+482,15,MSV Duisburg,1,3,FSV Frankfurt,1.53,3.8,6.5,12-03 14:57,Live
+483,15,MSV Duisburg,1,3,FSV Frankfurt,1.57,3.75,6,12-03 11:35,Live
+484,15,MSV Duisburg,1,3,FSV Frankfurt,1.61,3.75,5.5,12-02 08:20,Live
+485,15,MSV Duisburg,1,3,FSV Frankfurt,1.61,3.5,5,11-30 10:55,Live
+486,15,Rot-Weiss Oberhausen,1,2,Alemannia Aachen,3.1,3.4,2.25,12-03 17:23,Live
+487,15,Rot-Weiss Oberhausen,1,2,Alemannia Aachen,3.4,3.2,2.2,12-03 16:05,Live
+488,15,Rot-Weiss Oberhausen,1,2,Alemannia Aachen,3.2,3.25,2.25,12-03 14:57,Live
+489,15,Rot-Weiss Oberhausen,1,2,Alemannia Aachen,3.1,3.25,2.3,12-03 06:06,Live
+490,15,Rot-Weiss Oberhausen,1,2,Alemannia Aachen,2.9,3.25,2.4,12-02 08:20,Live
+491,15,Rot-Weiss Oberhausen,1,2,Alemannia Aachen,2.62,3.25,2.4,11-30 10:55,Live
+492,15,VfL Osnabruck,2,2,SC Paderborn 07,2.1,3.4,3.4,12-03 15:01,Live
+493,15,VfL Osnabruck,2,2,SC Paderborn 07,2.2,3.4,3.2,12-03 10:20,Live
+494,15,VfL Osnabruck,2,2,SC Paderborn 07,2.1,3.4,3.4,12-02 08:20,Live
+495,15,VfL Osnabruck,2,2,SC Paderborn 07,2.1,3.2,3.2,11-30 10:55,Live
+496,15,Arminia Bielefeld,1,4,Greuther Furth,3.8,3.5,1.9,12-04 11:04,Live
+497,15,Arminia Bielefeld,1,4,Greuther Furth,4.2,3.6,1.8,12-04 10:40,Live
+498,15,Arminia Bielefeld,1,4,Greuther Furth,4,3.6,1.85,12-04 10:15,Live
+499,15,Arminia Bielefeld,1,4,Greuther Furth,4.2,3.5,1.85,12-04 09:42,Live
+500,15,Arminia Bielefeld,1,4,Greuther Furth,3.6,3.4,2,12-02 08:11,Live
+501,15,Arminia Bielefeld,1,4,Greuther Furth,3.4,3.25,2,12-01 16:06,Live
+502,15,Arminia Bielefeld,1,4,Greuther Furth,3.2,3.2,2.1,11-30 10:55,Live
+503,15,Augsburg,4,0,Energie Cottbus,2,3.6,3.5,12-04 10:37,Live
+504,15,Augsburg,4,0,Energie Cottbus,1.9,3.6,3.75,12-02 08:11,Live
+505,15,Augsburg,4,0,Energie Cottbus,1.83,3.4,3.75,11-30 10:55,Live
+506,15,Fortuna Dusseldorf,1,0,Karlsruher SC,1.8,3.6,4.33,12-05 13:16,Live
+507,15,Fortuna Dusseldorf,1,0,Karlsruher SC,1.83,3.5,4.33,12-05 12:30,Live
+508,15,Fortuna Dusseldorf,1,0,Karlsruher SC,1.9,3.4,4,12-02 08:16,Live
+509,15,Fortuna Dusseldorf,1,0,Karlsruher SC,1.9,3.3,3.6,11-30 10:55,Live
+510,15,Erzgebirge Aue,1,1,Ingolstadt,2,3.3,3.75,12-05 11:39,Live
+511,15,Erzgebirge Aue,1,1,Ingolstadt,1.9,3.4,4,12-04 21:48,Live
+512,15,Erzgebirge Aue,1,1,Ingolstadt,1.95,3.5,3.8,12-03 13:06,Live
+513,15,Erzgebirge Aue,1,1,Ingolstadt,1.95,3.4,3.8,12-02 08:11,Live
+514,15,Erzgebirge Aue,1,1,Ingolstadt,1.9,3.3,3.6,11-30 10:54,Live
+515,15,TSV 1860 Munchen,1,0,Hertha Berlin,2.6,3.25,2.7,12-05 12:52,Live
+516,15,TSV 1860 Munchen,1,0,Hertha Berlin,2.75,3.3,2.5,12-05 11:29,Live
+517,15,TSV 1860 Munchen,1,0,Hertha Berlin,2.7,3.25,2.6,12-03 13:06,Live
+518,15,TSV 1860 Munchen,1,0,Hertha Berlin,2.62,3.25,2.62,12-02 07:36,Live
+519,15,TSV 1860 Munchen,1,0,Hertha Berlin,2.5,3.25,2.5,11-30 10:55,Live
+520,15,Union Berlin,0,1,VfL Bochum,2.3,3.4,3,12-06 19:57,Live
+521,15,Union Berlin,0,1,VfL Bochum,2.37,3.4,2.87,12-06 19:48,Live
+522,15,Union Berlin,0,1,VfL Bochum,2.25,3.4,3.1,12-06 17:11,Live
+523,15,Union Berlin,0,1,VfL Bochum,2.37,3.4,2.87,12-06 14:26,Live
+524,15,Union Berlin,0,1,VfL Bochum,2.5,3.2,2.8,12-06 04:09,Live
+525,15,Union Berlin,0,1,VfL Bochum,2.45,3.2,2.87,12-04 09:42,Live
+526,15,Union Berlin,0,1,VfL Bochum,2.5,3.2,2.8,12-02 08:20,Live
+527,15,Union Berlin,0,1,VfL Bochum,2.3,3.2,2.8,11-30 10:55,Live
+528,16,Karlsruher SC,1,0,Arminia Bielefeld,1.57,4.33,5,12-10 17:50,Live
+529,16,Karlsruher SC,1,0,Arminia Bielefeld,1.57,4,5.5,12-10 14:18,Live
+530,16,Karlsruher SC,1,0,Arminia Bielefeld,1.5,4,6.5,12-08 03:42,Live
+531,16,Karlsruher SC,1,0,Arminia Bielefeld,1.5,3.75,6,12-07 14:54,Live
+532,16,Greuther Furth,0,0,Rot-Weiss Oberhausen,1.36,5,7.5,12-10 17:50,Live
+533,16,Greuther Furth,0,0,Rot-Weiss Oberhausen,1.4,4.33,8.5,12-10 17:47,Live
+534,16,Greuther Furth,0,0,Rot-Weiss Oberhausen,1.4,4.33,9,12-10 14:42,Live
+535,16,Greuther Furth,0,0,Rot-Weiss Oberhausen,1.4,4.33,8.5,12-10 10:45,Live
+536,16,Greuther Furth,0,0,Rot-Weiss Oberhausen,1.44,4.2,7.5,12-08 03:42,Live
+537,16,Greuther Furth,0,0,Rot-Weiss Oberhausen,1.4,4,7.5,12-07 14:54,Live
+538,16,Alemannia Aachen,0,0,Fortuna Dusseldorf,2.1,3.25,3.6,12-10 13:43,Live
+539,16,Alemannia Aachen,0,0,Fortuna Dusseldorf,2,3.3,3.8,12-10 11:03,Live
+540,16,Alemannia Aachen,0,0,Fortuna Dusseldorf,1.9,3.4,4,12-08 03:42,Live
+541,16,Alemannia Aachen,0,0,Fortuna Dusseldorf,1.9,3.25,3.75,12-07 14:53,Live
+542,16,FSV Frankfurt,1,2,Augsburg,3.2,3.3,2.25,12-11 12:49,Live
+543,16,FSV Frankfurt,1,2,Augsburg,2.9,3.25,2.4,12-11 12:29,Live
+544,16,FSV Frankfurt,1,2,Augsburg,3,3.25,2.37,12-11 11:29,Live
+545,16,FSV Frankfurt,1,2,Augsburg,2.87,3.3,2.4,12-08 03:42,Live
+546,16,FSV Frankfurt,1,2,Augsburg,2.8,3.25,2.35,12-07 14:54,Live
+547,16,SC Paderborn 07,0,0,MSV Duisburg,3.75,3.4,1.95,12-11 12:49,Live
+548,16,SC Paderborn 07,0,0,MSV Duisburg,3.5,3.4,2.05,12-11 12:42,Live
+549,16,SC Paderborn 07,0,0,MSV Duisburg,3.3,3.4,2.15,12-11 12:27,Live
+550,16,SC Paderborn 07,0,0,MSV Duisburg,3.1,3.3,2.25,12-08 03:42,Live
+551,16,SC Paderborn 07,0,0,MSV Duisburg,3,3.2,2.25,12-07 14:54,Live
+552,16,Hertha Berlin,2,0,Erzgebirge Aue,1.61,3.6,6,12-12 11:38,Live
+553,16,Hertha Berlin,2,0,Erzgebirge Aue,1.55,3.75,6.5,12-12 10:47,Live
+554,16,Hertha Berlin,2,0,Erzgebirge Aue,1.5,3.75,7.5,12-12 07:27,Live
+555,16,Hertha Berlin,2,0,Erzgebirge Aue,1.53,3.75,7,12-11 09:36,Live
+556,16,Hertha Berlin,2,0,Erzgebirge Aue,1.57,3.75,6,12-08 03:45,Live
+557,16,Hertha Berlin,2,0,Erzgebirge Aue,1.53,3.6,6,12-07 14:54,Live
+558,16,Ingolstadt,1,1,TSV 1860 Munchen,2.75,3.3,2.5,12-12 11:56,Live
+559,16,Ingolstadt,1,1,TSV 1860 Munchen,2.5,3.3,2.75,12-12 10:55,Live
+560,16,Ingolstadt,1,1,TSV 1860 Munchen,2.4,3.3,2.87,12-11 09:50,Live
+561,16,Ingolstadt,1,1,TSV 1860 Munchen,2.6,3.3,2.62,12-08 03:42,Live
+562,16,Ingolstadt,1,1,TSV 1860 Munchen,2.5,3.25,2.6,12-07 14:54,Live
+563,16,VfL Bochum,2,1,VfL Osnabruck,1.7,3.5,5,12-08 03:42,Live
+564,16,VfL Bochum,2,1,VfL Osnabruck,1.7,3.5,4.5,12-07 14:54,Live
+565,16,Energie Cottbus,0,0,Union Berlin,1.7,3.6,5,12-13 18:13,Live
+566,16,Energie Cottbus,0,0,Union Berlin,1.72,3.6,4.75,12-13 14:28,Live
+567,16,Energie Cottbus,0,0,Union Berlin,1.66,3.75,5,12-13 13:02,Live
+568,16,Energie Cottbus,0,0,Union Berlin,1.7,3.75,5,12-13 05:48,Live
+569,16,Energie Cottbus,0,0,Union Berlin,1.7,3.75,4.75,12-11 13:34,Live
+570,16,Energie Cottbus,0,0,Union Berlin,1.75,3.6,4.5,12-11 09:50,Live
+571,16,Energie Cottbus,0,0,Union Berlin,1.8,3.5,4.5,12-10 10:21,Live
+572,16,Energie Cottbus,0,0,Union Berlin,1.72,3.5,5,12-08 03:45,Live
+573,16,Energie Cottbus,0,0,Union Berlin,1.72,3.5,4.33,12-07 14:54,Live
+574,17,MSV Duisburg,0,1,VfL Bochum,1.8,3.6,4.33,12-17 12:47,Live
+575,17,MSV Duisburg,0,1,VfL Bochum,1.8,3.5,4.5,12-17 07:39,Live
+576,17,MSV Duisburg,0,1,VfL Bochum,1.83,3.5,4.33,12-15 22:17,Live
+577,17,MSV Duisburg,0,1,VfL Bochum,1.8,3.4,4,12-13 15:08,Live
+578,17,Arminia Bielefeld,1,3,Alemannia Aachen,4,3.6,1.85,12-17 16:53,Live
+579,17,Arminia Bielefeld,1,3,Alemannia Aachen,4.75,3.75,1.7,12-17 12:30,Live
+580,17,Arminia Bielefeld,1,3,Alemannia Aachen,4.2,3.6,1.83,12-17 12:00,Live
+581,17,Arminia Bielefeld,1,3,Alemannia Aachen,3.6,3.5,2,12-15 22:14,Live
+582,17,Arminia Bielefeld,1,3,Alemannia Aachen,3.25,3.5,2,12-14 11:23,Live
+583,17,Arminia Bielefeld,1,3,Alemannia Aachen,2.87,3.3,2.25,12-13 15:08,Live
+584,17,Augsburg,1,1,Hertha Berlin,2.4,3.3,2.9,12-15 22:14,Live
+585,17,Augsburg,1,1,Hertha Berlin,2.3,3.25,2.8,12-13 15:08,Live
+586,17,Fortuna Dusseldorf,1,0,Greuther Furth,2.5,3.2,2.87,12-18 12:03,Live
+587,17,Fortuna Dusseldorf,1,0,Greuther Furth,2.37,3.25,3,12-18 10:33,Live
+588,17,Fortuna Dusseldorf,1,0,Greuther Furth,2.3,3.25,3.1,12-15 22:14,Live
+589,17,Fortuna Dusseldorf,1,0,Greuther Furth,2.25,3.25,2.9,12-13 15:08,Live
+590,17,Rot-Weiss Oberhausen,0,4,Energie Cottbus,3.25,3.3,2.2,12-16 10:26,Live
+591,17,Rot-Weiss Oberhausen,0,4,Energie Cottbus,3.2,3.3,2.25,12-15 22:17,Live
+592,17,Rot-Weiss Oberhausen,0,4,Energie Cottbus,2.8,3.25,2.3,12-14 15:57,Live
+593,17,Rot-Weiss Oberhausen,0,4,Energie Cottbus,2.75,3.2,2.37,12-13 15:08,Live
+594,17,VfL Osnabruck,2,1,Ingolstadt,2.25,3.3,3.2,12-15 22:17,Live
+595,17,VfL Osnabruck,2,1,Ingolstadt,2.2,3.25,3,12-13 15:08,Live
+596,17,TSV 1860 Munchen,0,1,SC Paderborn 07,1.61,3.6,6,12-19 12:26,Live
+597,17,TSV 1860 Munchen,0,1,SC Paderborn 07,1.66,3.5,5.5,12-19 10:10,Live
+598,17,TSV 1860 Munchen,0,1,SC Paderborn 07,1.72,3.5,5,12-15 22:14,Live
+599,17,TSV 1860 Munchen,0,1,SC Paderborn 07,1.66,3.5,4.75,12-13 22:01,Live
+600,17,TSV 1860 Munchen,0,1,SC Paderborn 07,1.7,3.5,4.5,12-13 15:08,Live
+601,17,Union Berlin,3,1,Karlsruher SC,1.9,3.5,4,12-20 17:55,Live
+602,17,Union Berlin,3,1,Karlsruher SC,2,3.4,3.75,12-20 08:31,Live
+603,17,Union Berlin,3,1,Karlsruher SC,2.05,3.4,3.5,12-15 22:17,Live
+604,17,Union Berlin,3,1,Karlsruher SC,2.1,3.25,3.25,12-13 20:16,Live
+605,17,Erzgebirge Aue,3,1,FSV Frankfurt,2.2,3.3,3.25,02-01 16:20,Live
+606,17,Erzgebirge Aue,3,1,FSV Frankfurt,2.1,3.3,3.5,01-31 16:47,Live
+607,18,Union Berlin,2,1,Alemannia Aachen,2.3,3.25,3.1,01-13 23:47,Live
+608,18,Union Berlin,2,1,Alemannia Aachen,2.37,3.25,3,01-11 05:15,Live
+609,18,Union Berlin,2,1,Alemannia Aachen,2.37,3.25,2.75,01-08 20:30,Live
+610,18,Karlsruher SC,1,1,Greuther Furth,2.6,3.3,2.62,01-14 16:22,Live
+611,18,Karlsruher SC,1,1,Greuther Furth,2.75,3.3,2.5,01-14 15:13,Live
+612,18,Karlsruher SC,1,1,Greuther Furth,2.6,3.3,2.62,01-14 14:35,Live
+613,18,Karlsruher SC,1,1,Greuther Furth,2.7,3.3,2.55,01-14 11:44,Live
+614,18,Karlsruher SC,1,1,Greuther Furth,2.87,3.3,2.4,01-13 20:04,Live
+615,18,Karlsruher SC,1,1,Greuther Furth,3,3.2,2.37,01-12 22:43,Live
+616,18,Karlsruher SC,1,1,Greuther Furth,2.8,3.2,2.5,01-11 19:44,Live
+617,18,Karlsruher SC,1,1,Greuther Furth,2.62,3.2,2.7,01-11 05:18,Live
+618,18,Karlsruher SC,1,1,Greuther Furth,2.5,3.2,2.62,01-10 17:22,Live
+619,18,Karlsruher SC,1,1,Greuther Furth,2.62,3.2,2.5,01-08 20:30,Live
+620,18,Fortuna Dusseldorf,3,1,Energie Cottbus,2.37,3.25,3,01-15 12:31,Live
+621,18,Fortuna Dusseldorf,3,1,Energie Cottbus,2.5,3.3,2.75,01-15 12:02,Live
+622,18,Fortuna Dusseldorf,3,1,Energie Cottbus,2.4,3.3,2.9,01-11 05:18,Live
+623,18,Fortuna Dusseldorf,3,1,Energie Cottbus,2.4,3.2,2.75,01-08 20:30,Live
+624,18,TSV 1860 Munchen,1,3,VfL Bochum,2.1,3.4,3.4,01-15 10:48,Live
+625,18,TSV 1860 Munchen,1,3,VfL Bochum,2.3,3.25,3.1,01-11 05:12,Live
+626,18,TSV 1860 Munchen,1,3,VfL Bochum,2.3,3.25,2.87,01-10 19:57,Live
+627,18,TSV 1860 Munchen,1,3,VfL Bochum,2.37,3.25,2.75,01-08 20:30,Live
+628,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.7,3.2,2.62,01-16 11:42,Live
+629,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.62,3.2,2.7,01-16 09:52,Live
+630,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.7,3.2,2.62,01-16 06:47,Live
+631,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.75,3.2,2.6,01-16 00:28,Live
+632,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.62,3.2,2.7,01-15 22:43,Live
+633,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.75,3.2,2.6,01-11 05:15,Live
+634,18,Arminia Bielefeld,1,1,FSV Frankfurt,2.62,3.2,2.5,01-09 13:32,Live
+635,18,MSV Duisburg,4,1,VfL Osnabruck,1.57,4,5.5,01-16 11:53,Live
+636,18,MSV Duisburg,4,1,VfL Osnabruck,1.61,3.8,5.5,01-16 10:32,Live
+637,18,MSV Duisburg,4,1,VfL Osnabruck,1.57,4,5.5,01-11 05:18,Live
+638,18,MSV Duisburg,4,1,VfL Osnabruck,1.53,3.8,5.5,01-09 13:32,Live
+639,18,Augsburg,2,0,Ingolstadt,1.61,3.75,5.5,01-13 09:15,Live
+640,18,Augsburg,2,0,Ingolstadt,1.57,4,5.5,01-11 05:15,Live
+641,18,Augsburg,2,0,Ingolstadt,1.53,3.8,5.5,01-09 13:32,Live
+642,18,Rot-Weiss Oberhausen,1,3,Hertha Berlin,4.75,3.5,1.75,01-17 18:27,Live
+643,18,Rot-Weiss Oberhausen,1,3,Hertha Berlin,5,3.6,1.7,01-17 08:36,Live
+644,18,Rot-Weiss Oberhausen,1,3,Hertha Berlin,4.75,3.5,1.75,01-11 05:18,Live
+645,18,Rot-Weiss Oberhausen,1,3,Hertha Berlin,4.5,3.4,1.72,01-10 20:16,Live
+646,18,Erzgebirge Aue,1,0,SC Paderborn 07,2.25,3.4,3.1,01-18 18:48,Live
+647,18,Erzgebirge Aue,1,0,SC Paderborn 07,2.2,3.4,3.2,01-18 18:45,Live
+648,18,Erzgebirge Aue,1,0,SC Paderborn 07,2.1,3.4,3.4,01-18 17:37,Live
+649,18,Erzgebirge Aue,1,0,SC Paderborn 07,2.05,3.4,3.4,01-18 03:20,Live
+650,19,Ingolstadt,1,1,MSV Duisburg,2.9,3.3,2.4,01-21 17:59,Live
+651,19,Ingolstadt,1,1,MSV Duisburg,2.8,3.25,2.5,01-21 12:51,Live
+652,19,Ingolstadt,1,1,MSV Duisburg,2.87,3.25,2.45,01-21 11:29,Live
+653,19,Ingolstadt,1,1,MSV Duisburg,3,3.25,2.37,01-21 11:24,Live
+654,19,Ingolstadt,1,1,MSV Duisburg,3.2,3.25,2.25,01-21 08:17,Live
+655,19,Ingolstadt,1,1,MSV Duisburg,3.25,3.25,2.2,01-20 02:25,Live
+656,19,Ingolstadt,1,1,MSV Duisburg,3.2,3.2,2.1,01-18 13:03,Live
+657,19,SC Paderborn 07,1,1,Augsburg,3,3.25,2.37,01-21 17:55,Live
+658,19,SC Paderborn 07,1,1,Augsburg,2.8,3.25,2.5,01-21 14:03,Live
+659,19,SC Paderborn 07,1,1,Augsburg,3,3.25,2.37,01-21 12:51,Live
+660,19,SC Paderborn 07,1,1,Augsburg,3.2,3.3,2.25,01-21 11:29,Live
+661,19,SC Paderborn 07,1,1,Augsburg,3.25,3.3,2.2,01-21 08:17,Live
+662,19,SC Paderborn 07,1,1,Augsburg,3.4,3.4,2.1,01-20 19:51,Live
+663,19,SC Paderborn 07,1,1,Augsburg,3.5,3.4,2.05,01-20 02:29,Live
+664,19,SC Paderborn 07,1,1,Augsburg,3.4,3.25,2,01-18 13:03,Live
+665,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.1,3.3,3.5,01-21 16:56,Live
+666,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.2,3.25,3.3,01-21 14:03,Live
+667,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.25,3.25,3.2,01-21 12:11,Live
+668,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.3,3.3,3.1,01-21 11:29,Live
+669,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.4,3.3,2.87,01-20 19:51,Live
+670,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.5,3.3,2.75,01-20 02:29,Live
+671,19,VfL Osnabruck,0,1,TSV 1860 Munchen,2.5,3.2,2.55,01-18 13:03,Live
+672,19,Energie Cottbus,2,1,Arminia Bielefeld,1.44,4.33,7,01-22 11:48,Live
+673,19,Energie Cottbus,2,1,Arminia Bielefeld,1.4,4.5,7.5,01-22 06:58,Live
+674,19,Energie Cottbus,2,1,Arminia Bielefeld,1.44,4.33,7,01-22 03:25,Live
+675,19,Energie Cottbus,2,1,Arminia Bielefeld,1.45,4.2,7,01-20 02:25,Live
+676,19,Energie Cottbus,2,1,Arminia Bielefeld,1.44,4,6.5,01-19 11:52,Live
+677,19,Energie Cottbus,2,1,Arminia Bielefeld,1.5,3.75,6,01-18 13:03,Live
+678,19,Alemannia Aachen,4,2,Karlsruher SC,1.83,3.5,4.33,01-22 12:56,Live
+679,19,Alemannia Aachen,4,2,Karlsruher SC,2,3.4,3.75,01-22 12:26,Live
+680,19,Alemannia Aachen,4,2,Karlsruher SC,2.05,3.4,3.6,01-22 12:05,Live
+681,19,Alemannia Aachen,4,2,Karlsruher SC,2,3.4,3.75,01-22 11:48,Live
+682,19,Alemannia Aachen,4,2,Karlsruher SC,1.8,3.5,4.33,01-22 03:25,Live
+683,19,Alemannia Aachen,4,2,Karlsruher SC,1.83,3.4,4.33,01-20 02:25,Live
+684,19,Alemannia Aachen,4,2,Karlsruher SC,1.8,3.3,4,01-18 13:07,Live
+685,19,Greuther Furth,1,0,Union Berlin,1.9,3.4,4,01-23 13:05,Live
+686,19,Greuther Furth,1,0,Union Berlin,1.85,3.4,4.33,01-20 02:29,Live
+687,19,Greuther Furth,1,0,Union Berlin,1.72,3.4,4.33,01-18 13:10,Live
+688,19,FSV Frankfurt,4,0,Rot-Weiss Oberhausen,1.66,3.8,5,01-23 10:39,Live
+689,19,FSV Frankfurt,4,0,Rot-Weiss Oberhausen,1.72,3.6,4.75,01-20 02:29,Live
+690,19,FSV Frankfurt,4,0,Rot-Weiss Oberhausen,1.66,3.5,4.5,01-18 13:07,Live
+691,19,Hertha Berlin,4,2,Fortuna Dusseldorf,1.61,3.8,5.5,01-23 10:58,Live
+692,19,Hertha Berlin,4,2,Fortuna Dusseldorf,1.53,4,6,01-23 10:41,Live
+693,19,Hertha Berlin,4,2,Fortuna Dusseldorf,1.55,3.9,6,01-20 02:29,Live
+694,19,Hertha Berlin,4,2,Fortuna Dusseldorf,1.5,3.75,6,01-18 13:07,Live
+695,19,VfL Bochum,2,0,Erzgebirge Aue,1.72,3.75,4.5,01-24 16:05,Live
+696,19,VfL Bochum,2,0,Erzgebirge Aue,1.66,3.75,5,01-24 13:30,Live
+697,19,VfL Bochum,2,0,Erzgebirge Aue,1.75,3.6,4.5,01-24 06:42,Live
+698,19,VfL Bochum,2,0,Erzgebirge Aue,1.8,3.5,4.2,01-23 23:36,Live
+699,19,VfL Bochum,2,0,Erzgebirge Aue,1.8,3.3,4,01-18 13:10,Live
+700,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.87,3.4,2.37,01-28 17:44,Live
+701,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,3,3.4,2.3,01-28 17:37,Live
+702,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.9,3.3,2.37,01-28 12:29,Live
+703,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.75,3.3,2.5,01-28 12:25,Live
+704,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.6,3.25,2.7,01-28 09:05,Live
+705,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.62,3.3,2.62,01-28 07:46,Live
+706,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.5,3.3,2.75,01-27 07:57,Live
+707,20,Rot-Weiss Oberhausen,1,1,Ingolstadt,2.5,3.25,2.6,01-25 11:38,Live
+708,20,Fortuna Dusseldorf,6,0,FSV Frankfurt,2,3.4,3.75,01-28 03:12,Live
+709,20,Fortuna Dusseldorf,6,0,FSV Frankfurt,1.9,3.4,4,01-27 07:57,Live
+710,20,Fortuna Dusseldorf,6,0,FSV Frankfurt,1.9,3.25,3.75,01-25 11:38,Live
+711,20,Erzgebirge Aue,0,1,VfL Osnabruck,1.85,3.4,4.33,01-28 04:44,Live
+712,20,Erzgebirge Aue,0,1,VfL Osnabruck,1.9,3.4,4,01-27 07:57,Live
+713,20,Erzgebirge Aue,0,1,VfL Osnabruck,1.83,3.3,4,01-25 11:37,Live
+714,20,Alemannia Aachen,2,2,Greuther Furth,2.37,3.25,3,01-27 07:57,Live
+715,20,Alemannia Aachen,2,2,Greuther Furth,2.1,3.25,3.25,01-25 11:38,Live
+716,20,TSV 1860 Munchen,1,1,MSV Duisburg,2.37,3.25,3,01-29 11:49,Live
+717,20,TSV 1860 Munchen,1,1,MSV Duisburg,2.5,3.2,2.87,01-27 07:53,Live
+718,20,TSV 1860 Munchen,1,1,MSV Duisburg,2.4,3.2,2.75,01-25 11:38,Live
+719,20,Arminia Bielefeld,1,3,Hertha Berlin,5.75,3.75,1.6,01-30 08:57,Live
+720,20,Arminia Bielefeld,1,3,Hertha Berlin,5.5,3.75,1.61,01-27 07:57,Live
+721,20,Arminia Bielefeld,1,3,Hertha Berlin,5,3.6,1.61,01-26 12:21,Live
+722,20,Arminia Bielefeld,1,3,Hertha Berlin,5,3.5,1.65,01-25 11:38,Live
+723,20,Union Berlin,0,2,SC Paderborn 07,1.83,3.5,4.33,01-28 21:38,Live
+724,20,Union Berlin,0,2,SC Paderborn 07,1.9,3.4,4,01-27 07:57,Live
+725,20,Union Berlin,0,2,SC Paderborn 07,1.83,3.3,4,01-26 23:51,Live
+726,20,Union Berlin,0,2,SC Paderborn 07,2,3.25,3.5,01-25 11:38,Live
+727,20,Karlsruher SC,1,0,Energie Cottbus,2.4,3.3,2.9,01-30 08:57,Live
+728,20,Karlsruher SC,1,0,Energie Cottbus,2.5,3.25,2.8,01-27 07:57,Live
+729,20,Karlsruher SC,1,0,Energie Cottbus,2.5,3.25,2.6,01-25 11:38,Live
+730,20,Augsburg,0,1,VfL Bochum,1.95,3.4,3.8,01-31 16:47,Live
+731,20,Augsburg,0,1,VfL Bochum,1.9,3.4,4,01-27 07:57,Live
+732,20,Augsburg,0,1,VfL Bochum,1.9,3.3,3.7,01-25 11:38,Live
+733,21,FSV Frankfurt,0,0,Greuther Furth,2.8,3.4,2.4,02-04 15:10,Live
+734,21,FSV Frankfurt,0,0,Greuther Furth,2.87,3.3,2.4,02-02 03:10,Live
+735,21,FSV Frankfurt,0,0,Greuther Furth,2.7,3.1,2.4,02-01 19:34,Live
+736,21,FSV Frankfurt,0,0,Greuther Furth,2.6,3.1,2.5,02-01 11:27,Live
+737,21,Energie Cottbus,3,3,Alemannia Aachen,1.8,3.5,4.5,02-04 17:23,Live
+738,21,Energie Cottbus,3,3,Alemannia Aachen,1.83,3.5,4.33,02-04 14:01,Live
+739,21,Energie Cottbus,3,3,Alemannia Aachen,1.9,3.4,4,02-04 09:27,Live
+740,21,Energie Cottbus,3,3,Alemannia Aachen,1.95,3.4,3.9,02-02 03:10,Live
+741,21,Energie Cottbus,3,3,Alemannia Aachen,1.95,3.3,3.5,02-01 20:06,Live
+742,21,Energie Cottbus,3,3,Alemannia Aachen,2,3.25,3.4,02-01 11:24,Live
+743,21,VfL Osnabruck,0,2,Augsburg,3.75,3.4,2,02-04 11:22,Live
+744,21,VfL Osnabruck,0,2,Augsburg,3.6,3.4,2.05,02-04 02:36,Live
+745,21,VfL Osnabruck,0,2,Augsburg,3.25,3.3,2.2,02-02 03:14,Live
+746,21,VfL Osnabruck,0,2,Augsburg,3,3.2,2.2,02-01 11:27,Live
+747,21,Hertha Berlin,1,2,Union Berlin,1.45,4,8,02-05 12:39,Live
+748,21,Hertha Berlin,1,2,Union Berlin,1.4,4.2,9,02-05 11:39,Live
+749,21,Hertha Berlin,1,2,Union Berlin,1.44,4.2,8,02-05 09:53,Live
+750,21,Hertha Berlin,1,2,Union Berlin,1.44,4.2,7.5,02-05 09:18,Live
+751,21,Hertha Berlin,1,2,Union Berlin,1.5,4,7,02-04 20:20,Live
+752,21,Hertha Berlin,1,2,Union Berlin,1.53,4,6,02-02 03:14,Live
+753,21,Hertha Berlin,1,2,Union Berlin,1.5,3.75,6,02-01 11:27,Live
+754,21,SC Paderborn 07,3,0,Karlsruher SC,2,3.5,3.5,02-05 10:49,Live
+755,21,SC Paderborn 07,3,0,Karlsruher SC,2.1,3.4,3.3,02-05 09:14,Live
+756,21,SC Paderborn 07,3,0,Karlsruher SC,2.05,3.4,3.5,02-02 03:14,Live
+757,21,SC Paderborn 07,3,0,Karlsruher SC,2,3.2,3.4,02-01 11:31,Live
+758,21,Ingolstadt,1,0,Arminia Bielefeld,1.72,3.6,4.75,02-06 12:56,Live
+759,21,Ingolstadt,1,0,Arminia Bielefeld,1.66,3.75,5,02-06 11:37,Live
+760,21,Ingolstadt,1,0,Arminia Bielefeld,1.61,3.8,5.5,02-02 03:14,Live
+761,21,Ingolstadt,1,0,Arminia Bielefeld,1.61,3.6,4.75,02-01 17:29,Live
+762,21,Ingolstadt,1,0,Arminia Bielefeld,1.66,3.5,4.5,02-01 11:31,Live
+763,21,MSV Duisburg,3,1,Erzgebirge Aue,1.61,3.8,5.5,02-06 10:49,Live
+764,21,MSV Duisburg,3,1,Erzgebirge Aue,1.65,3.75,5.25,02-02 03:14,Live
+765,21,MSV Duisburg,3,1,Erzgebirge Aue,1.61,3.5,5,02-01 11:31,Live
+766,21,VfL Bochum,2,1,Rot-Weiss Oberhausen,1.44,4.33,7,02-02 03:14,Live
+767,21,VfL Bochum,2,1,Rot-Weiss Oberhausen,1.4,4,7,02-01 11:31,Live
+768,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2.3,3.25,3.1,02-07 19:24,Live
+769,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2.25,3.3,3.2,02-07 18:28,Live
+770,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2.2,3.3,3.25,02-07 15:48,Live
+771,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2.15,3.4,3.3,02-07 14:44,Live
+772,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2.05,3.4,3.5,02-07 08:53,Live
+773,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2,3.4,3.7,02-02 03:20,Live
+774,21,TSV 1860 Munchen,1,1,Fortuna Dusseldorf,2,3.2,3.4,02-01 11:36,Live
+775,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.9,3.25,2.4,02-11 17:38,Live
+776,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.8,3.25,2.5,02-11 17:25,Live
+777,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.7,3.25,2.6,02-11 16:57,Live
+778,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.62,3.25,2.62,02-11 14:20,Live
+779,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.75,3.2,2.6,02-11 10:28,Live
+780,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.6,3.2,2.75,02-11 06:59,Live
+781,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.75,3.2,2.6,02-11 06:02,Live
+782,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.6,3.2,2.75,02-10 22:43,Live
+783,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.75,3.2,2.6,02-09 07:54,Live
+784,22,Rot-Weiss Oberhausen,2,0,SC Paderborn 07,2.7,3.2,2.37,02-08 14:30,Live
+785,22,Union Berlin,3,3,VfL Osnabruck,1.66,3.75,5,02-11 15:28,Live
+786,22,Union Berlin,3,3,VfL Osnabruck,1.72,3.5,5,02-11 03:19,Live
+787,22,Union Berlin,3,3,VfL Osnabruck,1.75,3.5,4.75,02-10 22:43,Live
+788,22,Union Berlin,3,3,VfL Osnabruck,1.8,3.5,4.5,02-09 07:54,Live
+789,22,Union Berlin,3,3,VfL Osnabruck,1.72,3.4,4.33,02-08 14:30,Live
+790,22,Augsburg,0,0,MSV Duisburg,2,3.3,3.8,02-09 07:49,Live
+791,22,Augsburg,0,0,MSV Duisburg,2,3.2,3.4,02-08 14:30,Live
+792,22,Greuther Furth,3,1,Energie Cottbus,2.15,3.4,3.25,02-12 12:48,Live
+793,22,Greuther Furth,3,1,Energie Cottbus,2,3.5,3.6,02-09 07:49,Live
+794,22,Greuther Furth,3,1,Energie Cottbus,2,3.2,3.4,02-08 14:30,Live
+795,22,Alemannia Aachen,2,1,FSV Frankfurt,1.75,3.5,4.75,02-12 08:17,Live
+796,22,Alemannia Aachen,2,1,FSV Frankfurt,1.8,3.5,4.5,02-11 16:50,Live
+797,22,Alemannia Aachen,2,1,FSV Frankfurt,1.83,3.5,4.33,02-09 21:30,Live
+798,22,Alemannia Aachen,2,1,FSV Frankfurt,1.9,3.4,4,02-09 07:49,Live
+799,22,Alemannia Aachen,2,1,FSV Frankfurt,1.9,3.3,3.6,02-08 14:30,Live
+800,22,Fortuna Dusseldorf,3,1,Ingolstadt,1.75,3.5,4.75,02-09 07:49,Live
+801,22,Fortuna Dusseldorf,3,1,Ingolstadt,1.66,3.6,4.5,02-08 14:30,Live
+802,22,Arminia Bielefeld,2,2,VfL Bochum,4.75,3.6,1.72,02-09 18:20,Live
+803,22,Arminia Bielefeld,2,2,VfL Bochum,4.33,3.5,1.83,02-09 07:49,Live
+804,22,Arminia Bielefeld,2,2,VfL Bochum,4.33,3.4,1.72,02-08 14:30,Live
+805,22,Karlsruher SC,2,6,Hertha Berlin,3.75,3.3,2,02-13 12:21,Live
+806,22,Karlsruher SC,2,6,Hertha Berlin,4,3.4,1.9,02-12 23:53,Live
+807,22,Karlsruher SC,2,6,Hertha Berlin,3.75,3.4,2,02-09 07:54,Live
+808,22,Karlsruher SC,2,6,Hertha Berlin,3.4,3.2,2,02-08 14:30,Live
+809,22,Erzgebirge Aue,1,0,TSV 1860 Munchen,2.4,3.25,2.9,02-14 13:48,Live
+810,22,Erzgebirge Aue,1,0,TSV 1860 Munchen,2.37,3.2,3,02-14 03:13,Live
+811,22,Erzgebirge Aue,1,0,TSV 1860 Munchen,2.3,3.2,3.2,02-09 07:49,Live
+812,22,Erzgebirge Aue,1,0,TSV 1860 Munchen,2.25,3.2,2.87,02-08 14:30,Live
+813,23,VfL Bochum,2,0,Fortuna Dusseldorf,2,3.6,3.5,02-18 15:20,Live
+814,23,VfL Bochum,2,0,Fortuna Dusseldorf,1.9,3.4,4,02-18 10:37,Live
+815,23,VfL Bochum,2,0,Fortuna Dusseldorf,1.85,3.4,4.33,02-17 18:00,Live
+816,23,VfL Bochum,2,0,Fortuna Dusseldorf,1.9,3.4,4,02-16 00:07,Live
+817,23,VfL Bochum,2,0,Fortuna Dusseldorf,1.83,3.25,4,02-15 17:20,Live
+818,23,TSV 1860 Munchen,0,2,Augsburg,3.2,3.25,2.25,02-18 17:55,Live
+819,23,TSV 1860 Munchen,0,2,Augsburg,3,3.25,2.37,02-18 17:14,Live
+820,23,TSV 1860 Munchen,0,2,Augsburg,2.8,3.25,2.5,02-18 10:37,Live
+821,23,TSV 1860 Munchen,0,2,Augsburg,2.62,3.25,2.62,02-18 01:04,Live
+822,23,TSV 1860 Munchen,0,2,Augsburg,2.5,3.25,2.8,02-17 22:01,Live
+823,23,TSV 1860 Munchen,0,2,Augsburg,2.5,3.4,2.7,02-16 00:07,Live
+824,23,TSV 1860 Munchen,0,2,Augsburg,2.4,3.25,2.62,02-15 17:20,Live
+825,23,Ingolstadt,0,2,Greuther Furth,2.7,3.2,2.62,02-18 17:14,Live
+826,23,Ingolstadt,0,2,Greuther Furth,2.62,3.2,2.7,02-18 15:25,Live
+827,23,Ingolstadt,0,2,Greuther Furth,2.7,3.4,2.5,02-16 00:07,Live
+828,23,Ingolstadt,0,2,Greuther Furth,2.6,3.1,2.5,02-15 21:38,Live
+829,23,Ingolstadt,0,2,Greuther Furth,2.62,3.1,2.5,02-15 17:20,Live
+830,23,MSV Duisburg,0,1,Union Berlin,1.66,3.75,5,02-16 00:07,Live
+831,23,MSV Duisburg,0,1,Union Berlin,1.66,3.5,4.5,02-15 17:20,Live
+832,23,SC Paderborn 07,1,3,Alemannia Aachen,2.2,3.4,3.2,02-19 11:35,Live
+833,23,SC Paderborn 07,1,3,Alemannia Aachen,2.37,3.4,2.87,02-19 09:44,Live
+834,23,SC Paderborn 07,1,3,Alemannia Aachen,2.45,3.4,2.75,02-16 00:11,Live
+835,23,SC Paderborn 07,1,3,Alemannia Aachen,2.37,3.2,2.7,02-15 17:20,Live
+836,23,VfL Osnabruck,3,1,Rot-Weiss Oberhausen,1.85,3.5,4.2,02-20 11:42,Live
+837,23,VfL Osnabruck,3,1,Rot-Weiss Oberhausen,1.8,3.6,4.33,02-16 00:11,Live
+838,23,VfL Osnabruck,3,1,Rot-Weiss Oberhausen,1.8,3.25,4.2,02-15 17:20,Live
+839,23,Erzgebirge Aue,3,0,Arminia Bielefeld,1.66,3.75,5,02-20 13:26,Live
+840,23,Erzgebirge Aue,3,0,Arminia Bielefeld,1.61,3.75,5.5,02-20 12:15,Live
+841,23,Erzgebirge Aue,3,0,Arminia Bielefeld,1.57,3.8,6,02-17 11:50,Live
+842,23,FSV Frankfurt,1,2,Karlsruher SC,2.05,3.4,3.5,02-20 12:19,Live
+843,23,FSV Frankfurt,1,2,Karlsruher SC,2,3.4,3.7,02-16 00:11,Live
+844,23,FSV Frankfurt,1,2,Karlsruher SC,2,3.25,3.4,02-15 17:20,Live
+845,23,Hertha Berlin,2,2,Energie Cottbus,1.53,4.33,5.5,02-21 15:38,Live
+846,23,Hertha Berlin,2,2,Energie Cottbus,1.57,4,5.5,02-21 09:31,Live
+847,23,Hertha Berlin,2,2,Energie Cottbus,1.55,4,5.75,02-21 06:49,Live
+848,23,Hertha Berlin,2,2,Energie Cottbus,1.61,3.8,5.25,02-16 00:11,Live
+849,23,Hertha Berlin,2,2,Energie Cottbus,1.61,3.6,4.75,02-15 17:20,Live
+850,24,Rot-Weiss Oberhausen,0,0,MSV Duisburg,4.2,3.6,1.83,02-25 17:55,Live
+851,24,Rot-Weiss Oberhausen,0,0,MSV Duisburg,4.33,3.6,1.8,02-25 16:34,Live
+852,24,Rot-Weiss Oberhausen,0,0,MSV Duisburg,4.33,3.5,1.83,02-25 10:43,Live
+853,24,Rot-Weiss Oberhausen,0,0,MSV Duisburg,4,3.4,1.9,02-23 08:19,Live
+854,24,Rot-Weiss Oberhausen,0,0,MSV Duisburg,3.6,3.3,1.9,02-23 00:26,Live
+855,24,Rot-Weiss Oberhausen,0,0,MSV Duisburg,3.4,3.25,2,02-22 09:54,Live
+856,24,Union Berlin,0,1,TSV 1860 Munchen,1.9,3.4,4,02-25 11:00,Live
+857,24,Union Berlin,0,1,TSV 1860 Munchen,2,3.4,3.8,02-25 10:43,Live
+858,24,Union Berlin,0,1,TSV 1860 Munchen,2.1,3.3,3.5,02-25 09:40,Live
+859,24,Union Berlin,0,1,TSV 1860 Munchen,2,3.4,3.75,02-23 08:19,Live
+860,24,Union Berlin,0,1,TSV 1860 Munchen,2.1,3.2,3.2,02-22 09:54,Live
+861,24,Energie Cottbus,2,1,FSV Frankfurt,1.57,4,5.5,02-25 16:18,Live
+862,24,Energie Cottbus,2,1,FSV Frankfurt,1.61,3.8,5.5,02-25 06:40,Live
+863,24,Energie Cottbus,2,1,FSV Frankfurt,1.66,3.75,5,02-23 08:14,Live
+864,24,Energie Cottbus,2,1,FSV Frankfurt,1.61,3.6,4.75,02-22 23:11,Live
+865,24,Energie Cottbus,2,1,FSV Frankfurt,1.66,3.6,4.5,02-22 21:19,Live
+866,24,Energie Cottbus,2,1,FSV Frankfurt,1.72,3.5,4.2,02-22 11:47,Live
+867,24,Energie Cottbus,2,1,FSV Frankfurt,1.66,3.5,4.5,02-22 11:29,Live
+868,24,Energie Cottbus,2,1,FSV Frankfurt,1.72,3.4,4.33,02-22 09:50,Live
+869,24,Alemannia Aachen,0,5,Hertha Berlin,2.87,3.4,2.37,02-25 13:40,Live
+870,24,Alemannia Aachen,0,5,Hertha Berlin,2.75,3.3,2.5,02-23 08:04,Live
+871,24,Alemannia Aachen,0,5,Hertha Berlin,2.8,3.2,2.3,02-22 09:54,Live
+872,24,Arminia Bielefeld,1,1,SC Paderborn 07,3.2,3.4,2.2,02-26 12:43,Live
+873,24,Arminia Bielefeld,1,1,SC Paderborn 07,2.87,3.4,2.37,02-26 09:30,Live
+874,24,Arminia Bielefeld,1,1,SC Paderborn 07,2.87,3.2,2.5,02-23 08:04,Live
+875,24,Arminia Bielefeld,1,1,SC Paderborn 07,2.87,3.1,2.3,02-22 09:59,Live
+876,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.6,3.75,5.75,02-27 13:23,Live
+877,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.61,3.75,5.5,02-27 10:44,Live
+878,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.57,3.8,5.75,02-27 08:33,Live
+879,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.66,3.75,5,02-23 08:14,Live
+880,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.61,3.6,4.75,02-23 00:22,Live
+881,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.66,3.5,4.5,02-22 15:27,Live
+882,24,Fortuna Dusseldorf,2,1,VfL Osnabruck,1.72,3.4,4.33,02-22 09:54,Live
+883,24,Greuther Furth,1,1,VfL Bochum,2.15,3.3,3.4,02-27 13:08,Live
+884,24,Greuther Furth,1,1,VfL Bochum,2.25,3.25,3.2,02-23 08:14,Live
+885,24,Greuther Furth,1,1,VfL Bochum,2.25,3.2,2.87,02-22 09:54,Live
+886,24,Karlsruher SC,1,4,Ingolstadt,2.2,3.4,3.2,02-27 13:23,Live
+887,24,Karlsruher SC,1,4,Ingolstadt,2.1,3.4,3.4,02-27 12:41,Live
+888,24,Karlsruher SC,1,4,Ingolstadt,2.05,3.4,3.5,02-27 11:55,Live
+889,24,Karlsruher SC,1,4,Ingolstadt,2,3.4,3.75,02-27 10:44,Live
+890,24,Karlsruher SC,1,4,Ingolstadt,1.95,3.5,3.8,02-27 08:43,Live
+891,24,Karlsruher SC,1,4,Ingolstadt,2.05,3.4,3.5,02-23 08:14,Live
+892,24,Karlsruher SC,1,4,Ingolstadt,1.9,3.3,3.6,02-22 09:59,Live
+893,24,Augsburg,2,1,Erzgebirge Aue,1.61,3.75,5.5,02-28 19:18,Live
+894,24,Augsburg,2,1,Erzgebirge Aue,1.66,3.6,5.25,02-28 16:56,Live
+895,24,Augsburg,2,1,Erzgebirge Aue,1.61,3.75,5.5,02-28 08:57,Live
+896,24,Augsburg,2,1,Erzgebirge Aue,1.57,3.8,6,02-26 10:37,Live
+897,24,Augsburg,2,1,Erzgebirge Aue,1.61,3.75,5.5,02-23 08:04,Live
+898,24,Augsburg,2,1,Erzgebirge Aue,1.61,3.5,5,02-22 09:59,Live
+899,25,VfL Osnabruck,0,2,Greuther Furth,2.87,3.4,2.37,03-04 17:38,Live
+900,25,VfL Osnabruck,0,2,Greuther Furth,3.2,3.4,2.2,03-04 16:24,Live
+901,25,VfL Osnabruck,0,2,Greuther Furth,3,3.4,2.3,03-04 16:15,Live
+902,25,VfL Osnabruck,0,2,Greuther Furth,2.9,3.4,2.37,03-04 10:17,Live
+903,25,VfL Osnabruck,0,2,Greuther Furth,2.8,3.4,2.4,03-04 01:18,Live
+904,25,VfL Osnabruck,0,2,Greuther Furth,2.7,3.2,2.4,02-28 19:21,Live
+905,25,VfL Osnabruck,0,2,Greuther Furth,2.6,3.2,2.5,02-28 15:31,Live
+906,25,Hertha Berlin,3,1,FSV Frankfurt,1.3,5,10,03-04 11:25,Live
+907,25,Hertha Berlin,3,1,FSV Frankfurt,1.36,4.75,8.5,03-04 01:15,Live
+908,25,Hertha Berlin,3,1,FSV Frankfurt,1.33,4.33,8.5,03-03 23:30,Live
+909,25,Hertha Berlin,3,1,FSV Frankfurt,1.3,4.5,10,03-01 21:00,Live
+910,25,Hertha Berlin,3,1,FSV Frankfurt,1.36,4.2,8,02-28 15:31,Live
+911,25,TSV 1860 Munchen,1,1,Rot-Weiss Oberhausen,1.57,3.75,6,03-04 17:52,Live
+912,25,TSV 1860 Munchen,1,1,Rot-Weiss Oberhausen,1.65,3.6,5.5,03-04 01:08,Live
+913,25,TSV 1860 Munchen,1,1,Rot-Weiss Oberhausen,1.57,3.6,5.25,03-02 17:45,Live
+914,25,TSV 1860 Munchen,1,1,Rot-Weiss Oberhausen,1.66,3.5,4.75,02-28 15:31,Live
+915,25,SC Paderborn 07,0,5,Energie Cottbus,2.37,3.3,2.9,03-05 09:14,Live
+916,25,SC Paderborn 07,0,5,Energie Cottbus,2.5,3.3,2.75,03-04 01:15,Live
+917,25,SC Paderborn 07,0,5,Energie Cottbus,2.5,3.2,2.6,02-28 15:31,Live
+918,25,VfL Bochum,1,1,Karlsruher SC,1.57,3.75,6,03-05 10:48,Live
+919,25,VfL Bochum,1,1,Karlsruher SC,1.53,3.8,6.5,03-05 08:59,Live
+920,25,VfL Bochum,1,1,Karlsruher SC,1.57,3.75,6,03-04 01:12,Live
+921,25,VfL Bochum,1,1,Karlsruher SC,1.53,3.6,6,03-01 21:00,Live
+922,25,VfL Bochum,1,1,Karlsruher SC,1.57,3.6,5.5,02-28 15:31,Live
+923,25,Erzgebirge Aue,0,0,Union Berlin,2.15,3.3,3.4,03-06 06:38,Live
+924,25,Erzgebirge Aue,0,0,Union Berlin,2.1,3.3,3.5,03-04 01:15,Live
+925,25,Erzgebirge Aue,0,0,Union Berlin,2.1,3.3,3.2,03-02 12:43,Live
+926,25,Erzgebirge Aue,0,0,Union Berlin,2,3.3,3.4,03-02 03:19,Live
+927,25,Erzgebirge Aue,0,0,Union Berlin,1.85,3.4,3.8,02-28 19:13,Live
+928,25,Erzgebirge Aue,0,0,Union Berlin,1.8,3.4,4,02-28 15:31,Live
+929,25,Ingolstadt,2,1,Alemannia Aachen,2.3,3.4,3,03-06 10:12,Live
+930,25,Ingolstadt,2,1,Alemannia Aachen,2.25,3.4,3.1,03-06 01:06,Live
+931,25,Ingolstadt,2,1,Alemannia Aachen,2.3,3.25,3.1,03-04 01:15,Live
+932,25,Ingolstadt,2,1,Alemannia Aachen,2.25,3.2,3,03-01 11:08,Live
+933,25,Ingolstadt,2,1,Alemannia Aachen,2.37,3.2,2.75,02-28 15:31,Live
+934,25,MSV Duisburg,1,2,Arminia Bielefeld,1.33,5,9,03-04 01:15,Live
+935,25,MSV Duisburg,1,2,Arminia Bielefeld,1.33,4.5,8,02-28 15:31,Live
+936,25,Augsburg,5,2,Fortuna Dusseldorf,1.7,3.75,5,03-07 20:09,Live
+937,25,Augsburg,5,2,Fortuna Dusseldorf,1.66,3.75,5,03-07 08:55,Live
+938,25,Augsburg,5,2,Fortuna Dusseldorf,1.72,3.5,5,03-04 01:12,Live
+939,25,Augsburg,5,2,Fortuna Dusseldorf,1.7,3.4,4.75,03-02 12:48,Live
+940,25,Augsburg,5,2,Fortuna Dusseldorf,1.66,3.4,5,02-28 20:15,Live
+941,26,Karlsruher SC,3,1,MSV Duisburg,2.9,3.3,2.4,03-09 08:21,Live
+942,26,Karlsruher SC,3,1,MSV Duisburg,2.87,3.2,2.3,03-09 06:54,Live
+943,26,Karlsruher SC,3,1,MSV Duisburg,2.62,3.2,2.5,03-07 06:25,Live
+944,26,FSV Frankfurt,1,2,Ingolstadt,2.4,3.25,2.9,03-11 09:10,Live
+945,26,FSV Frankfurt,1,2,Ingolstadt,2.37,3.25,3,03-09 22:34,Live
+946,26,FSV Frankfurt,1,2,Ingolstadt,2.3,3.3,3.1,03-09 08:17,Live
+947,26,FSV Frankfurt,1,2,Ingolstadt,2.25,3.2,3,03-08 23:22,Live
+948,26,FSV Frankfurt,1,2,Ingolstadt,2,3.25,3.5,03-08 09:54,Live
+949,26,FSV Frankfurt,1,2,Ingolstadt,1.83,3.3,4,03-07 06:25,Live
+950,26,Rot-Weiss Oberhausen,1,2,Erzgebirge Aue,2.62,3.2,2.7,03-09 08:21,Live
+951,26,Rot-Weiss Oberhausen,1,2,Erzgebirge Aue,2.4,3.1,2.8,03-07 06:25,Live
+952,26,Union Berlin,0,0,Augsburg,3,3.4,2.3,03-09 08:26,Live
+953,26,Union Berlin,0,0,Augsburg,2.87,3.25,2.25,03-08 21:44,Live
+954,26,Union Berlin,0,0,Augsburg,2.75,3.2,2.37,03-08 17:46,Live
+955,26,Union Berlin,0,0,Augsburg,2.62,3.2,2.5,03-07 06:25,Live
+956,26,Fortuna Dusseldorf,0,0,SC Paderborn 07,1.7,3.6,5,03-10 19:22,Live
+957,26,Fortuna Dusseldorf,0,0,SC Paderborn 07,1.75,3.5,4.75,03-09 08:17,Live
+958,26,Fortuna Dusseldorf,0,0,SC Paderborn 07,1.72,3.5,4.33,03-07 06:25,Live
+959,26,Alemannia Aachen,1,3,VfL Bochum,2.4,3.4,2.8,03-13 12:45,Live
+960,26,Alemannia Aachen,1,3,VfL Bochum,2.4,3.3,2.9,03-12 04:13,Live
+961,26,Alemannia Aachen,1,3,VfL Bochum,2.3,3.4,3,03-09 13:15,Live
+962,26,Alemannia Aachen,1,3,VfL Bochum,2.4,3.3,2.9,03-09 08:17,Live
+963,26,Alemannia Aachen,1,3,VfL Bochum,2.3,3.2,2.87,03-07 13:29,Live
+964,26,Alemannia Aachen,1,3,VfL Bochum,2.5,3.2,2.62,03-07 06:23,Live
+965,26,Arminia Bielefeld,0,3,TSV 1860 Munchen,2.7,3.2,2.6,03-13 13:18,Live
+966,26,Arminia Bielefeld,0,3,TSV 1860 Munchen,2.8,3.2,2.5,03-13 13:09,Live
+967,26,Arminia Bielefeld,0,3,TSV 1860 Munchen,3.1,3.3,2.3,03-13 08:11,Live
+968,26,Arminia Bielefeld,0,3,TSV 1860 Munchen,3.25,3.3,2.2,03-09 08:17,Live
+969,26,Arminia Bielefeld,0,3,TSV 1860 Munchen,3,3.2,2.25,03-07 06:23,Live
+970,26,Energie Cottbus,2,0,VfL Osnabruck,1.5,4.2,6,03-11 06:26,Live
+971,26,Energie Cottbus,2,0,VfL Osnabruck,1.57,4,5.5,03-09 08:17,Live
+972,26,Energie Cottbus,2,0,VfL Osnabruck,1.53,3.8,5.5,03-07 06:25,Live
+973,26,Greuther Furth,0,2,Hertha Berlin,2.8,3.25,2.5,03-14 20:08,Live
+974,26,Greuther Furth,0,2,Hertha Berlin,2.87,3.3,2.4,03-14 13:12,Live
+975,26,Greuther Furth,0,2,Hertha Berlin,2.8,3.25,2.5,03-09 08:17,Live
+976,26,Greuther Furth,0,2,Hertha Berlin,2.7,3.2,2.4,03-07 20:17,Live
+977,27,MSV Duisburg,1,0,Fortuna Dusseldorf,2.1,3.4,3.4,03-18 16:59,Live
+978,27,MSV Duisburg,1,0,Fortuna Dusseldorf,2,3.4,3.75,03-18 11:15,Live
+979,27,MSV Duisburg,1,0,Fortuna Dusseldorf,1.95,3.4,3.75,03-18 11:00,Live
+980,27,MSV Duisburg,1,0,Fortuna Dusseldorf,1.85,3.4,4.2,03-17 06:45,Live
+981,27,MSV Duisburg,1,0,Fortuna Dusseldorf,1.8,3.25,4.2,03-14 11:38,Live
+982,27,Ingolstadt,1,1,Hertha Berlin,3.75,3.5,1.9,03-18 11:15,Live
+983,27,Ingolstadt,1,1,Hertha Berlin,3.6,3.4,2,03-18 01:19,Live
+984,27,Ingolstadt,1,1,Hertha Berlin,4,3.4,1.9,03-17 06:42,Live
+985,27,Ingolstadt,1,1,Hertha Berlin,4,3.25,1.83,03-14 11:37,Live
+986,27,TSV 1860 Munchen,5,1,Karlsruher SC,1.95,3.5,3.8,03-18 17:26,Live
+987,27,TSV 1860 Munchen,5,1,Karlsruher SC,2,3.4,3.75,03-18 17:22,Live
+988,27,TSV 1860 Munchen,5,1,Karlsruher SC,2.2,3.3,3.3,03-18 11:20,Live
+989,27,TSV 1860 Munchen,5,1,Karlsruher SC,2,3.4,3.75,03-18 09:25,Live
+990,27,TSV 1860 Munchen,5,1,Karlsruher SC,1.95,3.4,3.8,03-17 06:38,Live
+991,27,TSV 1860 Munchen,5,1,Karlsruher SC,1.9,3.25,3.6,03-16 17:06,Live
+992,27,TSV 1860 Munchen,5,1,Karlsruher SC,1.8,3.3,4,03-15 14:28,Live
+993,27,TSV 1860 Munchen,5,1,Karlsruher SC,1.72,3.4,4.33,03-14 11:38,Live
+994,27,VfL Osnabruck,1,3,Alemannia Aachen,2.5,3.3,2.75,03-19 09:35,Live
+995,27,VfL Osnabruck,1,3,Alemannia Aachen,2.4,3.3,2.8,03-19 07:21,Live
+996,27,VfL Osnabruck,1,3,Alemannia Aachen,2.5,3.3,2.75,03-17 06:49,Live
+997,27,VfL Osnabruck,1,3,Alemannia Aachen,2.37,3.2,2.7,03-14 11:38,Live
+998,27,Augsburg,2,0,Rot-Weiss Oberhausen,1.33,5,8.5,03-19 09:35,Live
+999,27,Augsburg,2,0,Rot-Weiss Oberhausen,1.33,5,8,03-17 06:45,Live
+1000,27,Augsburg,2,0,Rot-Weiss Oberhausen,1.33,4.5,7.5,03-14 11:38,Live
+1001,27,SC Paderborn 07,2,2,FSV Frankfurt,2.05,3.25,3.6,03-20 09:31,Live
+1002,27,SC Paderborn 07,2,2,FSV Frankfurt,1.95,3.4,3.8,03-20 06:11,Live
+1003,27,SC Paderborn 07,2,2,FSV Frankfurt,1.9,3.4,4,03-19 09:35,Live
+1004,27,SC Paderborn 07,2,2,FSV Frankfurt,1.83,3.6,4.2,03-17 06:53,Live
+1005,27,SC Paderborn 07,2,2,FSV Frankfurt,1.83,3.4,3.8,03-15 22:02,Live
+1006,27,SC Paderborn 07,2,2,FSV Frankfurt,1.9,3.3,3.6,03-15 10:10,Live
+1007,27,SC Paderborn 07,2,2,FSV Frankfurt,2,3.25,3.4,03-14 11:38,Live
+1008,27,Erzgebirge Aue,0,0,Greuther Furth,2.4,3.3,2.87,03-17 16:38,Live
+1009,27,Erzgebirge Aue,0,0,Greuther Furth,2.5,3.3,2.75,03-17 06:49,Live
+1010,27,Erzgebirge Aue,0,0,Greuther Furth,2.5,3.2,2.55,03-15 22:06,Live
+1011,27,Erzgebirge Aue,0,0,Greuther Furth,2.37,3.2,2.7,03-14 11:38,Live
+1012,27,Union Berlin,2,2,Arminia Bielefeld,1.53,4,6,03-17 06:53,Live
+1013,27,Union Berlin,2,2,Arminia Bielefeld,1.5,3.8,5.75,03-14 23:28,Live
+1014,27,Union Berlin,2,2,Arminia Bielefeld,1.57,3.75,5,03-14 11:38,Live
+1015,27,VfL Bochum,1,0,Energie Cottbus,1.9,3.6,3.75,03-21 20:10,Live
+1016,27,VfL Bochum,1,0,Energie Cottbus,2,3.5,3.6,03-21 19:51,Live
+1017,27,VfL Bochum,1,0,Energie Cottbus,2.05,3.4,3.5,03-17 06:53,Live
+1018,27,VfL Bochum,1,0,Energie Cottbus,1.95,3.3,3.5,03-16 01:04,Live
+1019,27,VfL Bochum,1,0,Energie Cottbus,2,3.25,3.4,03-15 17:23,Live
+1020,28,Arminia Bielefeld,0,2,Augsburg,6.5,3.8,1.53,04-01 06:08,Live
+1021,28,Arminia Bielefeld,0,2,Augsburg,5.5,3.7,1.61,03-30 02:45,Live
+1022,28,Arminia Bielefeld,0,2,Augsburg,5.25,3.5,1.61,03-25 18:02,Live
+1023,28,Energie Cottbus,1,2,Ingolstadt,1.66,3.75,5,04-01 09:32,Live
+1024,28,Energie Cottbus,1,2,Ingolstadt,1.72,3.6,4.75,03-31 14:41,Live
+1025,28,Energie Cottbus,1,2,Ingolstadt,1.66,3.7,5,03-30 02:50,Live
+1026,28,Energie Cottbus,1,2,Ingolstadt,1.7,3.6,4.33,03-29 11:53,Live
+1027,28,Energie Cottbus,1,2,Ingolstadt,1.75,3.5,4.2,03-25 18:02,Live
+1028,28,Karlsruher SC,2,2,VfL Osnabruck,1.83,3.5,4.2,04-01 14:04,Live
+1029,28,Karlsruher SC,2,2,VfL Osnabruck,1.9,3.5,4,04-01 12:57,Live
+1030,28,Karlsruher SC,2,2,VfL Osnabruck,1.83,3.6,4.2,03-30 02:50,Live
+1031,28,Karlsruher SC,2,2,VfL Osnabruck,1.83,3.3,4,03-25 18:02,Live
+1032,28,Fortuna Dusseldorf,3,0,Erzgebirge Aue,1.9,3.5,3.9,03-30 02:50,Live
+1033,28,Fortuna Dusseldorf,3,0,Erzgebirge Aue,1.9,3.4,3.6,03-28 18:39,Live
+1034,28,Fortuna Dusseldorf,3,0,Erzgebirge Aue,1.95,3.3,3.6,03-26 13:01,Live
+1035,28,Greuther Furth,2,1,MSV Duisburg,1.9,3.6,3.75,04-02 12:59,Live
+1036,28,Greuther Furth,2,1,MSV Duisburg,2,3.5,3.6,03-31 15:38,Live
+1037,28,Greuther Furth,2,1,MSV Duisburg,2.1,3.4,3.4,03-30 02:50,Live
+1038,28,Greuther Furth,2,1,MSV Duisburg,2.1,3.2,3.25,03-26 13:01,Live
+1039,28,Rot-Weiss Oberhausen,0,2,Union Berlin,2.6,3.25,2.7,04-03 11:57,Live
+1040,28,Rot-Weiss Oberhausen,0,2,Union Berlin,2.7,3.25,2.6,03-31 14:41,Live
+1041,28,Rot-Weiss Oberhausen,0,2,Union Berlin,2.75,3.3,2.5,03-30 02:50,Live
+1042,28,Rot-Weiss Oberhausen,0,2,Union Berlin,2.8,3,2.5,03-27 13:34,Live
+1043,28,Alemannia Aachen,2,1,TSV 1860 Munchen,2.15,3.4,3.4,04-03 11:57,Live
+1044,28,Alemannia Aachen,2,1,TSV 1860 Munchen,2.1,3.4,3.4,04-03 09:35,Live
+1045,28,Alemannia Aachen,2,1,TSV 1860 Munchen,2.05,3.4,3.5,03-30 02:50,Live
+1046,28,Alemannia Aachen,2,1,TSV 1860 Munchen,2,3.25,3.5,03-27 13:34,Live
+1047,28,Hertha Berlin,2,0,SC Paderborn 07,1.33,5,8.5,03-30 02:50,Live
+1048,28,Hertha Berlin,2,0,SC Paderborn 07,1.33,4.33,8.5,03-28 05:14,Live
+1049,28,Hertha Berlin,2,0,SC Paderborn 07,1.36,4.2,8,03-27 13:34,Live
+1050,28,FSV Frankfurt,0,1,VfL Bochum,4,3.4,1.9,04-04 20:11,Live
+1051,28,FSV Frankfurt,0,1,VfL Bochum,3.8,3.4,1.95,04-04 19:47,Live
+1052,28,FSV Frankfurt,0,1,VfL Bochum,3.6,3.4,2,04-04 18:01,Live
+1053,28,FSV Frankfurt,0,1,VfL Bochum,3.5,3.4,2.05,04-04 12:46,Live
+1054,28,FSV Frankfurt,0,1,VfL Bochum,3.75,3.4,1.95,04-04 09:16,Live
+1055,28,FSV Frankfurt,0,1,VfL Bochum,3.4,3.4,2.05,04-01 19:06,Live
+1056,28,FSV Frankfurt,0,1,VfL Bochum,3.3,3.3,2.15,03-30 02:54,Live
+1057,28,FSV Frankfurt,0,1,VfL Bochum,3.1,3.25,2.15,03-29 11:53,Live
+1058,28,FSV Frankfurt,0,1,VfL Bochum,3,3.2,2.25,03-28 20:17,Live
+1059,29,VfL Osnabruck,0,0,Arminia Bielefeld,1.65,3.75,5.25,04-08 12:41,Live
+1060,29,VfL Osnabruck,0,0,Arminia Bielefeld,1.66,3.75,5,04-08 12:03,Live
+1061,29,VfL Osnabruck,0,0,Arminia Bielefeld,1.65,3.6,5.5,04-08 07:54,Live
+1062,29,VfL Osnabruck,0,0,Arminia Bielefeld,1.61,3.75,5.5,04-07 06:49,Live
+1063,29,VfL Osnabruck,0,0,Arminia Bielefeld,1.61,3.6,5,04-05 17:19,Live
+1064,29,VfL Osnabruck,0,0,Arminia Bielefeld,1.65,3.5,5,04-05 09:47,Live
+1065,29,Augsburg,0,0,Greuther Furth,1.9,3.4,4,04-07 06:45,Live
+1066,29,Augsburg,0,0,Greuther Furth,1.83,3.3,4,04-05 09:47,Live
+1067,29,MSV Duisburg,3,2,Alemannia Aachen,2.2,3.5,3.1,04-08 17:42,Live
+1068,29,MSV Duisburg,3,2,Alemannia Aachen,2.1,3.5,3.25,04-08 11:57,Live
+1069,29,MSV Duisburg,3,2,Alemannia Aachen,2.1,3.4,3.4,04-07 06:45,Live
+1070,29,MSV Duisburg,3,2,Alemannia Aachen,2.1,3.25,3.25,04-05 09:47,Live
+1071,29,TSV 1860 Munchen,4,0,Energie Cottbus,2,3.75,3.4,04-09 12:59,Live
+1072,29,TSV 1860 Munchen,4,0,Energie Cottbus,2.2,3.4,3.2,04-09 10:31,Live
+1073,29,TSV 1860 Munchen,4,0,Energie Cottbus,2.3,3.4,3,04-07 06:45,Live
+1074,29,TSV 1860 Munchen,4,0,Energie Cottbus,2.25,3.2,3,04-05 09:47,Live
+1075,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,3.75,3.3,2,04-09 12:29,Live
+1076,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,3.5,3.4,2.1,04-09 12:23,Live
+1077,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,3.1,3.4,2.25,04-09 10:55,Live
+1078,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,2.9,3.3,2.4,04-09 10:44,Live
+1079,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,2.8,3.25,2.5,04-07 06:45,Live
+1080,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,2.7,3.2,2.4,04-05 20:49,Live
+1081,29,Rot-Weiss Oberhausen,1,2,Fortuna Dusseldorf,2.62,3.2,2.5,04-05 09:47,Live
+1082,29,Union Berlin,2,0,FSV Frankfurt,1.8,3.5,4.5,04-10 12:01,Live
+1083,29,Union Berlin,2,0,FSV Frankfurt,1.83,3.5,4.33,04-07 06:49,Live
+1084,29,Union Berlin,2,0,FSV Frankfurt,1.83,3.3,4,04-05 09:47,Live
+1085,29,Erzgebirge Aue,1,1,Karlsruher SC,2.3,3.25,3.1,04-10 13:08,Live
+1086,29,Erzgebirge Aue,1,1,Karlsruher SC,2.2,3.25,3.25,04-10 11:28,Live
+1087,29,Erzgebirge Aue,1,1,Karlsruher SC,2.15,3.25,3.4,04-10 09:51,Live
+1088,29,Erzgebirge Aue,1,1,Karlsruher SC,2.2,3.25,3.25,04-07 06:45,Live
+1089,29,Erzgebirge Aue,1,1,Karlsruher SC,2.1,3.25,3.25,04-05 09:47,Live
+1090,29,SC Paderborn 07,1,1,Ingolstadt,2.5,3.25,2.8,04-07 06:45,Live
+1091,29,SC Paderborn 07,1,1,Ingolstadt,2.5,3.2,2.62,04-05 09:47,Live
+1092,29,VfL Bochum,0,2,Hertha Berlin,2.8,3.25,2.5,04-11 19:44,Live
+1093,29,VfL Bochum,0,2,Hertha Berlin,2.87,3.3,2.4,04-11 18:27,Live
+1094,29,VfL Bochum,0,2,Hertha Berlin,2.8,3.25,2.5,04-11 11:13,Live
+1095,29,VfL Bochum,0,2,Hertha Berlin,2.7,3.25,2.6,04-11 02:46,Live
+1096,29,VfL Bochum,0,2,Hertha Berlin,2.62,3.2,2.5,04-08 01:13,Live
+1097,29,VfL Bochum,0,2,Hertha Berlin,2.5,3.2,2.62,04-05 09:47,Live
+1098,30,Ingolstadt,3,0,VfL Bochum,2.37,3.4,2.87,04-15 17:21,Live
+1099,30,Ingolstadt,3,0,VfL Bochum,2.2,3.4,3.2,04-15 14:07,Live
+1100,30,Ingolstadt,3,0,VfL Bochum,2.4,3.3,2.87,04-15 13:51,Live
+1101,30,Ingolstadt,3,0,VfL Bochum,2.5,3.3,2.8,04-15 11:17,Live
+1102,30,Ingolstadt,3,0,VfL Bochum,2.62,3.3,2.62,04-15 09:38,Live
+1103,30,Ingolstadt,3,0,VfL Bochum,2.55,3.4,2.7,04-14 22:34,Live
+1104,30,Ingolstadt,3,0,VfL Bochum,2.7,3.4,2.5,04-12 05:45,Live
+1105,30,FSV Frankfurt,2,1,TSV 1860 Munchen,3,3.5,2.25,04-15 15:15,Live
+1106,30,FSV Frankfurt,2,1,TSV 1860 Munchen,3.3,3.6,2.1,04-15 14:07,Live
+1107,30,FSV Frankfurt,2,1,TSV 1860 Munchen,3,3.5,2.25,04-15 12:11,Live
+1108,30,FSV Frankfurt,2,1,TSV 1860 Munchen,2.87,3.4,2.37,04-15 09:19,Live
+1109,30,FSV Frankfurt,2,1,TSV 1860 Munchen,2.87,3.4,2.4,04-14 22:39,Live
+1110,30,FSV Frankfurt,2,1,TSV 1860 Munchen,2.9,3.4,2.37,04-13 08:30,Live
+1111,30,FSV Frankfurt,2,1,TSV 1860 Munchen,2.87,3.4,2.37,04-13 08:09,Live
+1112,30,FSV Frankfurt,2,1,TSV 1860 Munchen,2.7,3.4,2.5,04-12 05:45,Live
+1113,30,Fortuna Dusseldorf,3,0,Union Berlin,1.9,3.5,4,04-15 17:26,Live
+1114,30,Fortuna Dusseldorf,3,0,Union Berlin,1.85,3.5,4.2,04-15 09:41,Live
+1115,30,Fortuna Dusseldorf,3,0,Union Berlin,1.9,3.5,3.9,04-12 05:45,Live
+1116,30,Hertha Berlin,4,0,VfL Osnabruck,1.25,5.5,11,04-12 05:45,Live
+1117,30,Energie Cottbus,3,1,MSV Duisburg,1.9,3.5,3.75,04-16 12:25,Live
+1118,30,Energie Cottbus,3,1,MSV Duisburg,2,3.5,3.5,04-16 11:20,Live
+1119,30,Energie Cottbus,3,1,MSV Duisburg,2.05,3.5,3.3,04-16 11:13,Live
+1120,30,Energie Cottbus,3,1,MSV Duisburg,2.1,3.5,3.2,04-16 10:58,Live
+1121,30,Energie Cottbus,3,1,MSV Duisburg,2.2,3.4,3.1,04-16 06:07,Live
+1122,30,Energie Cottbus,3,1,MSV Duisburg,2.37,3.4,2.87,04-12 05:45,Live
+1123,30,Greuther Furth,2,0,SC Paderborn 07,1.53,4,6,04-17 09:07,Live
+1124,30,Greuther Furth,2,0,SC Paderborn 07,1.57,4,5.5,04-12 05:45,Live
+1125,30,Alemannia Aachen,1,5,Erzgebirge Aue,1.83,3.8,3.8,04-17 12:56,Live
+1126,30,Alemannia Aachen,1,5,Erzgebirge Aue,1.85,3.6,4.1,04-17 09:20,Live
+1127,30,Alemannia Aachen,1,5,Erzgebirge Aue,1.9,3.5,3.9,04-12 05:45,Live
+1128,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.5,3.4,2.7,04-17 13:29,Live
+1129,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.37,3.4,2.8,04-17 13:13,Live
+1130,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.25,3.4,3,04-17 12:30,Live
+1131,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.37,3.3,2.9,04-17 09:07,Live
+1132,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.3,3.4,3,04-15 22:56,Live
+1133,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.37,3.4,2.9,04-14 08:43,Live
+1134,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.45,3.4,2.8,04-13 08:30,Live
+1135,30,Arminia Bielefeld,3,3,Rot-Weiss Oberhausen,2.5,3.4,2.7,04-12 05:45,Live
+1136,30,Karlsruher SC,0,1,Augsburg,3.8,3.5,1.9,04-18 10:52,Live
+1137,30,Karlsruher SC,0,1,Augsburg,3.6,3.4,2,04-14 22:34,Live
+1138,30,Karlsruher SC,0,1,Augsburg,3.4,3.4,2.1,04-12 05:45,Live
+1139,31,SC Paderborn 07,0,0,VfL Bochum,2.87,3.4,2.4,04-21 17:50,Live
+1140,31,SC Paderborn 07,0,0,VfL Bochum,3,3.4,2.3,04-21 17:10,Live
+1141,31,SC Paderborn 07,0,0,VfL Bochum,3.3,3.25,2.15,04-21 13:55,Live
+1142,31,SC Paderborn 07,0,0,VfL Bochum,3.6,3.3,2.05,04-21 12:58,Live
+1143,31,SC Paderborn 07,0,0,VfL Bochum,3.5,3.3,2.1,04-21 12:54,Live
+1144,31,SC Paderborn 07,0,0,VfL Bochum,3.75,3.3,2,04-21 12:48,Live
+1145,31,SC Paderborn 07,0,0,VfL Bochum,3.5,3.25,2.1,04-21 09:39,Live
+1146,31,SC Paderborn 07,0,0,VfL Bochum,3.2,3.25,2.25,04-21 01:16,Live
+1147,31,SC Paderborn 07,0,0,VfL Bochum,3.1,3.25,2.3,04-21 00:51,Live
+1148,31,SC Paderborn 07,0,0,VfL Bochum,2.87,3.2,2.25,04-18 21:43,Live
+1149,31,Erzgebirge Aue,1,2,Energie Cottbus,2.25,3.4,3.1,04-21 17:54,Live
+1150,31,Erzgebirge Aue,1,2,Energie Cottbus,2.1,3.4,3.4,04-21 16:09,Live
+1151,31,Erzgebirge Aue,1,2,Energie Cottbus,2.2,3.4,3.2,04-21 12:53,Live
+1152,31,Erzgebirge Aue,1,2,Energie Cottbus,2.1,3.4,3.4,04-21 11:01,Live
+1153,31,Erzgebirge Aue,1,2,Energie Cottbus,2.2,3.4,3.2,04-21 00:51,Live
+1154,31,Erzgebirge Aue,1,2,Energie Cottbus,2.2,3.2,3,04-18 22:17,Live
+1155,31,Erzgebirge Aue,1,2,Energie Cottbus,2.3,3.2,2.8,04-18 21:43,Live
+1156,31,VfL Osnabruck,1,1,FSV Frankfurt,2,3.5,3.6,04-21 12:54,Live
+1157,31,VfL Osnabruck,1,1,FSV Frankfurt,1.95,3.5,3.75,04-21 12:48,Live
+1158,31,VfL Osnabruck,1,1,FSV Frankfurt,2,3.5,3.6,04-21 11:34,Live
+1159,31,VfL Osnabruck,1,1,FSV Frankfurt,1.95,3.5,3.8,04-21 09:39,Live
+1160,31,VfL Osnabruck,1,1,FSV Frankfurt,2.05,3.4,3.5,04-21 00:45,Live
+1161,31,VfL Osnabruck,1,1,FSV Frankfurt,2,3.25,3.4,04-18 21:43,Live
+1162,31,Rot-Weiss Oberhausen,2,1,Karlsruher SC,3,3.4,2.3,04-23 12:16,Live
+1163,31,Rot-Weiss Oberhausen,2,1,Karlsruher SC,2.75,3.3,2.5,04-23 11:07,Live
+1164,31,Rot-Weiss Oberhausen,2,1,Karlsruher SC,2.62,3.3,2.6,04-21 00:51,Live
+1165,31,Rot-Weiss Oberhausen,2,1,Karlsruher SC,2.62,3.2,2.5,04-19 19:24,Live
+1166,31,Rot-Weiss Oberhausen,2,1,Karlsruher SC,2.75,3.2,2.4,04-19 07:12,Live
+1167,31,TSV 1860 Munchen,3,0,Greuther Furth,2.9,3.3,2.4,04-23 09:23,Live
+1168,31,TSV 1860 Munchen,3,0,Greuther Furth,2.8,3.25,2.5,04-23 04:11,Live
+1169,31,TSV 1860 Munchen,3,0,Greuther Furth,2.7,3.25,2.6,04-22 04:23,Live
+1170,31,TSV 1860 Munchen,3,0,Greuther Furth,2.62,3.25,2.62,04-21 00:48,Live
+1171,31,TSV 1860 Munchen,3,0,Greuther Furth,2.5,3.2,2.62,04-19 15:23,Live
+1172,31,TSV 1860 Munchen,3,0,Greuther Furth,2.4,3.2,2.75,04-19 07:12,Live
+1173,31,Augsburg,1,2,Alemannia Aachen,1.44,4.33,7,04-24 11:55,Live
+1174,31,Augsburg,1,2,Alemannia Aachen,1.5,4.2,6.5,04-21 17:02,Live
+1175,31,Augsburg,1,2,Alemannia Aachen,1.53,4,6,04-21 00:48,Live
+1176,31,Augsburg,1,2,Alemannia Aachen,1.57,3.6,5.5,04-19 07:12,Live
+1177,31,Fortuna Dusseldorf,2,0,Arminia Bielefeld,1.33,5,9,04-24 03:34,Live
+1178,31,Fortuna Dusseldorf,2,0,Arminia Bielefeld,1.36,4.75,8,04-21 00:51,Live
+1179,31,Fortuna Dusseldorf,2,0,Arminia Bielefeld,1.36,4.33,7.5,04-19 19:36,Live
+1180,31,Fortuna Dusseldorf,2,0,Arminia Bielefeld,1.4,4.2,7,04-19 07:12,Live
+1181,31,Union Berlin,1,1,Ingolstadt,2.62,3.3,2.62,04-24 13:05,Live
+1182,31,Union Berlin,1,1,Ingolstadt,2.5,3.3,2.75,04-24 11:03,Live
+1183,31,Union Berlin,1,1,Ingolstadt,2.37,3.3,2.9,04-21 00:51,Live
+1184,31,Union Berlin,1,1,Ingolstadt,2.25,3.2,3,04-19 07:12,Live
+1185,31,MSV Duisburg,0,1,Hertha Berlin,3.75,3.6,1.9,04-25 20:01,Live
+1186,31,MSV Duisburg,0,1,Hertha Berlin,4.2,3.6,1.83,04-25 19:37,Live
+1187,31,MSV Duisburg,0,1,Hertha Berlin,4.33,3.6,1.8,04-25 19:25,Live
+1188,31,MSV Duisburg,0,1,Hertha Berlin,4.2,3.6,1.83,04-25 13:56,Live
+1189,31,MSV Duisburg,0,1,Hertha Berlin,3.6,3.5,2,04-25 05:19,Live
+1190,31,MSV Duisburg,0,1,Hertha Berlin,3.5,3.4,2.05,04-25 00:18,Live
+1191,31,MSV Duisburg,0,1,Hertha Berlin,3.6,3.4,2.05,04-24 23:42,Live
+1192,31,MSV Duisburg,0,1,Hertha Berlin,3.4,3.4,2.1,04-21 00:51,Live
+1193,31,MSV Duisburg,0,1,Hertha Berlin,3.1,3.3,2.1,04-20 00:50,Live
+1194,31,MSV Duisburg,0,1,Hertha Berlin,2.9,3.25,2.2,04-19 14:17,Live
+1195,31,MSV Duisburg,0,1,Hertha Berlin,2.87,3.2,2.25,04-19 13:50,Live
+1196,31,MSV Duisburg,0,1,Hertha Berlin,2.75,3.2,2.4,04-19 07:12,Live
+1197,32,Karlsruher SC,2,2,Fortuna Dusseldorf,1.9,3.6,3.5,04-29 16:57,Live
+1198,32,Karlsruher SC,2,2,Fortuna Dusseldorf,1.85,3.6,3.8,04-29 14:36,Live
+1199,32,Karlsruher SC,2,2,Fortuna Dusseldorf,1.95,3.6,3.6,04-29 11:25,Live
+1200,32,Karlsruher SC,2,2,Fortuna Dusseldorf,2.1,3.5,3.25,04-29 10:27,Live
+1201,32,Karlsruher SC,2,2,Fortuna Dusseldorf,2.05,3.4,3.5,04-29 08:48,Live
+1202,32,Karlsruher SC,2,2,Fortuna Dusseldorf,2.2,3.4,3.2,04-26 07:50,Live
+1203,32,Karlsruher SC,2,2,Fortuna Dusseldorf,2.2,3.25,3,04-24 20:13,Live
+1204,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.45,4.33,7.5,04-29 11:52,Live
+1205,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.44,4.33,7.5,04-29 08:38,Live
+1206,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.44,4.33,7,04-28 21:28,Live
+1207,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.45,4.2,6.5,04-28 08:38,Live
+1208,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.45,4.25,7,04-26 07:45,Live
+1209,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.5,3.8,6,04-25 22:26,Live
+1210,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.45,3.8,6.5,04-25 22:21,Live
+1211,32,Hertha Berlin,1,2,TSV 1860 Munchen,1.44,4,6.5,04-24 20:13,Live
+1212,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.75,3.75,4.5,04-29 12:59,Live
+1213,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.75,3.6,4.5,04-29 09:38,Live
+1214,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.7,3.75,4.75,04-29 07:53,Live
+1215,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.72,3.75,4.5,04-29 05:16,Live
+1216,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.7,3.6,4.75,04-28 21:13,Live
+1217,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.66,3.75,5,04-26 17:50,Live
+1218,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.61,3.75,5.5,04-26 07:30,Live
+1219,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.6,3.6,5.25,04-25 21:28,Live
+1220,32,Alemannia Aachen,4,0,Rot-Weiss Oberhausen,1.61,3.6,5,04-24 20:13,Live
+1221,32,SC Paderborn 07,1,0,VfL Osnabruck,2,3.4,3.3,04-24 20:13,Live
+1222,32,VfL Bochum,3,0,Union Berlin,1.44,4.2,7.5,04-29 10:34,Live
+1223,32,VfL Bochum,3,0,Union Berlin,1.5,4.1,6.5,04-26 07:45,Live
+1224,32,VfL Bochum,3,0,Union Berlin,1.5,3.8,6,04-25 21:28,Live
+1225,32,VfL Bochum,3,0,Union Berlin,1.57,3.75,5.25,04-24 20:13,Live
+1226,32,Ingolstadt,0,0,Erzgebirge Aue,2,3.5,3.5,04-30 12:18,Live
+1227,32,Ingolstadt,0,0,Erzgebirge Aue,2.1,3.4,3.2,04-30 08:02,Live
+1228,32,Ingolstadt,0,0,Erzgebirge Aue,2,3.5,3.4,04-30 07:37,Live
+1229,32,Ingolstadt,0,0,Erzgebirge Aue,2.1,3.5,3.25,04-29 13:02,Live
+1230,32,Ingolstadt,0,0,Erzgebirge Aue,2.2,3.4,3.2,04-26 14:32,Live
+1231,32,Ingolstadt,0,0,Erzgebirge Aue,2.25,3.4,3.1,04-26 08:17,Live
+1232,32,Ingolstadt,0,0,Erzgebirge Aue,2.25,3.25,2.9,04-24 23:07,Live
+1233,32,Ingolstadt,0,0,Erzgebirge Aue,2.4,3.2,2.75,04-24 20:13,Live
+1234,32,Greuther Furth,1,0,Arminia Bielefeld,1.25,5.25,13,04-29 22:11,Live
+1235,32,Greuther Furth,1,0,Arminia Bielefeld,1.28,5,11,04-29 05:19,Live
+1236,32,Greuther Furth,1,0,Arminia Bielefeld,1.28,5.25,11,04-26 14:38,Live
+1237,32,Greuther Furth,1,0,Arminia Bielefeld,1.25,5.5,12,04-26 08:17,Live
+1238,32,Greuther Furth,1,0,Arminia Bielefeld,1.25,5,11,04-24 20:13,Live
+1239,32,FSV Frankfurt,0,4,MSV Duisburg,2.4,3.4,2.8,04-30 07:05,Live
+1240,32,FSV Frankfurt,0,4,MSV Duisburg,2.5,3.4,2.7,04-26 08:17,Live
+1241,32,FSV Frankfurt,0,4,MSV Duisburg,2.5,3.2,2.6,04-24 20:13,Live
+1242,32,Energie Cottbus,1,1,Augsburg,2.75,3.5,2.4,05-02 19:51,Live
+1243,32,Energie Cottbus,1,1,Augsburg,3,3.4,2.3,05-02 16:03,Live
+1244,32,Energie Cottbus,1,1,Augsburg,2.8,3.4,2.4,05-02 09:34,Live
+1245,32,Energie Cottbus,1,1,Augsburg,2.8,3.6,2.3,05-02 06:35,Live
+1246,32,Energie Cottbus,1,1,Augsburg,2.75,3.6,2.37,05-01 22:40,Live
+1247,32,Energie Cottbus,1,1,Augsburg,2.7,3.6,2.4,04-29 23:56,Live
+1248,32,Energie Cottbus,1,1,Augsburg,2.5,3.6,2.6,04-29 12:59,Live
+1249,32,Energie Cottbus,1,1,Augsburg,2.5,3.4,2.7,04-26 08:17,Live
+1250,32,Energie Cottbus,1,1,Augsburg,2.5,3.2,2.6,04-25 20:17,Live
+1251,33,Erzgebirge Aue,0,2,Hertha Berlin,3.6,3.5,2,05-08 11:50,Live
+1252,33,Erzgebirge Aue,0,2,Hertha Berlin,3.2,3.3,2.2,05-03 18:43,Live
+1253,33,Erzgebirge Aue,0,2,Hertha Berlin,3.2,3.3,2.1,05-03 15:31,Live
+1254,33,Erzgebirge Aue,0,2,Hertha Berlin,2.87,3.25,2.3,05-03 13:09,Live
+1255,33,Erzgebirge Aue,0,2,Hertha Berlin,2.75,3.2,2.4,05-03 01:49,Live
+1256,33,MSV Duisburg,3,1,SC Paderborn 07,1.7,3.75,4.75,05-08 12:48,Live
+1257,33,MSV Duisburg,3,1,SC Paderborn 07,1.65,3.8,5,05-08 11:40,Live
+1258,33,MSV Duisburg,3,1,SC Paderborn 07,1.7,3.75,4.75,05-07 14:30,Live
+1259,33,MSV Duisburg,3,1,SC Paderborn 07,1.8,3.6,4.33,05-03 18:46,Live
+1260,33,MSV Duisburg,3,1,SC Paderborn 07,1.72,3.6,4.2,05-03 01:49,Live
+1261,33,Union Berlin,4,2,Energie Cottbus,2.75,3.3,2.5,05-08 11:11,Live
+1262,33,Union Berlin,4,2,Energie Cottbus,2.37,3.25,3,05-07 14:06,Live
+1263,33,Union Berlin,4,2,Energie Cottbus,2.5,3.4,2.7,05-03 18:54,Live
+1264,33,Union Berlin,4,2,Energie Cottbus,2.5,3.2,2.62,05-03 01:49,Live
+1265,33,Arminia Bielefeld,2,1,Karlsruher SC,4,3.8,1.8,05-08 12:48,Live
+1266,33,Arminia Bielefeld,2,1,Karlsruher SC,4.75,3.8,1.7,05-07 19:34,Live
+1267,33,Arminia Bielefeld,2,1,Karlsruher SC,4.5,3.75,1.72,05-03 18:43,Live
+1268,33,Arminia Bielefeld,2,1,Karlsruher SC,4.5,3.4,1.72,05-03 15:43,Live
+1269,33,Arminia Bielefeld,2,1,Karlsruher SC,4.75,3.5,1.66,05-03 01:49,Live
+1270,33,Rot-Weiss Oberhausen,1,4,Greuther Furth,4.33,3.75,1.75,05-08 13:13,Live
+1271,33,Rot-Weiss Oberhausen,1,4,Greuther Furth,4,3.6,1.85,05-03 18:50,Live
+1272,33,Rot-Weiss Oberhausen,1,4,Greuther Furth,3.8,3.4,1.85,05-03 10:58,Live
+1273,33,Rot-Weiss Oberhausen,1,4,Greuther Furth,3.4,3.3,2,05-03 01:49,Live
+1274,33,Fortuna Dusseldorf,3,1,Alemannia Aachen,1.95,3.6,3.6,05-08 13:10,Live
+1275,33,Fortuna Dusseldorf,3,1,Alemannia Aachen,1.9,3.6,3.75,05-03 18:50,Live
+1276,33,Fortuna Dusseldorf,3,1,Alemannia Aachen,1.83,3.4,4,05-03 15:43,Live
+1277,33,Fortuna Dusseldorf,3,1,Alemannia Aachen,2.05,3.25,3.4,05-03 01:49,Live
+1278,33,Augsburg,2,1,FSV Frankfurt,1.25,5.5,12,05-07 23:44,Live
+1279,33,Augsburg,2,1,FSV Frankfurt,1.28,5,11,05-07 14:30,Live
+1280,33,Augsburg,2,1,FSV Frankfurt,1.3,5,10,05-03 18:43,Live
+1281,33,Augsburg,2,1,FSV Frankfurt,1.3,4.5,10,05-03 01:49,Live
+1282,33,VfL Osnabruck,1,3,VfL Bochum,3.4,3.4,2.1,05-08 13:03,Live
+1283,33,VfL Osnabruck,1,3,VfL Bochum,3.4,3.5,2.05,05-06 00:42,Live
+1284,33,VfL Osnabruck,1,3,VfL Bochum,3.2,3.25,2.1,05-05 14:22,Live
+1285,33,VfL Osnabruck,1,3,VfL Bochum,3.1,3.2,2.2,05-03 01:49,Live
+1286,33,TSV 1860 Munchen,1,1,Ingolstadt,2,3.5,3.6,05-08 12:06,Live
+1287,33,TSV 1860 Munchen,1,1,Ingolstadt,1.95,3.5,3.75,05-07 23:40,Live
+1288,33,TSV 1860 Munchen,1,1,Ingolstadt,2.05,3.4,3.5,05-03 18:43,Live
+1289,33,TSV 1860 Munchen,1,1,Ingolstadt,2,3.25,3.5,05-03 13:12,Live
+1290,33,TSV 1860 Munchen,1,1,Ingolstadt,1.9,3.3,3.75,05-03 01:49,Live
+1291,34,Greuther Furth,1,1,Fortuna Dusseldorf,1.5,4.33,6,05-15 13:19,Live
+1292,34,Greuther Furth,1,1,Fortuna Dusseldorf,1.5,4,6.5,05-15 08:01,Live
+1293,34,Greuther Furth,1,1,Fortuna Dusseldorf,1.53,4,6,05-15 03:18,Live
+1294,34,Greuther Furth,1,1,Fortuna Dusseldorf,1.5,4,6.5,05-11 03:31,Live
+1295,34,Greuther Furth,1,1,Fortuna Dusseldorf,1.44,4,6.5,05-09 07:40,Live
+1296,34,VfL Bochum,3,1,MSV Duisburg,1.44,4.5,6.5,05-15 13:19,Live
+1297,34,VfL Bochum,3,1,MSV Duisburg,1.44,4,7.5,05-15 08:41,Live
+1298,34,VfL Bochum,3,1,MSV Duisburg,1.45,4,7,05-15 07:54,Live
+1299,34,VfL Bochum,3,1,MSV Duisburg,1.5,4,6.5,05-14 00:02,Live
+1300,34,VfL Bochum,3,1,MSV Duisburg,1.53,4,6,05-12 14:17,Live
+1301,34,VfL Bochum,3,1,MSV Duisburg,1.57,3.9,5.75,05-11 03:27,Live
+1302,34,VfL Bochum,3,1,MSV Duisburg,1.57,3.6,5.5,05-09 07:40,Live
+1303,34,Alemannia Aachen,1,1,Arminia Bielefeld,1.44,4.5,6.5,05-15 13:14,Live
+1304,34,Alemannia Aachen,1,1,Arminia Bielefeld,1.44,4.2,7.5,05-15 08:32,Live
+1305,34,Alemannia Aachen,1,1,Arminia Bielefeld,1.44,4.25,7.5,05-15 00:38,Live
+1306,34,Alemannia Aachen,1,1,Arminia Bielefeld,1.45,4.2,7.5,05-11 22:44,Live
+1307,34,Alemannia Aachen,1,1,Arminia Bielefeld,1.44,4.2,7.5,05-11 03:27,Live
+1308,34,Alemannia Aachen,1,1,Arminia Bielefeld,1.44,4,6.5,05-09 07:40,Live
+1309,34,Hertha Berlin,2,1,Augsburg,1.8,3.5,4.5,05-14 22:50,Live
+1310,34,Hertha Berlin,2,1,Augsburg,1.83,3.5,4.2,05-13 10:29,Live
+1311,34,Hertha Berlin,2,1,Augsburg,1.9,3.4,4,05-12 04:40,Live
+1312,34,Hertha Berlin,2,1,Augsburg,2,3.4,3.6,05-11 03:31,Live
+1313,34,Hertha Berlin,2,1,Augsburg,2,3.25,3.5,05-09 10:35,Live
+1314,34,Hertha Berlin,2,1,Augsburg,2.1,3.25,3.25,05-09 07:40,Live
+1315,34,SC Paderborn 07,3,2,TSV 1860 Munchen,2.87,3.5,2.37,05-15 13:08,Live
+1316,34,SC Paderborn 07,3,2,TSV 1860 Munchen,3.1,3.5,2.2,05-15 10:43,Live
+1317,34,SC Paderborn 07,3,2,TSV 1860 Munchen,3,3.5,2.25,05-15 10:33,Live
+1318,34,SC Paderborn 07,3,2,TSV 1860 Munchen,2.8,3.4,2.4,05-14 14:07,Live
+1319,34,SC Paderborn 07,3,2,TSV 1860 Munchen,3.1,3.3,2.25,05-14 05:58,Live
+1320,34,SC Paderborn 07,3,2,TSV 1860 Munchen,2.9,3.3,2.37,05-11 03:36,Live
+1321,34,SC Paderborn 07,3,2,TSV 1860 Munchen,2.75,3.25,2.37,05-09 07:40,Live
+1322,34,FSV Frankfurt,0,2,Erzgebirge Aue,2.2,3.4,3,05-15 08:32,Live
+1323,34,FSV Frankfurt,0,2,Erzgebirge Aue,2.4,3.4,2.75,05-11 03:31,Live
+1324,34,FSV Frankfurt,0,2,Erzgebirge Aue,2.37,3.2,2.75,05-09 07:40,Live
+1325,34,Karlsruher SC,3,2,Union Berlin,1.5,4.33,6,05-15 13:23,Live
+1326,34,Karlsruher SC,3,2,Union Berlin,1.44,4.33,6.5,05-15 03:52,Live
+1327,34,Karlsruher SC,3,2,Union Berlin,1.53,4.2,5.5,05-14 14:12,Live
+1328,34,Karlsruher SC,3,2,Union Berlin,1.57,3.75,5.25,05-14 00:06,Live
+1329,34,Karlsruher SC,3,2,Union Berlin,1.53,3.8,5.75,05-13 00:56,Live
+1330,34,Karlsruher SC,3,2,Union Berlin,1.44,4,6.5,05-09 07:40,Live
+1331,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,1.83,3.75,4,05-15 13:19,Live
+1332,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,1.8,3.8,4,05-15 11:05,Live
+1333,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,1.75,3.75,4.33,05-13 13:17,Live
+1334,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,1.85,3.6,4,05-12 20:42,Live
+1335,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,1.95,3.25,4,05-12 20:08,Live
+1336,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2,3.2,3.8,05-12 01:05,Live
+1337,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2,3.1,4,05-12 00:43,Live
+1338,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2,3.2,3.9,05-12 00:39,Live
+1339,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2,3.3,3.75,05-11 21:22,Live
+1340,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2,3.4,3.75,05-11 21:05,Live
+1341,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2.05,3.4,3.5,05-11 03:27,Live
+1342,34,Energie Cottbus,3,1,Rot-Weiss Oberhausen,2,3.3,3.4,05-09 07:40,Live
+1343,34,Ingolstadt,0,1,VfL Osnabruck,2.37,3.6,2.75,05-15 13:19,Live
+1344,34,Ingolstadt,0,1,VfL Osnabruck,2.37,3.5,2.8,05-15 09:57,Live
+1345,34,Ingolstadt,0,1,VfL Osnabruck,2.5,3.4,2.7,05-14 17:13,Live
+1346,34,Ingolstadt,0,1,VfL Osnabruck,2.25,3.4,3,05-14 01:12,Live
+1347,34,Ingolstadt,0,1,VfL Osnabruck,2.35,3.4,2.9,05-11 03:27,Live
+1348,34,Ingolstadt,0,1,VfL Osnabruck,2.25,3.25,2.9,05-10 23:34,Live
+1349,34,Ingolstadt,0,1,VfL Osnabruck,2.2,3.25,3,05-09 07:40,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Run
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live
+,,,,,,,,,,Live

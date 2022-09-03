@@ -1,0 +1,2141 @@
+,Round,Hometeam,Scorehome,Scoreaway,Awayteam,Home,Draw,Away,Date,Status
+0,1,VfL Bochum,0,1,St. Pauli,2.37,3.30,2.90,07-28 13:07,Live
+1,1,VfL Bochum,0,1,St. Pauli,2.45,3.25,2.87,07-27 13:40,Live
+2,1,VfL Bochum,0,1,St. Pauli,2.40,3.25,2.90,07-24 13:02,Live
+3,1,VfL Bochum,0,1,St. Pauli,2.37,3.25,3.00,07-02 00:53,Live
+4,1,Ingolstadt,0,1,Union Berlin,2.00,3.25,3.90,07-29 09:25,Live
+5,1,Ingolstadt,0,1,Union Berlin,2.15,3.20,3.50,07-05 00:10,Live
+6,1,Ingolstadt,0,1,Union Berlin,2.05,3.20,3.80,07-03 10:41,Live
+7,1,Ingolstadt,0,1,Union Berlin,1.95,3.25,4.20,07-02 00:53,Live
+8,1,Darmstadt,1,0,Greuther Furth,2.10,3.25,3.50,07-29 14:42,Live
+9,1,Darmstadt,1,0,Greuther Furth,2.00,3.30,3.80,07-29 10:13,Live
+10,1,Darmstadt,1,0,Greuther Furth,2.15,3.25,3.40,07-28 22:53,Live
+11,1,Darmstadt,1,0,Greuther Furth,2.05,3.25,3.75,07-03 10:41,Live
+12,1,Darmstadt,1,0,Greuther Furth,1.95,3.30,4.00,07-02 00:53,Live
+13,1,Arminia Bielefeld,2,1,Jahn Regensburg,2.00,3.50,3.60,07-27 22:42,Live
+14,1,Arminia Bielefeld,2,1,Jahn Regensburg,1.95,3.50,3.80,07-27 08:40,Live
+15,1,Arminia Bielefeld,2,1,Jahn Regensburg,2.10,3.40,3.40,07-02 00:53,Live
+16,1,Nurnberg,3,0,Kaiserslautern,2.00,3.40,3.80,07-30 12:38,Live
+17,1,Nurnberg,3,0,Kaiserslautern,2.10,3.30,3.50,07-28 23:09,Live
+18,1,Nurnberg,3,0,Kaiserslautern,2.20,3.25,3.30,07-26 01:30,Live
+19,1,Nurnberg,3,0,Kaiserslautern,2.30,3.20,3.20,07-02 00:53,Live
+20,1,Holstein Kiel,2,2,SV Sandhausen,2.05,3.20,3.75,07-30 14:41,Live
+21,1,Holstein Kiel,2,2,SV Sandhausen,2.15,3.20,3.50,07-30 13:21,Live
+22,1,Holstein Kiel,2,2,SV Sandhausen,2.05,3.25,3.75,07-25 02:33,Live
+23,1,Holstein Kiel,2,2,SV Sandhausen,2.00,3.25,3.90,07-23 16:20,Live
+24,1,Holstein Kiel,2,2,SV Sandhausen,1.90,3.30,4.20,07-14 18:27,Live
+25,1,Holstein Kiel,2,2,SV Sandhausen,2.10,3.20,3.60,07-02 00:53,Live
+26,1,Dynamo Dresden,1,0,MSV Duisburg,2.10,3.30,3.50,07-27 18:09,Live
+27,1,Dynamo Dresden,1,0,MSV Duisburg,2.00,3.40,3.75,07-26 18:36,Live
+28,1,Dynamo Dresden,1,0,MSV Duisburg,2.10,3.30,3.50,07-25 02:35,Live
+29,1,Dynamo Dresden,1,0,MSV Duisburg,2.05,3.30,3.60,07-03 14:39,Live
+30,1,Dynamo Dresden,1,0,MSV Duisburg,2.00,3.40,3.75,07-02 00:53,Live
+31,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.10,3.40,3.40,07-31 19:34,Live
+32,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.30,3.30,3.10,07-31 12:14,Live
+33,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.37,3.25,3.00,07-31 12:11,Live
+34,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.30,3.25,3.10,07-31 12:06,Live
+35,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.50,3.20,2.87,07-31 05:41,Live
+36,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.40,3.20,3.00,07-30 22:16,Live
+37,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.30,3.20,3.20,07-29 14:42,Live
+38,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.40,3.20,3.00,07-24 21:58,Live
+39,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.50,3.20,2.80,07-21 12:58,Live
+40,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.60,3.20,2.70,07-04 17:39,Live
+41,1,Fortuna Dusseldorf,2,2,Eintracht Braunschweig,2.50,3.20,2.80,07-02 00:53,Live
+42,1,Heidenheimer,2,1,Erzgebirge Aue,2.00,3.20,4.00,08-09 19:21,Live
+43,1,Heidenheimer,2,1,Erzgebirge Aue,2.05,3.20,3.80,08-09 09:13,Live
+44,1,Heidenheimer,2,1,Erzgebirge Aue,1.90,3.25,4.33,08-07 10:55,Live
+45,2,Union Berlin,4,3,Holstein Kiel,1.83,3.50,4.33,08-04 17:45,Live
+46,2,Union Berlin,4,3,Holstein Kiel,1.80,3.50,4.50,08-04 17:42,Live
+47,2,Union Berlin,4,3,Holstein Kiel,1.75,3.50,4.75,08-04 10:18,Live
+48,2,Union Berlin,4,3,Holstein Kiel,1.85,3.50,4.20,08-04 09:08,Live
+49,2,Union Berlin,4,3,Holstein Kiel,1.70,3.60,5.00,08-04 01:53,Live
+50,2,Union Berlin,4,3,Holstein Kiel,1.75,3.60,4.75,08-03 02:58,Live
+51,2,Union Berlin,4,3,Holstein Kiel,1.80,3.30,4.75,08-01 13:15,Live
+52,2,Union Berlin,4,3,Holstein Kiel,1.75,3.40,5.00,07-31 13:56,Live
+53,2,Union Berlin,4,3,Holstein Kiel,1.70,3.40,5.50,07-31 13:48,Live
+54,2,Union Berlin,4,3,Holstein Kiel,1.65,3.50,5.75,07-31 11:46,Live
+55,2,SV Sandhausen,1,0,Ingolstadt,3.75,3.00,2.20,08-04 18:03,Live
+56,2,SV Sandhausen,1,0,Ingolstadt,3.40,3.00,2.30,07-31 14:02,Live
+57,2,SV Sandhausen,1,0,Ingolstadt,3.60,3.00,2.20,07-31 13:53,Live
+58,2,SV Sandhausen,1,0,Ingolstadt,3.40,3.00,2.30,07-31 12:57,Live
+59,2,SV Sandhausen,1,0,Ingolstadt,3.10,3.00,2.45,07-31 12:17,Live
+60,2,SV Sandhausen,1,0,Ingolstadt,3.00,3.00,2.50,07-31 11:46,Live
+61,2,Kaiserslautern,1,1,Darmstadt,2.45,3.10,3.00,08-04 19:52,Live
+62,2,Kaiserslautern,1,1,Darmstadt,2.55,3.10,2.87,08-04 19:38,Live
+63,2,Kaiserslautern,1,1,Darmstadt,2.70,3.10,2.70,08-04 13:59,Live
+64,2,Kaiserslautern,1,1,Darmstadt,2.60,3.10,2.80,08-04 11:55,Live
+65,2,Kaiserslautern,1,1,Darmstadt,2.50,3.10,2.90,08-03 01:04,Live
+66,2,Kaiserslautern,1,1,Darmstadt,2.45,3.00,3.10,08-01 16:15,Live
+67,2,Kaiserslautern,1,1,Darmstadt,2.37,3.00,3.25,08-01 13:15,Live
+68,2,Kaiserslautern,1,1,Darmstadt,2.45,3.00,3.10,07-31 18:19,Live
+69,2,Kaiserslautern,1,1,Darmstadt,2.50,3.00,3.00,07-31 13:53,Live
+70,2,Kaiserslautern,1,1,Darmstadt,2.62,3.00,2.87,07-31 11:51,Live
+71,2,MSV Duisburg,1,1,VfL Bochum,2.60,3.20,2.70,08-05 12:09,Live
+72,2,MSV Duisburg,1,1,VfL Bochum,2.50,3.20,2.80,08-05 00:23,Live
+73,2,MSV Duisburg,1,1,VfL Bochum,2.50,3.00,3.00,08-04 16:35,Live
+74,2,MSV Duisburg,1,1,VfL Bochum,2.45,3.00,3.10,08-03 16:06,Live
+75,2,MSV Duisburg,1,1,VfL Bochum,2.37,3.00,3.25,07-31 22:37,Live
+76,2,MSV Duisburg,1,1,VfL Bochum,2.45,3.00,3.10,07-31 14:11,Live
+77,2,MSV Duisburg,1,1,VfL Bochum,2.40,3.00,3.20,07-31 11:51,Live
+78,2,Eintracht Braunschweig,2,0,Heidenheimer,2.20,3.10,3.50,08-05 11:15,Live
+79,2,Eintracht Braunschweig,2,0,Heidenheimer,2.05,3.10,4.00,08-04 13:59,Live
+80,2,Eintracht Braunschweig,2,0,Heidenheimer,2.10,3.10,3.80,08-03 16:24,Live
+81,2,Eintracht Braunschweig,2,0,Heidenheimer,2.15,3.10,3.60,08-03 06:17,Live
+82,2,Eintracht Braunschweig,2,0,Heidenheimer,2.10,3.10,3.90,08-02 19:00,Live
+83,2,Eintracht Braunschweig,2,0,Heidenheimer,2.00,3.10,4.20,07-31 14:02,Live
+84,2,Eintracht Braunschweig,2,0,Heidenheimer,1.90,3.10,4.50,07-31 11:51,Live
+85,2,Jahn Regensburg,0,1,Nurnberg,2.75,3.10,2.62,08-06 11:33,Live
+86,2,Jahn Regensburg,0,1,Nurnberg,3.25,3.10,2.30,08-05 21:52,Live
+87,2,Jahn Regensburg,0,1,Nurnberg,3.20,3.10,2.30,07-31 23:16,Live
+88,2,Jahn Regensburg,0,1,Nurnberg,3.40,3.00,2.30,07-31 11:54,Live
+89,2,Erzgebirge Aue,0,2,Fortuna Dusseldorf,2.60,3.00,2.87,07-31 20:40,Live
+90,2,Erzgebirge Aue,0,2,Fortuna Dusseldorf,2.50,3.00,3.00,07-31 13:56,Live
+91,2,Erzgebirge Aue,0,2,Fortuna Dusseldorf,2.62,3.00,2.87,07-31 11:54,Live
+92,2,Greuther Furth,1,2,Arminia Bielefeld,2.10,3.20,3.60,08-06 15:16,Live
+93,2,Greuther Furth,1,2,Arminia Bielefeld,2.25,3.10,3.40,08-04 10:26,Live
+94,2,Greuther Furth,1,2,Arminia Bielefeld,2.40,3.10,3.10,07-31 22:48,Live
+95,2,Greuther Furth,1,2,Arminia Bielefeld,2.37,3.10,3.20,07-31 20:22,Live
+96,2,Greuther Furth,1,2,Arminia Bielefeld,2.25,3.10,3.40,07-31 14:10,Live
+97,2,Greuther Furth,1,2,Arminia Bielefeld,2.10,3.10,3.75,07-31 11:54,Live
+98,2,St. Pauli,2,2,Dynamo Dresden,1.75,3.60,4.60,08-07 14:21,Live
+99,2,St. Pauli,2,2,Dynamo Dresden,1.66,3.75,5.00,08-07 12:44,Live
+100,2,St. Pauli,2,2,Dynamo Dresden,1.72,3.60,4.75,08-07 06:46,Live
+101,2,St. Pauli,2,2,Dynamo Dresden,1.75,3.60,4.75,08-07 04:36,Live
+102,2,St. Pauli,2,2,Dynamo Dresden,1.72,3.50,5.00,08-07 04:28,Live
+103,2,St. Pauli,2,2,Dynamo Dresden,1.75,3.50,4.75,08-07 03:11,Live
+104,2,St. Pauli,2,2,Dynamo Dresden,1.72,3.50,5.00,08-07 03:01,Live
+105,2,St. Pauli,2,2,Dynamo Dresden,1.75,3.50,4.75,08-07 02:09,Live
+106,2,St. Pauli,2,2,Dynamo Dresden,1.83,3.40,4.50,08-07 01:56,Live
+107,2,St. Pauli,2,2,Dynamo Dresden,1.85,3.40,4.33,08-06 18:55,Live
+108,2,St. Pauli,2,2,Dynamo Dresden,1.90,3.40,4.00,08-01 02:34,Live
+109,2,St. Pauli,2,2,Dynamo Dresden,2.00,3.30,3.80,07-31 22:48,Live
+110,2,St. Pauli,2,2,Dynamo Dresden,2.00,3.10,4.00,07-31 19:07,Live
+111,2,St. Pauli,2,2,Dynamo Dresden,2.10,3.10,3.80,07-31 14:11,Live
+112,2,St. Pauli,2,2,Dynamo Dresden,2.05,3.10,4.00,07-31 11:54,Live
+113,3,Darmstadt,3,0,St. Pauli,2.45,3.20,2.90,08-18 18:06,Live
+114,3,Darmstadt,3,0,St. Pauli,2.40,3.20,3.00,08-18 15:54,Live
+115,3,Darmstadt,3,0,St. Pauli,2.50,3.20,2.87,08-18 15:05,Live
+116,3,Darmstadt,3,0,St. Pauli,2.55,3.20,2.75,08-17 12:58,Live
+117,3,Darmstadt,3,0,St. Pauli,2.50,3.20,2.80,08-17 09:22,Live
+118,3,Darmstadt,3,0,St. Pauli,2.50,3.10,2.90,08-17 09:04,Live
+119,3,Darmstadt,3,0,St. Pauli,2.40,3.20,3.00,08-12 18:03,Live
+120,3,Eintracht Braunschweig,1,1,Erzgebirge Aue,1.75,3.50,4.75,08-18 18:06,Live
+121,3,Eintracht Braunschweig,1,1,Erzgebirge Aue,1.75,3.40,5.00,08-18 11:45,Live
+122,3,Eintracht Braunschweig,1,1,Erzgebirge Aue,1.80,3.40,4.75,08-18 09:30,Live
+123,3,Eintracht Braunschweig,1,1,Erzgebirge Aue,1.72,3.50,5.00,08-16 17:51,Live
+124,3,Eintracht Braunschweig,1,1,Erzgebirge Aue,1.80,3.50,4.50,08-14 15:28,Live
+125,3,Eintracht Braunschweig,1,1,Erzgebirge Aue,1.83,3.50,4.33,08-12 18:03,Live
+126,3,Dynamo Dresden,0,4,SV Sandhausen,1.95,3.30,4.00,08-18 12:06,Live
+127,3,Dynamo Dresden,0,4,SV Sandhausen,2.00,3.30,3.80,08-12 18:03,Live
+128,3,Heidenheimer,1,2,MSV Duisburg,2.05,3.25,3.75,08-12 18:03,Live
+129,3,Fortuna Dusseldorf,2,0,Kaiserslautern,1.95,3.40,3.90,08-19 12:41,Live
+130,3,Fortuna Dusseldorf,2,0,Kaiserslautern,1.90,3.40,4.00,08-15 13:09,Live
+131,3,Fortuna Dusseldorf,2,0,Kaiserslautern,2.00,3.30,3.80,08-12 18:03,Live
+132,3,Nurnberg,2,2,Union Berlin,2.45,3.20,2.90,08-20 12:43,Live
+133,3,Nurnberg,2,2,Union Berlin,2.62,3.20,2.70,08-20 06:18,Live
+134,3,Nurnberg,2,2,Union Berlin,2.37,3.20,3.00,08-17 01:30,Live
+135,3,Nurnberg,2,2,Union Berlin,2.45,3.20,3.00,08-16 16:34,Live
+136,3,Nurnberg,2,2,Union Berlin,2.30,3.20,3.20,08-14 04:59,Live
+137,3,Nurnberg,2,2,Union Berlin,2.40,3.20,3.00,08-12 18:03,Live
+138,3,Ingolstadt,2,4,Jahn Regensburg,1.57,3.60,6.50,08-20 10:23,Live
+139,3,Ingolstadt,2,4,Jahn Regensburg,1.60,3.60,6.00,08-20 02:38,Live
+140,3,Ingolstadt,2,4,Jahn Regensburg,1.66,3.50,5.50,08-12 18:56,Live
+141,3,Ingolstadt,2,4,Jahn Regensburg,1.61,3.60,6.00,08-12 18:23,Live
+142,3,Ingolstadt,2,4,Jahn Regensburg,1.55,3.75,6.50,08-12 18:03,Live
+143,3,Holstein Kiel,3,1,Greuther Furth,2.00,3.30,3.80,08-20 12:48,Live
+144,3,Holstein Kiel,3,1,Greuther Furth,2.05,3.30,3.60,08-20 12:43,Live
+145,3,Holstein Kiel,3,1,Greuther Furth,2.10,3.30,3.50,08-20 12:25,Live
+146,3,Holstein Kiel,3,1,Greuther Furth,2.05,3.30,3.60,08-16 01:04,Live
+147,3,Holstein Kiel,3,1,Greuther Furth,1.95,3.30,4.00,08-14 14:59,Live
+148,3,Holstein Kiel,3,1,Greuther Furth,2.05,3.25,3.75,08-14 07:32,Live
+149,3,Holstein Kiel,3,1,Greuther Furth,2.10,3.20,3.60,08-12 18:03,Live
+150,3,Arminia Bielefeld,2,0,VfL Bochum,2.40,3.40,2.87,08-21 19:31,Live
+151,3,Arminia Bielefeld,2,0,VfL Bochum,2.30,3.40,3.00,08-21 18:40,Live
+152,3,Arminia Bielefeld,2,0,VfL Bochum,2.25,3.20,3.30,08-18 16:04,Live
+153,3,Arminia Bielefeld,2,0,VfL Bochum,2.15,3.20,3.50,08-14 13:56,Live
+154,3,Arminia Bielefeld,2,0,VfL Bochum,2.20,3.20,3.40,08-14 04:06,Live
+155,3,Arminia Bielefeld,2,0,VfL Bochum,2.05,3.25,3.75,08-12 18:03,Live
+156,4,Greuther Furth,0,1,Ingolstadt,3.00,3.20,2.40,08-25 18:07,Live
+157,4,Greuther Furth,0,1,Ingolstadt,2.87,3.20,2.50,08-25 16:19,Live
+158,4,Greuther Furth,0,1,Ingolstadt,3.00,3.20,2.37,08-25 09:27,Live
+159,4,Greuther Furth,0,1,Ingolstadt,2.87,3.20,2.50,08-24 21:23,Live
+160,4,Greuther Furth,0,1,Ingolstadt,3.00,3.20,2.37,08-23 14:47,Live
+161,4,Greuther Furth,0,1,Ingolstadt,2.80,3.20,2.50,08-23 01:35,Live
+162,4,Greuther Furth,0,1,Ingolstadt,3.10,3.30,2.30,08-21 06:05,Live
+163,4,MSV Duisburg,1,2,Darmstadt,2.25,3.20,3.30,08-25 17:39,Live
+164,4,MSV Duisburg,1,2,Darmstadt,2.45,3.20,3.00,08-25 12:00,Live
+165,4,MSV Duisburg,1,2,Darmstadt,2.30,3.20,3.20,08-25 10:57,Live
+166,4,MSV Duisburg,1,2,Darmstadt,2.45,3.20,3.00,08-25 09:27,Live
+167,4,MSV Duisburg,1,2,Darmstadt,2.50,3.20,2.87,08-25 09:14,Live
+168,4,MSV Duisburg,1,2,Darmstadt,2.60,3.30,2.62,08-25 05:20,Live
+169,4,MSV Duisburg,1,2,Darmstadt,2.55,3.30,2.70,08-24 20:53,Live
+170,4,MSV Duisburg,1,2,Darmstadt,2.60,3.30,2.62,08-23 14:32,Live
+171,4,MSV Duisburg,1,2,Darmstadt,2.62,3.30,2.60,08-22 05:55,Live
+172,4,MSV Duisburg,1,2,Darmstadt,2.80,3.30,2.45,08-21 11:40,Live
+173,4,MSV Duisburg,1,2,Darmstadt,2.90,3.30,2.37,08-21 06:05,Live
+174,4,Jahn Regensburg,1,2,Holstein Kiel,2.87,3.40,2.37,08-26 08:48,Live
+175,4,Jahn Regensburg,1,2,Holstein Kiel,2.70,3.40,2.50,08-26 03:31,Live
+176,4,Jahn Regensburg,1,2,Holstein Kiel,2.75,3.30,2.45,08-25 23:04,Live
+177,4,Jahn Regensburg,1,2,Holstein Kiel,2.60,3.30,2.62,08-21 06:05,Live
+178,4,St. Pauli,1,0,Heidenheimer,1.95,3.30,4.00,08-26 03:31,Live
+179,4,St. Pauli,1,0,Heidenheimer,1.85,3.40,4.20,08-25 10:57,Live
+180,4,St. Pauli,1,0,Heidenheimer,2.00,3.30,3.80,08-22 01:54,Live
+181,4,St. Pauli,1,0,Heidenheimer,2.05,3.30,3.60,08-22 00:25,Live
+182,4,St. Pauli,1,0,Heidenheimer,1.95,3.50,3.40,08-21 12:34,Live
+183,4,St. Pauli,1,0,Heidenheimer,2.20,3.40,2.90,08-21 06:05,Live
+184,4,Erzgebirge Aue,3,1,Nurnberg,2.70,3.30,2.60,08-26 12:04,Live
+185,4,Erzgebirge Aue,3,1,Nurnberg,2.87,3.30,2.40,08-25 23:50,Live
+186,4,Erzgebirge Aue,3,1,Nurnberg,2.90,3.30,2.37,08-21 06:05,Live
+187,4,VfL Bochum,3,2,Dynamo Dresden,1.66,3.90,4.75,08-27 12:58,Live
+188,4,VfL Bochum,3,2,Dynamo Dresden,1.66,3.60,5.50,08-27 12:50,Live
+189,4,VfL Bochum,3,2,Dynamo Dresden,1.72,3.50,5.00,08-27 10:06,Live
+190,4,VfL Bochum,3,2,Dynamo Dresden,1.75,3.50,4.75,08-27 06:30,Live
+191,4,VfL Bochum,3,2,Dynamo Dresden,1.85,3.40,4.33,08-26 14:20,Live
+192,4,VfL Bochum,3,2,Dynamo Dresden,1.95,3.30,4.00,08-24 01:49,Live
+193,4,VfL Bochum,3,2,Dynamo Dresden,2.00,3.30,3.80,08-21 13:24,Live
+194,4,VfL Bochum,3,2,Dynamo Dresden,2.10,3.20,3.60,08-21 08:15,Live
+195,4,VfL Bochum,3,2,Dynamo Dresden,2.20,3.10,3.50,08-21 07:34,Live
+196,4,VfL Bochum,3,2,Dynamo Dresden,2.30,3.10,3.20,08-21 06:05,Live
+197,4,SV Sandhausen,1,2,Fortuna Dusseldorf,2.30,3.20,3.10,08-27 12:35,Live
+198,4,SV Sandhausen,1,2,Fortuna Dusseldorf,2.40,3.20,3.00,08-27 02:38,Live
+199,4,SV Sandhausen,1,2,Fortuna Dusseldorf,2.50,3.20,2.87,08-26 03:31,Live
+200,4,SV Sandhausen,1,2,Fortuna Dusseldorf,2.45,3.30,2.87,08-25 09:54,Live
+201,4,SV Sandhausen,1,2,Fortuna Dusseldorf,2.40,3.30,2.87,08-21 10:38,Live
+202,4,SV Sandhausen,1,2,Fortuna Dusseldorf,2.50,3.30,2.75,08-21 06:05,Live
+203,4,Union Berlin,1,1,Arminia Bielefeld,1.70,3.50,5.25,08-27 10:00,Live
+204,4,Union Berlin,1,1,Arminia Bielefeld,1.72,3.50,5.00,08-21 11:40,Live
+205,4,Union Berlin,1,1,Arminia Bielefeld,1.66,3.60,5.25,08-21 06:05,Live
+206,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.40,3.20,3.00,08-28 19:38,Live
+207,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.50,3.20,2.87,08-28 19:36,Live
+208,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.50,3.20,2.80,08-28 17:07,Live
+209,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.60,3.20,2.70,08-28 16:18,Live
+210,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.60,3.30,2.62,08-27 17:30,Live
+211,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.50,3.30,2.75,08-21 12:14,Live
+212,4,Kaiserslautern,1,1,Eintracht Braunschweig,2.40,3.30,2.87,08-21 06:05,Live
+213,5,Dynamo Dresden,1,1,Greuther Furth,2.35,3.30,3.00,09-08 15:20,Live
+214,5,Dynamo Dresden,1,1,Greuther Furth,2.25,3.30,3.20,09-07 22:12,Live
+215,5,Dynamo Dresden,1,1,Greuther Furth,2.20,3.30,3.30,08-31 22:16,Live
+216,5,Dynamo Dresden,1,1,Greuther Furth,2.15,3.40,3.30,08-31 22:05,Live
+217,5,Dynamo Dresden,1,1,Greuther Furth,2.05,3.40,3.50,08-28 12:39,Live
+218,5,Heidenheimer,1,3,Jahn Regensburg,2.00,3.50,3.60,09-08 04:22,Live
+219,5,Heidenheimer,1,3,Jahn Regensburg,2.05,3.40,3.60,08-28 14:11,Live
+220,5,Heidenheimer,1,3,Jahn Regensburg,2.00,3.40,3.75,08-28 12:50,Live
+221,5,Ingolstadt,1,2,Erzgebirge Aue,1.75,3.50,4.75,09-09 11:30,Live
+222,5,Ingolstadt,1,2,Erzgebirge Aue,1.70,3.60,5.00,09-09 09:29,Live
+223,5,Ingolstadt,1,2,Erzgebirge Aue,1.75,3.60,4.75,09-08 08:29,Live
+224,5,Ingolstadt,1,2,Erzgebirge Aue,1.80,3.60,4.33,09-07 03:32,Live
+225,5,Ingolstadt,1,2,Erzgebirge Aue,1.80,3.60,4.50,09-06 18:03,Live
+226,5,Ingolstadt,1,2,Erzgebirge Aue,1.83,3.50,4.33,09-04 16:21,Live
+227,5,Ingolstadt,1,2,Erzgebirge Aue,1.83,3.50,4.20,08-29 15:22,Live
+228,5,Ingolstadt,1,2,Erzgebirge Aue,1.72,3.60,4.75,08-28 14:01,Live
+229,5,Ingolstadt,1,2,Erzgebirge Aue,1.66,3.60,5.25,08-28 12:43,Live
+230,5,Arminia Bielefeld,0,4,MSV Duisburg,2.15,3.40,3.25,09-09 12:11,Live
+231,5,Arminia Bielefeld,0,4,MSV Duisburg,2.10,3.40,3.40,08-28 14:33,Live
+232,5,Arminia Bielefeld,0,4,MSV Duisburg,2.05,3.40,3.60,08-28 14:05,Live
+233,5,Arminia Bielefeld,0,4,MSV Duisburg,2.00,3.40,3.75,08-28 12:42,Live
+234,5,Holstein Kiel,2,1,Kaiserslautern,1.66,3.80,5.00,09-09 12:11,Live
+235,5,Holstein Kiel,2,1,Kaiserslautern,1.75,3.70,4.50,09-09 11:15,Live
+236,5,Holstein Kiel,2,1,Kaiserslautern,1.80,3.60,4.33,09-09 02:42,Live
+237,5,Holstein Kiel,2,1,Kaiserslautern,1.75,3.75,4.33,09-07 21:37,Live
+238,5,Holstein Kiel,2,1,Kaiserslautern,1.72,3.75,4.50,09-04 09:38,Live
+239,5,Holstein Kiel,2,1,Kaiserslautern,1.80,3.60,4.33,08-28 14:01,Live
+240,5,Holstein Kiel,2,1,Kaiserslautern,1.90,3.50,4.00,08-28 13:26,Live
+241,5,Holstein Kiel,2,1,Kaiserslautern,1.95,3.50,3.80,08-28 12:48,Live
+242,5,Darmstadt,1,2,VfL Bochum,2.10,3.40,3.40,09-10 12:49,Live
+243,5,Darmstadt,1,2,VfL Bochum,2.20,3.40,3.20,09-10 06:15,Live
+244,5,Darmstadt,1,2,VfL Bochum,2.10,3.40,3.40,09-10 01:05,Live
+245,5,Darmstadt,1,2,VfL Bochum,2.25,3.30,3.20,09-10 00:17,Live
+246,5,Darmstadt,1,2,VfL Bochum,2.30,3.30,3.10,08-31 01:11,Live
+247,5,Darmstadt,1,2,VfL Bochum,2.20,3.25,3.30,08-28 14:11,Live
+248,5,Darmstadt,1,2,VfL Bochum,2.15,3.25,3.40,08-28 14:02,Live
+249,5,Darmstadt,1,2,VfL Bochum,2.20,3.25,3.25,08-28 14:01,Live
+250,5,Darmstadt,1,2,VfL Bochum,2.15,3.25,3.40,08-28 13:38,Live
+251,5,Darmstadt,1,2,VfL Bochum,2.05,3.30,3.60,08-28 13:20,Live
+252,5,Darmstadt,1,2,VfL Bochum,2.15,3.25,3.40,08-28 12:48,Live
+253,5,Eintracht Braunschweig,1,1,SV Sandhausen,2.05,3.60,3.40,09-10 12:40,Live
+254,5,Eintracht Braunschweig,1,1,SV Sandhausen,2.00,3.60,3.50,09-10 12:22,Live
+255,5,Eintracht Braunschweig,1,1,SV Sandhausen,2.10,3.50,3.30,09-09 22:35,Live
+256,5,Eintracht Braunschweig,1,1,SV Sandhausen,2.05,3.40,3.50,09-07 03:32,Live
+257,5,Eintracht Braunschweig,1,1,SV Sandhausen,2.00,3.40,3.60,09-06 10:11,Live
+258,5,Eintracht Braunschweig,1,1,SV Sandhausen,2.05,3.40,3.50,09-06 03:09,Live
+259,5,Eintracht Braunschweig,1,1,SV Sandhausen,1.95,3.40,3.90,08-29 11:51,Live
+260,5,Eintracht Braunschweig,1,1,SV Sandhausen,1.90,3.40,4.00,08-28 18:00,Live
+261,5,Eintracht Braunschweig,1,1,SV Sandhausen,1.85,3.40,4.33,08-28 14:01,Live
+262,5,Eintracht Braunschweig,1,1,SV Sandhausen,1.80,3.50,4.50,08-28 12:48,Live
+263,5,Fortuna Dusseldorf,3,2,Union Berlin,2.37,3.40,2.87,09-10 12:49,Live
+264,5,Fortuna Dusseldorf,3,2,Union Berlin,2.45,3.40,2.75,09-10 12:37,Live
+265,5,Fortuna Dusseldorf,3,2,Union Berlin,2.30,3.40,3.00,09-10 10:24,Live
+266,5,Fortuna Dusseldorf,3,2,Union Berlin,2.37,3.30,2.90,09-10 06:31,Live
+267,5,Fortuna Dusseldorf,3,2,Union Berlin,2.45,3.30,2.80,08-28 13:55,Live
+268,5,Fortuna Dusseldorf,3,2,Union Berlin,2.55,3.25,2.75,08-28 12:48,Live
+269,5,Nurnberg,0,1,St. Pauli,1.95,3.40,4.00,09-11 19:58,Live
+270,5,Nurnberg,0,1,St. Pauli,2.00,3.40,3.75,09-11 18:15,Live
+271,5,Nurnberg,0,1,St. Pauli,2.05,3.40,3.60,09-11 13:49,Live
+272,5,Nurnberg,0,1,St. Pauli,2.10,3.30,3.50,09-08 09:47,Live
+273,5,Nurnberg,0,1,St. Pauli,2.15,3.30,3.40,09-07 17:42,Live
+274,5,Nurnberg,0,1,St. Pauli,2.25,3.25,3.20,09-06 10:07,Live
+275,5,Nurnberg,0,1,St. Pauli,2.20,3.30,3.25,09-06 10:03,Live
+276,5,Nurnberg,0,1,St. Pauli,2.25,3.30,3.10,09-06 10:01,Live
+277,5,Nurnberg,0,1,St. Pauli,2.37,3.30,2.90,08-29 11:51,Live
+278,5,Nurnberg,0,1,St. Pauli,2.45,3.25,2.87,08-28 13:30,Live
+279,5,Nurnberg,0,1,St. Pauli,2.37,3.25,3.00,08-28 12:48,Live
+280,6,Erzgebirge Aue,0,3,Holstein Kiel,2.87,3.20,2.50,09-15 16:46,Live
+281,6,Erzgebirge Aue,0,3,Holstein Kiel,3.00,3.20,2.37,09-15 15:44,Live
+282,6,Erzgebirge Aue,0,3,Holstein Kiel,2.80,3.20,2.55,09-15 10:06,Live
+283,6,Erzgebirge Aue,0,3,Holstein Kiel,2.75,3.20,2.60,09-14 11:41,Live
+284,6,Erzgebirge Aue,0,3,Holstein Kiel,3.00,3.20,2.40,09-11 05:03,Live
+285,6,Erzgebirge Aue,0,3,Holstein Kiel,2.75,3.20,2.62,09-10 17:28,Live
+286,6,Erzgebirge Aue,0,3,Holstein Kiel,2.60,3.20,2.75,09-10 17:25,Live
+287,6,Union Berlin,1,1,Eintracht Braunschweig,1.75,3.60,4.60,09-15 17:06,Live
+288,6,Union Berlin,1,1,Eintracht Braunschweig,1.83,3.50,4.20,09-15 08:48,Live
+289,6,Union Berlin,1,1,Eintracht Braunschweig,1.85,3.60,4.00,09-15 01:57,Live
+290,6,Union Berlin,1,1,Eintracht Braunschweig,1.90,3.50,4.00,09-15 00:33,Live
+291,6,Union Berlin,1,1,Eintracht Braunschweig,2.00,3.30,3.75,09-10 16:44,Live
+292,6,St. Pauli,0,4,Ingolstadt,2.62,3.30,2.60,09-16 09:42,Live
+293,6,St. Pauli,0,4,Ingolstadt,2.55,3.30,2.70,09-16 07:47,Live
+294,6,St. Pauli,0,4,Ingolstadt,2.45,3.30,2.80,09-15 13:08,Live
+295,6,St. Pauli,0,4,Ingolstadt,2.40,3.30,2.90,09-15 10:04,Live
+296,6,St. Pauli,0,4,Ingolstadt,2.30,3.30,3.10,09-10 16:49,Live
+297,6,MSV Duisburg,1,6,Nurnberg,2.25,3.20,3.30,09-16 12:28,Live
+298,6,MSV Duisburg,1,6,Nurnberg,2.37,3.20,3.00,09-16 11:41,Live
+299,6,MSV Duisburg,1,6,Nurnberg,2.45,3.20,2.90,09-16 10:42,Live
+300,6,MSV Duisburg,1,6,Nurnberg,2.40,3.20,3.00,09-11 00:58,Live
+301,6,MSV Duisburg,1,6,Nurnberg,2.50,3.20,2.80,09-10 17:25,Live
+302,6,SV Sandhausen,1,0,Kaiserslautern,2.15,3.20,3.60,09-16 11:41,Live
+303,6,SV Sandhausen,1,0,Kaiserslautern,2.05,3.40,3.60,09-15 22:54,Live
+304,6,SV Sandhausen,1,0,Kaiserslautern,2.00,3.40,3.70,09-15 14:58,Live
+305,6,SV Sandhausen,1,0,Kaiserslautern,2.05,3.40,3.50,09-11 18:29,Live
+306,6,SV Sandhausen,1,0,Kaiserslautern,2.15,3.40,3.30,09-11 00:58,Live
+307,6,SV Sandhausen,1,0,Kaiserslautern,2.25,3.30,3.20,09-10 22:41,Live
+308,6,SV Sandhausen,1,0,Kaiserslautern,2.37,3.25,3.00,09-10 20:33,Live
+309,6,SV Sandhausen,1,0,Kaiserslautern,2.30,3.25,3.10,09-10 16:44,Live
+310,6,Jahn Regensburg,0,2,Dynamo Dresden,2.50,3.30,2.75,09-17 11:36,Live
+311,6,Jahn Regensburg,0,2,Dynamo Dresden,2.50,3.30,2.80,09-17 01:54,Live
+312,6,Jahn Regensburg,0,2,Dynamo Dresden,2.37,3.40,2.87,09-15 11:53,Live
+313,6,Jahn Regensburg,0,2,Dynamo Dresden,2.30,3.40,3.00,09-13 18:01,Live
+314,6,Jahn Regensburg,0,2,Dynamo Dresden,2.40,3.40,2.80,09-13 03:56,Live
+315,6,Jahn Regensburg,0,2,Dynamo Dresden,2.30,3.20,3.10,09-10 17:25,Live
+316,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.87,3.20,2.50,09-17 11:27,Live
+317,6,Greuther Furth,3,1,Fortuna Dusseldorf,3.00,3.20,2.37,09-17 10:57,Live
+318,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.80,3.20,2.50,09-17 10:55,Live
+319,6,Greuther Furth,3,1,Fortuna Dusseldorf,3.00,3.20,2.40,09-17 08:56,Live
+320,6,Greuther Furth,3,1,Fortuna Dusseldorf,3.00,3.20,2.37,09-17 06:16,Live
+321,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.70,3.20,2.62,09-13 18:01,Live
+322,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.62,3.20,2.70,09-13 03:49,Live
+323,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.62,3.25,2.62,09-12 15:34,Live
+324,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.60,3.25,2.70,09-11 05:03,Live
+325,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.50,3.25,2.75,09-10 21:07,Live
+326,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.62,3.25,2.62,09-10 20:38,Live
+327,6,Greuther Furth,3,1,Fortuna Dusseldorf,2.75,3.25,2.55,09-10 20:33,Live
+328,6,Greuther Furth,3,1,Fortuna Dusseldorf,3.00,3.25,2.37,09-10 16:49,Live
+329,6,VfL Bochum,1,2,Heidenheimer,1.90,3.40,4.00,09-11 05:03,Live
+330,6,VfL Bochum,1,2,Heidenheimer,2.00,3.40,3.60,09-10 20:38,Live
+331,6,VfL Bochum,1,2,Heidenheimer,2.10,3.30,3.50,09-10 16:49,Live
+332,6,Darmstadt,4,3,Arminia Bielefeld,2.05,3.30,3.60,09-17 13:08,Live
+333,6,Darmstadt,4,3,Arminia Bielefeld,2.00,3.30,3.80,09-11 09:24,Live
+334,6,Darmstadt,4,3,Arminia Bielefeld,2.10,3.25,3.60,09-11 00:34,Live
+335,6,Darmstadt,4,3,Arminia Bielefeld,2.00,3.30,3.80,09-10 22:41,Live
+336,6,Darmstadt,4,3,Arminia Bielefeld,2.05,3.25,3.75,09-10 17:25,Live
+337,7,Ingolstadt,2,2,MSV Duisburg,1.61,3.60,6.00,09-19 00:43,Live
+338,7,Ingolstadt,2,2,MSV Duisburg,1.66,3.50,5.50,09-18 02:52,Live
+339,7,Ingolstadt,2,2,MSV Duisburg,1.65,3.60,5.75,09-17 19:13,Live
+340,7,Ingolstadt,2,2,MSV Duisburg,1.70,3.50,5.25,09-17 18:33,Live
+341,7,Ingolstadt,2,2,MSV Duisburg,1.80,3.40,4.75,09-17 16:28,Live
+342,7,SV Sandhausen,1,0,Union Berlin,2.40,3.40,2.80,09-19 17:37,Live
+343,7,SV Sandhausen,1,0,Union Berlin,2.70,3.40,2.50,09-19 13:10,Live
+344,7,SV Sandhausen,1,0,Union Berlin,2.60,3.40,2.60,09-19 08:43,Live
+345,7,SV Sandhausen,1,0,Union Berlin,2.70,3.40,2.50,09-19 05:16,Live
+346,7,SV Sandhausen,1,0,Union Berlin,2.90,3.30,2.40,09-18 20:29,Live
+347,7,SV Sandhausen,1,0,Union Berlin,2.87,3.20,2.50,09-18 16:58,Live
+348,7,SV Sandhausen,1,0,Union Berlin,2.75,3.20,2.60,09-17 19:13,Live
+349,7,SV Sandhausen,1,0,Union Berlin,2.62,3.20,2.70,09-17 17:19,Live
+350,7,SV Sandhausen,1,0,Union Berlin,2.37,3.20,3.00,09-17 16:28,Live
+351,7,Kaiserslautern,0,2,Erzgebirge Aue,2.37,3.10,3.10,09-19 17:42,Live
+352,7,Kaiserslautern,0,2,Erzgebirge Aue,2.20,3.20,3.40,09-19 09:59,Live
+353,7,Kaiserslautern,0,2,Erzgebirge Aue,2.15,3.20,3.50,09-18 12:41,Live
+354,7,Kaiserslautern,0,2,Erzgebirge Aue,2.10,3.25,3.50,09-17 16:28,Live
+355,7,Holstein Kiel,0,1,St. Pauli,1.75,3.50,4.75,09-19 18:06,Live
+356,7,Holstein Kiel,0,1,St. Pauli,1.85,3.40,4.33,09-19 17:42,Live
+357,7,Holstein Kiel,0,1,St. Pauli,1.80,3.50,4.50,09-19 15:44,Live
+358,7,Holstein Kiel,0,1,St. Pauli,1.72,3.60,4.75,09-19 14:36,Live
+359,7,Holstein Kiel,0,1,St. Pauli,1.83,3.50,4.20,09-19 13:22,Live
+360,7,Holstein Kiel,0,1,St. Pauli,1.80,3.75,4.20,09-19 12:58,Live
+361,7,Holstein Kiel,0,1,St. Pauli,1.72,3.75,4.60,09-19 10:50,Live
+362,7,Holstein Kiel,0,1,St. Pauli,1.80,3.60,4.33,09-18 22:05,Live
+363,7,Holstein Kiel,0,1,St. Pauli,1.75,3.60,4.75,09-18 21:59,Live
+364,7,Holstein Kiel,0,1,St. Pauli,1.75,3.40,5.00,09-18 18:01,Live
+365,7,Holstein Kiel,0,1,St. Pauli,1.80,3.40,4.75,09-18 02:52,Live
+366,7,Holstein Kiel,0,1,St. Pauli,1.80,3.40,5.00,09-17 19:02,Live
+367,7,Holstein Kiel,0,1,St. Pauli,1.80,3.40,4.75,09-17 18:33,Live
+368,7,Holstein Kiel,0,1,St. Pauli,1.85,3.30,4.50,09-17 17:50,Live
+369,7,Holstein Kiel,0,1,St. Pauli,1.85,3.25,4.50,09-17 17:19,Live
+370,7,Holstein Kiel,0,1,St. Pauli,2.00,3.20,4.00,09-17 16:28,Live
+371,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.75,4.00,4.33,09-20 17:46,Live
+372,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.75,3.80,4.50,09-20 15:07,Live
+373,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.72,3.80,4.75,09-20 15:01,Live
+374,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.80,3.75,4.33,09-20 14:11,Live
+375,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.85,3.60,4.20,09-20 13:44,Live
+376,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.75,3.60,4.60,09-20 13:40,Live
+377,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.66,3.75,5.00,09-20 13:05,Live
+378,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.70,3.50,5.25,09-17 18:44,Live
+379,7,Fortuna Dusseldorf,1,0,Jahn Regensburg,1.72,3.50,5.00,09-17 16:28,Live
+380,7,Eintracht Braunschweig,3,0,Greuther Furth,2.15,3.30,3.40,09-20 18:16,Live
+381,7,Eintracht Braunschweig,3,0,Greuther Furth,2.10,3.30,3.50,09-20 16:14,Live
+382,7,Eintracht Braunschweig,3,0,Greuther Furth,2.00,3.30,3.80,09-19 01:27,Live
+383,7,Eintracht Braunschweig,3,0,Greuther Furth,1.95,3.25,4.20,09-18 12:41,Live
+384,7,Eintracht Braunschweig,3,0,Greuther Furth,2.05,3.20,3.80,09-17 23:43,Live
+385,7,Eintracht Braunschweig,3,0,Greuther Furth,2.00,3.10,4.20,09-17 17:19,Live
+386,7,Eintracht Braunschweig,3,0,Greuther Furth,2.05,3.10,4.00,09-17 16:28,Live
+387,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.05,3.50,3.40,09-20 17:46,Live
+388,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.10,3.40,3.40,09-20 17:17,Live
+389,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.05,3.40,3.50,09-19 01:24,Live
+390,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.10,3.40,3.50,09-18 09:48,Live
+391,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.25,3.30,3.20,09-17 21:54,Live
+392,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.20,3.10,3.60,09-17 19:13,Live
+393,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.30,3.10,3.30,09-17 17:50,Live
+394,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.20,3.10,3.50,09-17 17:19,Live
+395,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.45,3.10,3.00,09-17 17:02,Live
+396,7,Dynamo Dresden,0,2,Arminia Bielefeld,2.40,3.20,3.00,09-17 16:28,Live
+397,7,Heidenheimer,2,2,Darmstadt,2.37,3.10,3.10,09-20 15:33,Live
+398,7,Heidenheimer,2,2,Darmstadt,2.50,3.10,2.90,09-20 03:21,Live
+399,7,Heidenheimer,2,2,Darmstadt,2.37,3.10,3.10,09-18 12:01,Live
+400,7,Heidenheimer,2,2,Darmstadt,2.50,3.10,2.90,09-18 02:52,Live
+401,7,Heidenheimer,2,2,Darmstadt,2.50,3.10,3.00,09-17 17:19,Live
+402,7,Heidenheimer,2,2,Darmstadt,2.30,3.10,3.30,09-17 16:28,Live
+403,7,Nurnberg,3,1,VfL Bochum,2.25,3.40,3.10,09-21 18:33,Live
+404,7,Nurnberg,3,1,VfL Bochum,2.15,3.40,3.25,09-21 17:17,Live
+405,7,Nurnberg,3,1,VfL Bochum,2.05,3.50,3.40,09-21 15:53,Live
+406,7,Nurnberg,3,1,VfL Bochum,2.10,3.50,3.25,09-21 13:55,Live
+407,7,Nurnberg,3,1,VfL Bochum,2.10,3.50,3.30,09-21 00:30,Live
+408,7,Nurnberg,3,1,VfL Bochum,2.00,3.30,3.80,09-18 12:41,Live
+409,7,Nurnberg,3,1,VfL Bochum,1.95,3.30,4.00,09-17 16:28,Live
+410,8,Erzgebirge Aue,1,0,SV Sandhausen,2.55,3.10,2.87,09-22 17:46,Live
+411,8,Erzgebirge Aue,1,0,SV Sandhausen,2.45,3.10,3.00,09-22 16:15,Live
+412,8,Erzgebirge Aue,1,0,SV Sandhausen,2.55,3.10,2.87,09-22 14:29,Live
+413,8,Erzgebirge Aue,1,0,SV Sandhausen,2.45,3.10,3.00,09-22 11:55,Live
+414,8,Erzgebirge Aue,1,0,SV Sandhausen,2.50,3.10,2.90,09-22 07:48,Live
+415,8,Erzgebirge Aue,1,0,SV Sandhausen,2.37,3.10,3.10,09-21 11:06,Live
+416,8,Erzgebirge Aue,1,0,SV Sandhausen,2.40,3.10,3.10,09-21 00:30,Live
+417,8,Erzgebirge Aue,1,0,SV Sandhausen,2.20,3.20,3.10,09-20 21:33,Live
+418,8,Erzgebirge Aue,1,0,SV Sandhausen,2.10,3.20,3.30,09-20 17:05,Live
+419,8,Erzgebirge Aue,1,0,SV Sandhausen,2.15,3.20,3.20,09-20 16:50,Live
+420,8,MSV Duisburg,1,3,Holstein Kiel,2.75,3.50,2.40,09-22 17:46,Live
+421,8,MSV Duisburg,1,3,Holstein Kiel,2.80,3.50,2.37,09-22 11:55,Live
+422,8,MSV Duisburg,1,3,Holstein Kiel,2.75,3.50,2.40,09-22 11:32,Live
+423,8,MSV Duisburg,1,3,Holstein Kiel,2.90,3.50,2.30,09-22 10:17,Live
+424,8,MSV Duisburg,1,3,Holstein Kiel,2.80,3.50,2.40,09-22 09:28,Live
+425,8,MSV Duisburg,1,3,Holstein Kiel,2.90,3.50,2.30,09-22 02:58,Live
+426,8,MSV Duisburg,1,3,Holstein Kiel,2.70,3.40,2.50,09-21 00:30,Live
+427,8,MSV Duisburg,1,3,Holstein Kiel,2.70,3.30,2.40,09-20 21:02,Live
+428,8,MSV Duisburg,1,3,Holstein Kiel,2.87,3.30,2.25,09-20 16:50,Live
+429,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.62,3.30,2.62,09-23 12:30,Live
+430,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.80,3.30,2.50,09-23 12:23,Live
+431,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.75,3.30,2.50,09-23 11:21,Live
+432,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.70,3.30,2.55,09-23 10:56,Live
+433,8,Jahn Regensburg,2,1,Eintracht Braunschweig,3.10,3.30,2.30,09-23 09:52,Live
+434,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.87,3.30,2.40,09-22 22:42,Live
+435,8,Jahn Regensburg,2,1,Eintracht Braunschweig,3.00,3.40,2.30,09-22 21:26,Live
+436,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.87,3.40,2.37,09-22 17:46,Live
+437,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.75,3.40,2.45,09-22 11:59,Live
+438,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.90,3.40,2.37,09-22 11:55,Live
+439,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.70,3.40,2.50,09-21 23:27,Live
+440,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.75,3.40,2.50,09-21 14:31,Live
+441,8,Jahn Regensburg,2,1,Eintracht Braunschweig,3.00,3.40,2.30,09-21 13:01,Live
+442,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.80,3.40,2.40,09-21 00:30,Live
+443,8,Jahn Regensburg,2,1,Eintracht Braunschweig,2.80,3.25,2.30,09-20 16:50,Live
+444,8,Arminia Bielefeld,1,1,Heidenheimer,2.25,3.40,3.10,09-23 12:23,Live
+445,8,Arminia Bielefeld,1,1,Heidenheimer,2.20,3.40,3.20,09-21 00:30,Live
+446,8,Arminia Bielefeld,1,1,Heidenheimer,2.15,3.20,3.20,09-20 17:17,Live
+447,8,Arminia Bielefeld,1,1,Heidenheimer,2.25,3.20,3.00,09-20 16:50,Live
+448,8,St. Pauli,1,2,Fortuna Dusseldorf,2.37,3.30,2.90,09-23 10:56,Live
+449,8,St. Pauli,1,2,Fortuna Dusseldorf,2.25,3.30,3.20,09-22 22:56,Live
+450,8,St. Pauli,1,2,Fortuna Dusseldorf,2.30,3.30,3.10,09-21 11:16,Live
+451,8,St. Pauli,1,2,Fortuna Dusseldorf,2.40,3.30,2.90,09-21 04:44,Live
+452,8,St. Pauli,1,2,Fortuna Dusseldorf,2.50,3.30,2.80,09-21 00:30,Live
+453,8,St. Pauli,1,2,Fortuna Dusseldorf,2.45,3.25,2.90,09-20 22:47,Live
+454,8,St. Pauli,1,2,Fortuna Dusseldorf,2.37,3.25,3.00,09-20 21:36,Live
+455,8,St. Pauli,1,2,Fortuna Dusseldorf,2.40,3.20,2.75,09-20 16:50,Live
+456,8,Greuther Furth,1,3,Nurnberg,2.40,3.30,2.87,09-24 12:53,Live
+457,8,Greuther Furth,1,3,Nurnberg,2.50,3.30,2.75,09-24 12:06,Live
+458,8,Greuther Furth,1,3,Nurnberg,2.40,3.30,2.87,09-21 12:15,Live
+459,8,Greuther Furth,1,3,Nurnberg,2.50,3.30,2.75,09-21 00:39,Live
+460,8,Greuther Furth,1,3,Nurnberg,2.45,3.25,2.62,09-20 16:50,Live
+461,8,VfL Bochum,2,0,Ingolstadt,2.80,3.20,2.50,09-24 11:35,Live
+462,8,VfL Bochum,2,0,Ingolstadt,2.75,3.20,2.55,09-22 12:12,Live
+463,8,VfL Bochum,2,0,Ingolstadt,2.62,3.20,2.70,09-21 00:39,Live
+464,8,VfL Bochum,2,0,Ingolstadt,2.50,3.25,2.55,09-20 21:06,Live
+465,8,VfL Bochum,2,0,Ingolstadt,2.37,3.25,2.70,09-20 16:50,Live
+466,8,Darmstadt,3,3,Dynamo Dresden,2.10,3.50,3.30,09-24 11:52,Live
+467,8,Darmstadt,3,3,Dynamo Dresden,2.05,3.50,3.50,09-24 10:22,Live
+468,8,Darmstadt,3,3,Dynamo Dresden,1.95,3.50,3.75,09-24 09:41,Live
+469,8,Darmstadt,3,3,Dynamo Dresden,2.10,3.40,3.40,09-22 21:37,Live
+470,8,Darmstadt,3,3,Dynamo Dresden,2.05,3.40,3.60,09-21 00:39,Live
+471,8,Darmstadt,3,3,Dynamo Dresden,2.00,3.40,3.30,09-20 17:46,Live
+472,8,Darmstadt,3,3,Dynamo Dresden,1.85,3.50,3.70,09-20 16:50,Live
+473,8,Union Berlin,5,0,Kaiserslautern,1.65,3.80,5.00,09-25 20:02,Live
+474,8,Union Berlin,5,0,Kaiserslautern,1.61,3.80,5.50,09-25 19:43,Live
+475,8,Union Berlin,5,0,Kaiserslautern,1.65,3.70,5.25,09-25 16:52,Live
+476,8,Union Berlin,5,0,Kaiserslautern,1.61,3.75,5.50,09-25 16:04,Live
+477,8,Union Berlin,5,0,Kaiserslautern,1.57,3.80,6.00,09-24 23:37,Live
+478,8,Union Berlin,5,0,Kaiserslautern,1.65,3.75,5.25,09-22 16:15,Live
+479,8,Union Berlin,5,0,Kaiserslautern,1.66,3.75,5.00,09-21 09:44,Live
+480,8,Union Berlin,5,0,Kaiserslautern,1.72,3.60,4.75,09-21 00:39,Live
+481,8,Union Berlin,5,0,Kaiserslautern,1.70,3.60,4.33,09-20 17:17,Live
+482,8,Union Berlin,5,0,Kaiserslautern,1.75,3.50,4.20,09-20 16:50,Live
+483,9,Ingolstadt,3,0,Darmstadt,1.70,3.75,4.75,09-29 16:49,Live
+484,9,Ingolstadt,3,0,Darmstadt,1.72,3.75,4.50,09-29 09:03,Live
+485,9,Ingolstadt,3,0,Darmstadt,1.80,3.60,4.33,09-29 08:35,Live
+486,9,Ingolstadt,3,0,Darmstadt,1.85,3.50,4.20,09-28 17:54,Live
+487,9,Ingolstadt,3,0,Darmstadt,1.90,3.60,3.80,09-27 12:22,Live
+488,9,Ingolstadt,3,0,Darmstadt,1.83,3.75,4.00,09-27 08:58,Live
+489,9,Ingolstadt,3,0,Darmstadt,1.80,3.75,4.20,09-26 16:46,Live
+490,9,Ingolstadt,3,0,Darmstadt,1.83,3.75,4.00,09-26 05:28,Live
+491,9,Ingolstadt,3,0,Darmstadt,1.85,3.75,3.90,09-25 18:55,Live
+492,9,Ingolstadt,3,0,Darmstadt,1.95,3.60,3.60,09-25 11:20,Live
+493,9,Ingolstadt,3,0,Darmstadt,2.00,3.60,3.50,09-25 11:17,Live
+494,9,Ingolstadt,3,0,Darmstadt,2.05,3.50,3.40,09-25 10:30,Live
+495,9,Ingolstadt,3,0,Darmstadt,2.20,3.40,3.20,09-25 08:59,Live
+496,9,Kaiserslautern,3,0,Greuther Furth,2.80,3.20,2.60,09-29 16:24,Live
+497,9,Kaiserslautern,3,0,Greuther Furth,2.62,3.20,2.75,09-29 13:53,Live
+498,9,Kaiserslautern,3,0,Greuther Furth,2.50,3.20,2.87,09-29 13:03,Live
+499,9,Kaiserslautern,3,0,Greuther Furth,2.45,3.20,2.90,09-28 14:45,Live
+500,9,Kaiserslautern,3,0,Greuther Furth,2.50,3.20,2.87,09-28 13:54,Live
+501,9,Kaiserslautern,3,0,Greuther Furth,2.40,3.20,3.00,09-25 08:56,Live
+502,9,Erzgebirge Aue,1,2,Union Berlin,3.50,3.30,2.10,09-30 12:11,Live
+503,9,Erzgebirge Aue,1,2,Union Berlin,3.10,3.30,2.30,09-30 10:09,Live
+504,9,Erzgebirge Aue,1,2,Union Berlin,3.00,3.30,2.35,09-29 10:33,Live
+505,9,Erzgebirge Aue,1,2,Union Berlin,2.90,3.30,2.37,09-28 15:48,Live
+506,9,Erzgebirge Aue,1,2,Union Berlin,2.87,3.30,2.40,09-28 15:30,Live
+507,9,Erzgebirge Aue,1,2,Union Berlin,2.62,3.30,2.60,09-26 05:03,Live
+508,9,Erzgebirge Aue,1,2,Union Berlin,2.60,3.30,2.62,09-25 11:41,Live
+509,9,Erzgebirge Aue,1,2,Union Berlin,2.40,3.30,2.87,09-25 11:29,Live
+510,9,Erzgebirge Aue,1,2,Union Berlin,2.30,3.30,3.00,09-25 10:28,Live
+511,9,Erzgebirge Aue,1,2,Union Berlin,2.40,3.30,2.90,09-25 08:56,Live
+512,9,Holstein Kiel,3,0,VfL Bochum,1.90,3.75,3.60,09-30 09:22,Live
+513,9,Holstein Kiel,3,0,VfL Bochum,1.80,3.75,4.20,09-29 23:00,Live
+514,9,Holstein Kiel,3,0,VfL Bochum,1.75,3.50,4.75,09-28 17:54,Live
+515,9,Holstein Kiel,3,0,VfL Bochum,1.83,3.50,4.33,09-25 10:30,Live
+516,9,Holstein Kiel,3,0,VfL Bochum,1.90,3.50,4.00,09-25 08:56,Live
+517,9,Nurnberg,1,2,Arminia Bielefeld,2.00,3.60,3.50,09-30 12:15,Live
+518,9,Nurnberg,1,2,Arminia Bielefeld,2.00,3.80,3.30,09-30 11:59,Live
+519,9,Nurnberg,1,2,Arminia Bielefeld,1.85,3.80,3.80,09-30 07:46,Live
+520,9,Nurnberg,1,2,Arminia Bielefeld,1.75,3.60,4.75,09-28 21:21,Live
+521,9,Nurnberg,1,2,Arminia Bielefeld,1.72,3.60,4.75,09-27 16:07,Live
+522,9,Nurnberg,1,2,Arminia Bielefeld,1.83,3.50,4.33,09-25 15:14,Live
+523,9,Nurnberg,1,2,Arminia Bielefeld,2.00,3.40,3.75,09-25 08:59,Live
+524,9,Eintracht Braunschweig,0,2,St. Pauli,2.50,3.20,2.87,10-01 12:46,Live
+525,9,Eintracht Braunschweig,0,2,St. Pauli,2.70,3.20,2.62,10-01 10:43,Live
+526,9,Eintracht Braunschweig,0,2,St. Pauli,2.80,3.20,2.55,10-01 10:12,Live
+527,9,Eintracht Braunschweig,0,2,St. Pauli,2.55,3.20,2.80,10-01 10:01,Live
+528,9,Eintracht Braunschweig,0,2,St. Pauli,2.40,3.20,3.00,10-01 01:50,Live
+529,9,Eintracht Braunschweig,0,2,St. Pauli,2.30,3.20,3.10,09-29 18:41,Live
+530,9,Eintracht Braunschweig,0,2,St. Pauli,2.50,3.20,2.80,09-28 00:32,Live
+531,9,Eintracht Braunschweig,0,2,St. Pauli,2.40,3.25,3.00,09-27 14:03,Live
+532,9,Eintracht Braunschweig,0,2,St. Pauli,2.50,3.25,2.87,09-27 12:22,Live
+533,9,Eintracht Braunschweig,0,2,St. Pauli,2.37,3.25,3.00,09-26 04:19,Live
+534,9,Eintracht Braunschweig,0,2,St. Pauli,2.50,3.25,2.80,09-25 12:55,Live
+535,9,Eintracht Braunschweig,0,2,St. Pauli,2.30,3.25,3.10,09-25 11:46,Live
+536,9,Eintracht Braunschweig,0,2,St. Pauli,2.25,3.25,3.20,09-25 11:09,Live
+537,9,Eintracht Braunschweig,0,2,St. Pauli,2.15,3.30,3.40,09-25 10:32,Live
+538,9,Eintracht Braunschweig,0,2,St. Pauli,2.10,3.30,3.50,09-25 08:56,Live
+539,9,Heidenheimer,0,2,Dynamo Dresden,2.30,3.50,2.90,10-01 13:03,Live
+540,9,Heidenheimer,0,2,Dynamo Dresden,2.20,3.50,3.10,10-01 11:31,Live
+541,9,Heidenheimer,0,2,Dynamo Dresden,2.15,3.50,3.20,10-01 10:43,Live
+542,9,Heidenheimer,0,2,Dynamo Dresden,2.10,3.50,3.25,10-01 10:40,Live
+543,9,Heidenheimer,0,2,Dynamo Dresden,2.05,3.50,3.40,10-01 10:20,Live
+544,9,Heidenheimer,0,2,Dynamo Dresden,2.15,3.50,3.20,10-01 06:00,Live
+545,9,Heidenheimer,0,2,Dynamo Dresden,2.30,3.40,3.00,09-29 09:19,Live
+546,9,Heidenheimer,0,2,Dynamo Dresden,2.20,3.40,3.20,09-25 08:56,Live
+547,9,SV Sandhausen,2,0,Jahn Regensburg,1.90,3.50,3.90,10-01 13:00,Live
+548,9,SV Sandhausen,2,0,Jahn Regensburg,1.83,3.50,4.33,10-01 11:28,Live
+549,9,SV Sandhausen,2,0,Jahn Regensburg,1.80,3.50,4.50,10-01 11:10,Live
+550,9,SV Sandhausen,2,0,Jahn Regensburg,1.72,3.60,5.00,10-01 10:52,Live
+551,9,SV Sandhausen,2,0,Jahn Regensburg,1.80,3.60,4.50,10-01 10:43,Live
+552,9,SV Sandhausen,2,0,Jahn Regensburg,1.75,3.60,4.75,09-27 16:16,Live
+553,9,SV Sandhausen,2,0,Jahn Regensburg,1.83,3.50,4.33,09-25 17:49,Live
+554,9,SV Sandhausen,2,0,Jahn Regensburg,1.90,3.40,4.00,09-25 08:59,Live
+555,9,Fortuna Dusseldorf,3,1,MSV Duisburg,2.10,3.40,3.40,10-02 19:52,Live
+556,9,Fortuna Dusseldorf,3,1,MSV Duisburg,2.00,3.50,3.60,10-02 19:48,Live
+557,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.95,3.50,3.80,10-02 18:32,Live
+558,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.90,3.60,3.75,10-02 18:29,Live
+559,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.83,3.75,4.00,10-02 10:31,Live
+560,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.85,3.60,4.00,10-02 10:27,Live
+561,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.72,3.80,4.50,10-02 09:45,Live
+562,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.70,3.80,4.75,10-02 05:31,Live
+563,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.75,3.80,4.33,10-02 01:54,Live
+564,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.80,3.75,4.20,09-29 01:13,Live
+565,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.83,3.60,4.20,09-28 21:49,Live
+566,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.72,3.60,4.75,09-26 05:03,Live
+567,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.66,3.60,5.25,09-25 15:17,Live
+568,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.60,3.75,5.75,09-25 10:32,Live
+569,9,Fortuna Dusseldorf,3,1,MSV Duisburg,1.57,3.75,6.00,09-25 08:59,Live
+570,10,St. Pauli,1,1,Kaiserslautern,1.80,3.50,4.50,10-13 17:58,Live
+571,10,St. Pauli,1,1,Kaiserslautern,1.83,3.50,4.33,10-13 17:19,Live
+572,10,St. Pauli,1,1,Kaiserslautern,1.72,3.60,4.75,10-13 17:07,Live
+573,10,St. Pauli,1,1,Kaiserslautern,1.83,3.50,4.33,10-13 11:29,Live
+574,10,St. Pauli,1,1,Kaiserslautern,1.83,3.60,4.20,10-08 18:09,Live
+575,10,St. Pauli,1,1,Kaiserslautern,1.85,3.60,4.00,10-06 01:25,Live
+576,10,St. Pauli,1,1,Kaiserslautern,1.75,3.75,4.50,10-02 14:33,Live
+577,10,St. Pauli,1,1,Kaiserslautern,1.85,3.60,4.20,10-02 10:12,Live
+578,10,St. Pauli,1,1,Kaiserslautern,1.95,3.50,3.75,10-02 08:58,Live
+579,10,MSV Duisburg,0,0,Eintracht Braunschweig,1.95,3.60,3.60,10-13 17:58,Live
+580,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.00,3.60,3.40,10-13 16:39,Live
+581,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.10,3.60,3.20,10-13 13:55,Live
+582,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.20,3.30,3.30,10-13 08:24,Live
+583,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.30,3.25,3.10,10-10 02:14,Live
+584,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.37,3.25,3.00,10-09 00:32,Live
+585,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.55,3.30,2.70,10-02 14:40,Live
+586,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.70,3.30,2.55,10-02 14:22,Live
+587,10,MSV Duisburg,0,0,Eintracht Braunschweig,2.90,3.30,2.40,10-02 08:58,Live
+588,10,Dynamo Dresden,2,2,Ingolstadt,3.50,3.30,2.10,10-14 11:21,Live
+589,10,Dynamo Dresden,2,2,Ingolstadt,3.30,3.25,2.20,10-11 12:15,Live
+590,10,Dynamo Dresden,2,2,Ingolstadt,3.20,3.25,2.25,10-09 23:40,Live
+591,10,Dynamo Dresden,2,2,Ingolstadt,3.20,3.30,2.20,10-09 19:46,Live
+592,10,Dynamo Dresden,2,2,Ingolstadt,3.10,3.30,2.25,10-09 19:44,Live
+593,10,Dynamo Dresden,2,2,Ingolstadt,3.00,3.30,2.35,10-02 10:31,Live
+594,10,Dynamo Dresden,2,2,Ingolstadt,2.80,3.30,2.45,10-02 10:12,Live
+595,10,Dynamo Dresden,2,2,Ingolstadt,2.70,3.25,2.60,10-02 08:58,Live
+596,10,VfL Bochum,2,0,SV Sandhausen,2.15,3.30,3.40,10-02 11:52,Live
+597,10,VfL Bochum,2,0,SV Sandhausen,2.20,3.30,3.25,10-02 10:15,Live
+598,10,VfL Bochum,2,0,SV Sandhausen,2.40,3.20,3.00,10-02 08:58,Live
+599,10,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.45,3.20,2.90,10-14 11:30,Live
+600,10,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.37,3.20,3.00,10-14 11:21,Live
+601,10,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.45,3.20,2.90,10-14 09:05,Live
+602,10,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.37,3.20,3.00,10-13 14:50,Live
+603,10,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.45,3.20,2.90,10-02 10:14,Live
+604,10,Arminia Bielefeld,0,2,Fortuna Dusseldorf,2.50,3.20,2.87,10-02 08:58,Live
+605,10,Heidenheimer,3,5,Holstein Kiel,3.30,3.50,2.10,10-15 09:40,Live
+606,10,Heidenheimer,3,5,Holstein Kiel,3.50,3.50,2.05,10-12 14:42,Live
+607,10,Heidenheimer,3,5,Holstein Kiel,3.20,3.40,2.20,10-08 22:55,Live
+608,10,Heidenheimer,3,5,Holstein Kiel,3.00,3.40,2.30,10-02 08:58,Live
+609,10,Greuther Furth,2,1,Erzgebirge Aue,2.10,3.50,3.25,10-02 16:58,Live
+610,10,Greuther Furth,2,1,Erzgebirge Aue,2.25,3.40,3.10,10-02 11:27,Live
+611,10,Jahn Regensburg,0,2,Union Berlin,3.30,3.50,2.10,10-15 12:34,Live
+612,10,Jahn Regensburg,0,2,Union Berlin,3.60,3.50,2.00,10-15 10:45,Live
+613,10,Jahn Regensburg,0,2,Union Berlin,3.40,3.50,2.05,10-15 09:18,Live
+614,10,Jahn Regensburg,0,2,Union Berlin,3.40,3.40,2.10,10-14 22:50,Live
+615,10,Jahn Regensburg,0,2,Union Berlin,3.50,3.50,2.05,10-14 21:16,Live
+616,10,Jahn Regensburg,0,2,Union Berlin,3.60,3.50,2.00,10-11 22:42,Live
+617,10,Jahn Regensburg,0,2,Union Berlin,3.40,3.50,2.05,10-09 22:24,Live
+618,10,Jahn Regensburg,0,2,Union Berlin,3.75,3.40,2.00,10-02 11:27,Live
+619,10,Darmstadt,3,4,Nurnberg,2.60,3.40,2.60,10-16 17:45,Live
+620,10,Darmstadt,3,4,Nurnberg,2.45,3.40,2.75,10-16 17:11,Live
+621,10,Darmstadt,3,4,Nurnberg,2.40,3.40,2.80,10-15 23:51,Live
+622,10,Darmstadt,3,4,Nurnberg,2.30,3.40,3.00,10-02 08:58,Live
+623,11,Ingolstadt,3,0,Heidenheimer,1.55,4.00,6.00,10-20 14:16,Live
+624,11,Ingolstadt,3,0,Heidenheimer,1.55,3.75,6.50,10-18 17:40,Live
+625,11,Ingolstadt,3,0,Heidenheimer,1.53,3.75,7.00,10-16 15:53,Live
+626,11,Ingolstadt,3,0,Heidenheimer,1.50,3.75,7.50,10-16 15:35,Live
+627,11,Ingolstadt,3,0,Heidenheimer,1.57,3.60,6.50,10-16 11:01,Live
+628,11,Ingolstadt,3,0,Heidenheimer,1.61,3.60,6.00,10-16 10:48,Live
+629,11,Fortuna Dusseldorf,1,0,Darmstadt,1.70,3.80,4.75,10-20 17:56,Live
+630,11,Fortuna Dusseldorf,1,0,Darmstadt,1.72,3.80,4.50,10-20 17:36,Live
+631,11,Fortuna Dusseldorf,1,0,Darmstadt,1.61,4.00,5.00,10-20 17:27,Live
+632,11,Fortuna Dusseldorf,1,0,Darmstadt,1.70,3.75,4.75,10-20 12:01,Live
+633,11,Fortuna Dusseldorf,1,0,Darmstadt,1.72,3.60,4.75,10-20 08:47,Live
+634,11,Fortuna Dusseldorf,1,0,Darmstadt,1.80,3.50,4.50,10-20 08:35,Live
+635,11,Fortuna Dusseldorf,1,0,Darmstadt,1.85,3.40,4.33,10-20 08:14,Live
+636,11,Fortuna Dusseldorf,1,0,Darmstadt,2.00,3.30,3.80,10-16 18:24,Live
+637,11,Fortuna Dusseldorf,1,0,Darmstadt,2.05,3.25,3.75,10-16 15:20,Live
+638,11,Fortuna Dusseldorf,1,0,Darmstadt,2.10,3.25,3.60,10-16 11:20,Live
+639,11,Fortuna Dusseldorf,1,0,Darmstadt,1.95,3.30,4.00,10-16 10:48,Live
+640,11,Holstein Kiel,2,1,Arminia Bielefeld,1.50,4.33,6.00,10-21 08:34,Live
+641,11,Holstein Kiel,2,1,Arminia Bielefeld,1.45,4.33,7.00,10-21 05:18,Live
+642,11,Holstein Kiel,2,1,Arminia Bielefeld,1.53,4.00,6.00,10-21 00:23,Live
+643,11,Holstein Kiel,2,1,Arminia Bielefeld,1.57,4.00,5.50,10-20 14:47,Live
+644,11,Holstein Kiel,2,1,Arminia Bielefeld,1.55,4.00,5.75,10-20 10:27,Live
+645,11,Holstein Kiel,2,1,Arminia Bielefeld,1.60,4.00,5.25,10-19 12:51,Live
+646,11,Holstein Kiel,2,1,Arminia Bielefeld,1.61,4.00,5.00,10-18 07:41,Live
+647,11,Holstein Kiel,2,1,Arminia Bielefeld,1.57,3.75,6.00,10-17 19:21,Live
+648,11,Holstein Kiel,2,1,Arminia Bielefeld,1.66,3.60,5.25,10-16 17:05,Live
+649,11,Holstein Kiel,2,1,Arminia Bielefeld,1.65,3.60,5.50,10-16 11:56,Live
+650,11,Holstein Kiel,2,1,Arminia Bielefeld,1.72,3.50,5.00,10-16 10:54,Live
+651,11,Eintracht Braunschweig,1,0,VfL Bochum,2.10,3.40,3.40,10-21 12:32,Live
+652,11,Eintracht Braunschweig,1,0,VfL Bochum,2.30,3.30,3.10,10-20 21:35,Live
+653,11,Eintracht Braunschweig,1,0,VfL Bochum,2.40,3.30,2.90,10-16 21:14,Live
+654,11,Eintracht Braunschweig,1,0,VfL Bochum,2.25,3.30,3.20,10-16 15:20,Live
+655,11,Eintracht Braunschweig,1,0,VfL Bochum,2.30,3.30,3.10,10-16 11:54,Live
+656,11,Eintracht Braunschweig,1,0,VfL Bochum,2.40,3.25,2.90,10-16 11:33,Live
+657,11,Eintracht Braunschweig,1,0,VfL Bochum,2.30,3.25,3.10,10-16 11:07,Live
+658,11,Eintracht Braunschweig,1,0,VfL Bochum,2.25,3.25,3.20,10-16 11:01,Live
+659,11,Eintracht Braunschweig,1,0,VfL Bochum,2.37,3.20,3.00,10-16 10:59,Live
+660,11,Eintracht Braunschweig,1,0,VfL Bochum,2.45,3.20,2.87,10-16 10:54,Live
+661,11,Union Berlin,3,1,Greuther Furth,1.57,3.75,6.00,10-21 05:24,Live
+662,11,Union Berlin,3,1,Greuther Furth,1.60,3.50,6.50,10-21 05:18,Live
+663,11,Union Berlin,3,1,Greuther Furth,1.70,3.50,5.25,10-16 11:25,Live
+664,11,Union Berlin,3,1,Greuther Furth,1.75,3.40,5.00,10-16 10:54,Live
+665,11,Nurnberg,2,1,Dynamo Dresden,1.95,3.75,3.50,10-22 12:37,Live
+666,11,Nurnberg,2,1,Dynamo Dresden,1.90,3.75,3.60,10-22 11:23,Live
+667,11,Nurnberg,2,1,Dynamo Dresden,1.95,3.60,3.60,10-21 15:26,Live
+668,11,Nurnberg,2,1,Dynamo Dresden,1.90,3.60,3.75,10-21 12:32,Live
+669,11,Nurnberg,2,1,Dynamo Dresden,1.95,3.50,3.80,10-19 11:56,Live
+670,11,Nurnberg,2,1,Dynamo Dresden,2.00,3.30,3.80,10-17 16:39,Live
+671,11,Nurnberg,2,1,Dynamo Dresden,1.95,3.30,4.00,10-17 16:20,Live
+672,11,Nurnberg,2,1,Dynamo Dresden,2.00,3.30,3.75,10-16 10:54,Live
+673,11,Kaiserslautern,0,1,MSV Duisburg,2.55,3.20,2.80,10-22 12:47,Live
+674,11,Kaiserslautern,0,1,MSV Duisburg,2.37,3.20,3.00,10-22 06:49,Live
+675,11,Kaiserslautern,0,1,MSV Duisburg,2.50,3.20,2.87,10-20 19:03,Live
+676,11,Kaiserslautern,0,1,MSV Duisburg,2.62,3.20,2.70,10-16 17:05,Live
+677,11,Kaiserslautern,0,1,MSV Duisburg,2.55,3.20,2.80,10-16 15:20,Live
+678,11,Kaiserslautern,0,1,MSV Duisburg,2.45,3.20,2.90,10-16 11:56,Live
+679,11,Kaiserslautern,0,1,MSV Duisburg,2.35,3.20,3.10,10-16 10:54,Live
+680,11,Erzgebirge Aue,1,0,Jahn Regensburg,2.15,3.40,3.30,10-22 12:57,Live
+681,11,Erzgebirge Aue,1,0,Jahn Regensburg,2.25,3.40,3.10,10-22 12:34,Live
+682,11,Erzgebirge Aue,1,0,Jahn Regensburg,2.15,3.40,3.25,10-22 08:13,Live
+683,11,Erzgebirge Aue,1,0,Jahn Regensburg,2.10,3.25,3.50,10-16 15:20,Live
+684,11,Erzgebirge Aue,1,0,Jahn Regensburg,2.15,3.20,3.50,10-16 11:27,Live
+685,11,Erzgebirge Aue,1,0,Jahn Regensburg,2.05,3.25,3.75,10-16 10:54,Live
+686,11,SV Sandhausen,1,1,St. Pauli,2.50,3.00,3.00,10-23 19:50,Live
+687,11,SV Sandhausen,1,1,St. Pauli,2.45,3.00,3.10,10-23 13:52,Live
+688,11,SV Sandhausen,1,1,St. Pauli,2.45,3.10,3.00,10-23 13:44,Live
+689,11,SV Sandhausen,1,1,St. Pauli,2.40,3.20,3.00,10-23 09:16,Live
+690,11,SV Sandhausen,1,1,St. Pauli,2.25,3.20,3.20,10-22 18:01,Live
+691,11,SV Sandhausen,1,1,St. Pauli,2.20,3.25,3.30,10-21 11:08,Live
+692,11,SV Sandhausen,1,1,St. Pauli,2.30,3.20,3.10,10-16 14:25,Live
+693,11,SV Sandhausen,1,1,St. Pauli,2.37,3.20,3.00,10-16 10:54,Live
+694,12,St. Pauli,1,1,Erzgebirge Aue,2.00,3.30,3.80,10-27 17:54,Live
+695,12,St. Pauli,1,1,Erzgebirge Aue,1.90,3.30,4.20,10-27 13:48,Live
+696,12,St. Pauli,1,1,Erzgebirge Aue,1.90,3.40,4.00,10-24 09:42,Live
+697,12,St. Pauli,1,1,Erzgebirge Aue,2.00,3.30,3.80,10-23 10:09,Live
+698,12,St. Pauli,1,1,Erzgebirge Aue,2.05,3.30,3.60,10-23 09:24,Live
+699,12,Arminia Bielefeld,1,3,Ingolstadt,4.20,3.75,1.83,10-27 18:16,Live
+700,12,Arminia Bielefeld,1,3,Ingolstadt,3.80,3.60,1.95,10-27 17:43,Live
+701,12,Arminia Bielefeld,1,3,Ingolstadt,4.20,3.40,1.90,10-27 17:38,Live
+702,12,Arminia Bielefeld,1,3,Ingolstadt,3.80,3.40,2.00,10-27 16:08,Live
+703,12,Arminia Bielefeld,1,3,Ingolstadt,3.60,3.40,2.05,10-27 12:06,Live
+704,12,Arminia Bielefeld,1,3,Ingolstadt,3.75,3.40,2.00,10-23 09:57,Live
+705,12,Arminia Bielefeld,1,3,Ingolstadt,3.50,3.30,2.10,10-23 09:56,Live
+706,12,Arminia Bielefeld,1,3,Ingolstadt,3.30,3.25,2.20,10-23 09:42,Live
+707,12,Jahn Regensburg,3,1,Kaiserslautern,2.05,3.30,3.60,10-28 11:08,Live
+708,12,Jahn Regensburg,3,1,Kaiserslautern,2.00,3.30,3.75,10-25 11:50,Live
+709,12,Jahn Regensburg,3,1,Kaiserslautern,2.15,3.25,3.40,10-23 09:26,Live
+710,12,Greuther Furth,2,1,SV Sandhausen,2.50,3.10,2.90,10-28 11:17,Live
+711,12,Greuther Furth,2,1,SV Sandhausen,2.50,3.20,2.87,10-26 22:50,Live
+712,12,Greuther Furth,2,1,SV Sandhausen,2.37,3.10,3.10,10-23 10:04,Live
+713,12,Greuther Furth,2,1,SV Sandhausen,2.50,3.10,2.90,10-23 09:42,Live
+714,12,Darmstadt,1,1,Holstein Kiel,3.40,3.50,2.05,10-28 10:04,Live
+715,12,Darmstadt,1,1,Holstein Kiel,3.60,3.50,2.00,10-26 13:50,Live
+716,12,Darmstadt,1,1,Holstein Kiel,3.40,3.50,2.05,10-26 02:48,Live
+717,12,Darmstadt,1,1,Holstein Kiel,3.75,3.50,1.95,10-24 22:39,Live
+718,12,Darmstadt,1,1,Holstein Kiel,3.80,3.60,1.90,10-24 02:13,Live
+719,12,Darmstadt,1,1,Holstein Kiel,3.60,3.50,2.00,10-23 23:32,Live
+720,12,Darmstadt,1,1,Holstein Kiel,4.20,3.50,1.85,10-23 16:54,Live
+721,12,Darmstadt,1,1,Holstein Kiel,3.90,3.40,1.95,10-23 12:07,Live
+722,12,Darmstadt,1,1,Holstein Kiel,3.75,3.40,2.00,10-23 09:57,Live
+723,12,Darmstadt,1,1,Holstein Kiel,2.80,3.25,2.50,10-23 09:54,Live
+724,12,Darmstadt,1,1,Holstein Kiel,3.25,3.30,2.20,10-23 09:26,Live
+725,12,Heidenheimer,1,0,Nurnberg,3.00,3.60,2.20,10-29 12:17,Live
+726,12,Heidenheimer,1,0,Nurnberg,3.20,3.60,2.10,10-29 11:28,Live
+727,12,Heidenheimer,1,0,Nurnberg,3.00,3.60,2.20,10-29 10:29,Live
+728,12,Heidenheimer,1,0,Nurnberg,3.20,3.40,2.20,10-29 10:06,Live
+729,12,Heidenheimer,1,0,Nurnberg,3.00,3.40,2.30,10-26 02:06,Live
+730,12,Heidenheimer,1,0,Nurnberg,3.20,3.25,2.25,10-25 16:43,Live
+731,12,Heidenheimer,1,0,Nurnberg,3.30,3.25,2.20,10-23 10:04,Live
+732,12,Heidenheimer,1,0,Nurnberg,3.40,3.25,2.15,10-23 09:31,Live
+733,12,MSV Duisburg,1,1,Union Berlin,3.10,3.40,2.25,10-29 11:35,Live
+734,12,MSV Duisburg,1,1,Union Berlin,3.40,3.40,2.10,10-29 11:19,Live
+735,12,MSV Duisburg,1,1,Union Berlin,3.20,3.40,2.20,10-29 10:29,Live
+736,12,MSV Duisburg,1,1,Union Berlin,2.87,3.40,2.37,10-26 02:48,Live
+737,12,MSV Duisburg,1,1,Union Berlin,3.00,3.25,2.30,10-25 17:04,Live
+738,12,MSV Duisburg,1,1,Union Berlin,2.90,3.25,2.40,10-23 09:42,Live
+739,12,Dynamo Dresden,1,1,Eintracht Braunschweig,2.00,3.50,3.50,10-29 11:41,Live
+740,12,Dynamo Dresden,1,1,Eintracht Braunschweig,2.05,3.50,3.40,10-27 14:19,Live
+741,12,Dynamo Dresden,1,1,Eintracht Braunschweig,2.10,3.50,3.25,10-24 18:07,Live
+742,12,Dynamo Dresden,1,1,Eintracht Braunschweig,2.20,3.50,3.10,10-23 23:42,Live
+743,12,Dynamo Dresden,1,1,Eintracht Braunschweig,2.20,3.20,3.30,10-23 12:02,Live
+744,12,Dynamo Dresden,1,1,Eintracht Braunschweig,2.30,3.20,3.10,10-23 09:28,Live
+745,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.62,3.25,2.62,10-30 18:48,Live
+746,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.80,3.25,2.50,10-30 16:20,Live
+747,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.62,3.25,2.62,10-30 10:20,Live
+748,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.60,3.25,2.70,10-30 06:29,Live
+749,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.45,3.25,2.87,10-27 15:45,Live
+750,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.62,3.25,2.62,10-23 16:41,Live
+751,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.60,3.20,2.70,10-23 09:59,Live
+752,12,VfL Bochum,0,0,Fortuna Dusseldorf,2.80,3.20,2.50,10-23 09:31,Live
+753,14,Darmstadt,1,2,SV Sandhausen,2.70,3.25,2.60,11-17 18:19,Live
+754,14,Darmstadt,1,2,SV Sandhausen,2.60,3.25,2.70,11-17 17:53,Live
+755,14,Darmstadt,1,2,SV Sandhausen,2.50,3.25,2.80,11-17 17:43,Live
+756,14,Darmstadt,1,2,SV Sandhausen,2.55,3.25,2.75,11-17 17:35,Live
+757,14,Darmstadt,1,2,SV Sandhausen,2.45,3.25,2.90,11-17 09:57,Live
+758,14,Darmstadt,1,2,SV Sandhausen,2.37,3.25,3.00,11-15 16:58,Live
+759,14,Darmstadt,1,2,SV Sandhausen,2.45,3.25,2.90,11-15 12:44,Live
+760,14,Darmstadt,1,2,SV Sandhausen,2.37,3.25,3.00,11-06 12:37,Live
+761,14,Darmstadt,1,2,SV Sandhausen,2.30,3.25,3.10,11-06 12:12,Live
+762,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.50,3.30,2.80,11-17 16:42,Live
+763,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.55,3.30,2.70,11-17 12:02,Live
+764,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.40,3.30,2.87,11-17 05:31,Live
+765,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.45,3.30,2.80,11-16 18:08,Live
+766,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.40,3.30,2.90,11-15 13:04,Live
+767,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.30,3.30,3.10,11-06 19:00,Live
+768,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.20,3.30,3.30,11-06 13:58,Live
+769,14,Arminia Bielefeld,2,2,Eintracht Braunschweig,2.15,3.30,3.40,11-06 12:12,Live
+770,14,Heidenheimer,4,3,Union Berlin,3.00,3.40,2.30,11-18 12:12,Live
+771,14,Heidenheimer,4,3,Union Berlin,3.25,3.30,2.20,11-06 14:34,Live
+772,14,Heidenheimer,4,3,Union Berlin,3.50,3.30,2.10,11-06 12:42,Live
+773,14,Heidenheimer,4,3,Union Berlin,3.30,3.30,2.20,11-06 12:37,Live
+774,14,Heidenheimer,4,3,Union Berlin,3.75,3.40,2.00,11-06 12:07,Live
+775,14,VfL Bochum,1,1,Greuther Furth,1.90,3.60,3.80,11-18 12:12,Live
+776,14,VfL Bochum,1,1,Greuther Furth,1.95,3.50,3.75,11-16 00:07,Live
+777,14,VfL Bochum,1,1,Greuther Furth,1.90,3.30,4.20,11-09 19:46,Live
+778,14,VfL Bochum,1,1,Greuther Furth,1.95,3.30,4.00,11-06 12:04,Live
+779,14,Nurnberg,2,2,Holstein Kiel,3.50,3.60,2.00,11-18 12:25,Live
+780,14,Nurnberg,2,2,Holstein Kiel,3.20,3.50,2.15,11-18 06:49,Live
+781,14,Nurnberg,2,2,Holstein Kiel,3.30,3.60,2.05,11-18 01:36,Live
+782,14,Nurnberg,2,2,Holstein Kiel,3.50,3.60,2.00,11-17 17:53,Live
+783,14,Nurnberg,2,2,Holstein Kiel,3.40,3.60,2.05,11-17 17:43,Live
+784,14,Nurnberg,2,2,Holstein Kiel,3.25,3.60,2.10,11-16 13:58,Live
+785,14,Nurnberg,2,2,Holstein Kiel,3.00,3.50,2.25,11-15 12:48,Live
+786,14,Nurnberg,2,2,Holstein Kiel,3.10,3.50,2.20,11-13 18:00,Live
+787,14,Nurnberg,2,2,Holstein Kiel,3.40,3.30,2.15,11-07 13:22,Live
+788,14,Nurnberg,2,2,Holstein Kiel,3.20,3.30,2.25,11-07 00:41,Live
+789,14,Nurnberg,2,2,Holstein Kiel,3.10,3.30,2.30,11-06 23:35,Live
+790,14,Nurnberg,2,2,Holstein Kiel,2.90,3.30,2.40,11-06 23:33,Live
+791,14,Nurnberg,2,2,Holstein Kiel,3.10,3.30,2.30,11-06 23:32,Live
+792,14,Nurnberg,2,2,Holstein Kiel,2.90,3.30,2.40,11-06 17:06,Live
+793,14,Nurnberg,2,2,Holstein Kiel,3.10,3.30,2.30,11-06 12:37,Live
+794,14,Nurnberg,2,2,Holstein Kiel,3.40,3.40,2.10,11-06 12:07,Live
+795,14,St. Pauli,2,2,Jahn Regensburg,1.85,3.60,4.00,11-19 12:41,Live
+796,14,St. Pauli,2,2,Jahn Regensburg,2.00,3.50,3.60,11-19 12:18,Live
+797,14,St. Pauli,2,2,Jahn Regensburg,1.90,3.60,3.75,11-18 20:18,Live
+798,14,St. Pauli,2,2,Jahn Regensburg,1.90,3.60,3.80,11-16 01:43,Live
+799,14,St. Pauli,2,2,Jahn Regensburg,1.83,3.60,4.20,11-07 01:14,Live
+800,14,St. Pauli,2,2,Jahn Regensburg,1.75,3.60,4.60,11-06 18:03,Live
+801,14,St. Pauli,2,2,Jahn Regensburg,1.72,3.60,4.75,11-06 12:07,Live
+802,14,MSV Duisburg,3,0,Erzgebirge Aue,2.10,3.30,3.50,11-19 05:28,Live
+803,14,MSV Duisburg,3,0,Erzgebirge Aue,2.05,3.30,3.60,11-14 13:32,Live
+804,14,MSV Duisburg,3,0,Erzgebirge Aue,2.10,3.25,3.60,11-06 12:12,Live
+805,14,Ingolstadt,1,0,Fortuna Dusseldorf,1.65,3.75,5.50,11-19 07:37,Live
+806,14,Ingolstadt,1,0,Fortuna Dusseldorf,1.75,3.60,4.75,11-12 21:50,Live
+807,14,Ingolstadt,1,0,Fortuna Dusseldorf,1.80,3.50,4.50,11-06 12:37,Live
+808,14,Ingolstadt,1,0,Fortuna Dusseldorf,1.85,3.40,4.33,11-06 12:07,Live
+809,14,Dynamo Dresden,1,2,Kaiserslautern,1.95,3.30,4.00,11-20 20:04,Live
+810,14,Dynamo Dresden,1,2,Kaiserslautern,1.85,3.40,4.33,11-20 14:27,Live
+811,14,Dynamo Dresden,1,2,Kaiserslautern,1.90,3.40,4.00,11-07 01:16,Live
+812,14,Dynamo Dresden,1,2,Kaiserslautern,1.90,3.40,4.20,11-06 12:55,Live
+813,14,Dynamo Dresden,1,2,Kaiserslautern,2.00,3.30,3.80,11-06 12:07,Live
+814,15,Union Berlin,3,3,Darmstadt,1.50,4.10,6.50,11-24 11:25,Live
+815,15,Union Berlin,3,3,Darmstadt,1.50,4.00,7.00,11-24 01:44,Live
+816,15,Union Berlin,3,3,Darmstadt,1.55,4.20,5.50,11-23 16:47,Live
+817,15,Union Berlin,3,3,Darmstadt,1.61,4.00,5.00,11-21 04:16,Live
+818,15,Union Berlin,3,3,Darmstadt,1.57,4.00,5.50,11-20 11:38,Live
+819,15,SV Sandhausen,1,2,Heidenheimer,2.20,3.25,3.25,11-24 18:12,Live
+820,15,SV Sandhausen,1,2,Heidenheimer,2.30,3.25,3.10,11-20 11:38,Live
+821,15,Holstein Kiel,0,0,Ingolstadt,2.15,3.50,3.20,11-25 10:34,Live
+822,15,Holstein Kiel,0,0,Ingolstadt,2.10,3.50,3.30,11-24 23:34,Live
+823,15,Holstein Kiel,0,0,Ingolstadt,2.05,3.50,3.40,11-24 14:33,Live
+824,15,Holstein Kiel,0,0,Ingolstadt,2.15,3.50,3.20,11-21 05:05,Live
+825,15,Holstein Kiel,0,0,Ingolstadt,2.00,3.50,3.60,11-20 17:13,Live
+826,15,Holstein Kiel,0,0,Ingolstadt,1.95,3.50,3.75,11-20 12:40,Live
+827,15,Holstein Kiel,0,0,Ingolstadt,2.15,3.40,3.30,11-20 11:38,Live
+828,15,Jahn Regensburg,4,0,MSV Duisburg,2.37,3.40,2.90,11-25 12:08,Live
+829,15,Jahn Regensburg,4,0,MSV Duisburg,2.40,3.40,2.87,11-25 09:40,Live
+830,15,Jahn Regensburg,4,0,MSV Duisburg,2.30,3.40,3.00,11-21 13:57,Live
+831,15,Jahn Regensburg,4,0,MSV Duisburg,2.37,3.40,2.87,11-20 14:05,Live
+832,15,Jahn Regensburg,4,0,MSV Duisburg,2.45,3.40,2.75,11-20 11:38,Live
+833,15,Eintracht Braunschweig,2,3,Nurnberg,2.37,3.40,2.87,11-25 12:46,Live
+834,15,Eintracht Braunschweig,2,3,Nurnberg,2.30,3.40,3.00,11-22 12:13,Live
+835,15,Eintracht Braunschweig,2,3,Nurnberg,2.40,3.40,2.80,11-21 11:11,Live
+836,15,Eintracht Braunschweig,2,3,Nurnberg,2.45,3.40,2.75,11-20 11:38,Live
+837,15,Greuther Furth,4,0,St. Pauli,2.80,3.25,2.50,11-26 12:12,Live
+838,15,Greuther Furth,4,0,St. Pauli,2.62,3.25,2.62,11-26 11:15,Live
+839,15,Greuther Furth,4,0,St. Pauli,2.62,3.40,2.55,11-25 21:44,Live
+840,15,Greuther Furth,4,0,St. Pauli,2.70,3.40,2.50,11-25 21:37,Live
+841,15,Greuther Furth,4,0,St. Pauli,2.55,3.40,2.62,11-20 11:38,Live
+842,15,Kaiserslautern,0,2,Arminia Bielefeld,2.45,3.30,2.80,11-26 12:51,Live
+843,15,Kaiserslautern,0,2,Arminia Bielefeld,2.50,3.30,2.75,11-20 11:38,Live
+844,15,Erzgebirge Aue,1,1,VfL Bochum,2.75,3.25,2.55,11-26 12:42,Live
+845,15,Erzgebirge Aue,1,1,VfL Bochum,2.60,3.25,2.70,11-20 11:38,Live
+846,15,Fortuna Dusseldorf,1,3,Dynamo Dresden,1.95,3.60,3.60,11-27 19:15,Live
+847,15,Fortuna Dusseldorf,1,3,Dynamo Dresden,1.90,3.60,3.80,11-22 23:10,Live
+848,15,Fortuna Dusseldorf,1,3,Dynamo Dresden,1.83,3.75,4.00,11-22 23:05,Live
+849,15,Fortuna Dusseldorf,1,3,Dynamo Dresden,1.90,3.60,3.80,11-22 23:01,Live
+850,15,Fortuna Dusseldorf,1,3,Dynamo Dresden,1.85,3.60,4.00,11-21 04:21,Live
+851,15,Fortuna Dusseldorf,1,3,Dynamo Dresden,1.75,3.75,4.33,11-20 11:38,Live
+852,16,Arminia Bielefeld,5,0,St. Pauli,3.00,3.20,2.45,12-01 18:13,Live
+853,16,Arminia Bielefeld,5,0,St. Pauli,2.80,3.20,2.60,12-01 18:03,Live
+854,16,Arminia Bielefeld,5,0,St. Pauli,2.62,3.20,2.75,12-01 13:43,Live
+855,16,Arminia Bielefeld,5,0,St. Pauli,2.60,3.20,2.75,12-01 09:22,Live
+856,16,Arminia Bielefeld,5,0,St. Pauli,2.50,3.20,2.87,11-28 02:47,Live
+857,16,Arminia Bielefeld,5,0,St. Pauli,2.40,3.25,2.90,11-27 09:58,Live
+858,16,Arminia Bielefeld,5,0,St. Pauli,2.30,3.25,3.10,11-26 16:50,Live
+859,16,Heidenheimer,3,2,Kaiserslautern,1.90,3.40,4.00,12-01 18:03,Live
+860,16,Heidenheimer,3,2,Kaiserslautern,1.85,3.50,4.20,12-01 17:41,Live
+861,16,Heidenheimer,3,2,Kaiserslautern,2.00,3.40,3.75,12-01 08:18,Live
+862,16,Heidenheimer,3,2,Kaiserslautern,1.95,3.40,3.80,12-01 08:17,Live
+863,16,Heidenheimer,3,2,Kaiserslautern,1.83,3.50,4.33,11-30 15:01,Live
+864,16,Heidenheimer,3,2,Kaiserslautern,1.85,3.50,4.20,11-29 16:59,Live
+865,16,Heidenheimer,3,2,Kaiserslautern,1.90,3.50,4.00,11-28 14:40,Live
+866,16,Heidenheimer,3,2,Kaiserslautern,1.95,3.50,3.80,11-27 22:28,Live
+867,16,Heidenheimer,3,2,Kaiserslautern,2.00,3.40,3.75,11-27 02:34,Live
+868,16,Heidenheimer,3,2,Kaiserslautern,1.90,3.40,4.10,11-26 16:52,Live
+869,16,Heidenheimer,3,2,Kaiserslautern,1.90,3.30,4.20,11-26 16:50,Live
+870,16,MSV Duisburg,2,0,Greuther Furth,2.05,3.60,3.40,12-01 21:38,Live
+871,16,MSV Duisburg,2,0,Greuther Furth,2.10,3.50,3.30,11-28 02:45,Live
+872,16,MSV Duisburg,2,0,Greuther Furth,2.05,3.50,3.40,11-27 11:19,Live
+873,16,MSV Duisburg,2,0,Greuther Furth,2.10,3.50,3.30,11-27 02:34,Live
+874,16,MSV Duisburg,2,0,Greuther Furth,2.00,3.40,3.75,11-26 16:56,Live
+875,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.65,3.75,5.25,12-02 12:59,Live
+876,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.75,3.60,4.50,12-02 12:05,Live
+877,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.70,3.60,5.00,11-28 10:37,Live
+878,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.72,3.60,4.75,11-28 03:15,Live
+879,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.70,3.60,5.00,11-27 20:40,Live
+880,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.75,3.60,4.75,11-27 02:44,Live
+881,16,Holstein Kiel,2,2,Fortuna Dusseldorf,1.85,3.50,4.20,11-26 16:56,Live
+882,16,Nurnberg,1,0,SV Sandhausen,1.95,3.40,3.90,12-02 12:34,Live
+883,16,Nurnberg,1,0,SV Sandhausen,1.90,3.40,4.00,12-02 12:10,Live
+884,16,Nurnberg,1,0,SV Sandhausen,1.95,3.40,3.90,12-02 12:05,Live
+885,16,Nurnberg,1,0,SV Sandhausen,1.90,3.40,4.00,12-02 08:34,Live
+886,16,Nurnberg,1,0,SV Sandhausen,2.00,3.30,3.80,11-26 16:56,Live
+887,16,VfL Bochum,2,1,Union Berlin,2.62,3.40,2.55,12-03 12:56,Live
+888,16,VfL Bochum,2,1,Union Berlin,2.80,3.40,2.40,12-03 10:58,Live
+889,16,VfL Bochum,2,1,Union Berlin,2.62,3.40,2.55,11-28 13:50,Live
+890,16,VfL Bochum,2,1,Union Berlin,2.55,3.40,2.62,11-28 13:46,Live
+891,16,VfL Bochum,2,1,Union Berlin,2.75,3.30,2.50,11-28 03:32,Live
+892,16,VfL Bochum,2,1,Union Berlin,2.62,3.30,2.60,11-27 09:13,Live
+893,16,VfL Bochum,2,1,Union Berlin,2.75,3.30,2.50,11-27 03:56,Live
+894,16,VfL Bochum,2,1,Union Berlin,3.00,3.30,2.35,11-26 16:58,Live
+895,16,Darmstadt,0,1,Jahn Regensburg,2.25,3.50,3.00,12-03 12:56,Live
+896,16,Darmstadt,0,1,Jahn Regensburg,2.20,3.50,3.10,12-03 12:04,Live
+897,16,Darmstadt,0,1,Jahn Regensburg,2.15,3.50,3.20,12-03 11:59,Live
+898,16,Darmstadt,0,1,Jahn Regensburg,2.05,3.50,3.40,12-03 11:13,Live
+899,16,Darmstadt,0,1,Jahn Regensburg,2.20,3.50,3.10,11-29 21:36,Live
+900,16,Darmstadt,0,1,Jahn Regensburg,2.05,3.50,3.40,11-26 17:02,Live
+901,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.40,3.75,12-03 12:04,Live
+902,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.10,3.30,3.50,12-03 12:04,Live
+903,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.40,3.75,12-03 12:04,Live
+904,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.10,3.30,3.50,12-03 12:00,Live
+905,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.30,3.75,12-03 11:26,Live
+906,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.05,3.30,3.60,12-03 11:17,Live
+907,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.30,3.80,12-03 11:16,Live
+908,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.05,3.30,3.60,12-03 11:16,Live
+909,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.30,3.80,11-28 14:40,Live
+910,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.40,3.75,11-28 03:21,Live
+911,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.05,3.40,3.60,11-27 11:01,Live
+912,16,Dynamo Dresden,4,0,Erzgebirge Aue,2.00,3.40,3.75,11-26 21:25,Live
+913,16,Ingolstadt,0,2,Eintracht Braunschweig,1.53,4.00,6.00,12-04 17:54,Live
+914,16,Ingolstadt,0,2,Eintracht Braunschweig,1.50,4.00,7.00,12-04 16:21,Live
+915,16,Ingolstadt,0,2,Eintracht Braunschweig,1.57,3.75,6.00,12-04 10:42,Live
+916,16,Ingolstadt,0,2,Eintracht Braunschweig,1.53,3.75,7.00,12-04 10:42,Live
+917,16,Ingolstadt,0,2,Eintracht Braunschweig,1.57,3.75,6.00,12-04 10:42,Live
+918,16,Ingolstadt,0,2,Eintracht Braunschweig,1.53,3.75,7.00,12-04 08:14,Live
+919,16,Ingolstadt,0,2,Eintracht Braunschweig,1.50,3.80,7.50,12-04 08:12,Live
+920,16,Ingolstadt,0,2,Eintracht Braunschweig,1.53,3.75,7.00,12-04 08:12,Live
+921,16,Ingolstadt,0,2,Eintracht Braunschweig,1.50,3.80,7.50,12-04 08:12,Live
+922,16,Ingolstadt,0,2,Eintracht Braunschweig,1.53,3.75,7.00,12-04 08:08,Live
+923,16,Ingolstadt,0,2,Eintracht Braunschweig,1.57,3.80,6.00,11-28 14:48,Live
+924,16,Ingolstadt,0,2,Eintracht Braunschweig,1.60,3.75,5.75,11-27 14:48,Live
+925,16,Ingolstadt,0,2,Eintracht Braunschweig,1.72,3.60,4.75,11-27 03:40,Live
+926,16,Ingolstadt,0,2,Eintracht Braunschweig,1.75,3.50,4.75,11-26 19:53,Live
+927,16,Ingolstadt,0,2,Eintracht Braunschweig,1.80,3.50,4.50,11-26 17:02,Live
+928,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.75,3.40,2.00,12-08 18:17,Live
+929,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.70,3.40,2.00,12-08 17:44,Live
+930,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.50,3.30,2.10,12-08 12:36,Live
+931,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.40,3.40,2.10,12-07 22:15,Live
+932,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.70,3.40,2.00,12-07 20:00,Live
+933,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.50,3.40,2.05,12-06 12:18,Live
+934,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.25,3.40,2.15,12-05 12:59,Live
+935,17,Eintracht Braunschweig,0,0,Holstein Kiel,3.30,3.50,2.10,12-05 05:17,Live
+936,17,Erzgebirge Aue,1,0,Darmstadt,2.30,3.25,3.10,12-08 17:39,Live
+937,17,Erzgebirge Aue,1,0,Darmstadt,2.45,3.25,2.90,12-08 17:03,Live
+938,17,Erzgebirge Aue,1,0,Darmstadt,2.37,3.25,3.00,12-08 09:35,Live
+939,17,Erzgebirge Aue,1,0,Darmstadt,2.50,3.25,2.80,12-07 19:21,Live
+940,17,Erzgebirge Aue,1,0,Darmstadt,2.45,3.25,2.90,12-07 19:19,Live
+941,17,Erzgebirge Aue,1,0,Darmstadt,2.25,3.30,3.20,12-05 18:56,Live
+942,17,Erzgebirge Aue,1,0,Darmstadt,2.37,3.25,3.00,12-05 05:17,Live
+943,17,Jahn Regensburg,0,1,VfL Bochum,2.45,3.40,2.80,12-09 12:20,Live
+944,17,Jahn Regensburg,0,1,VfL Bochum,2.37,3.40,2.87,12-09 11:56,Live
+945,17,Jahn Regensburg,0,1,VfL Bochum,2.30,3.40,3.00,12-09 10:30,Live
+946,17,Jahn Regensburg,0,1,VfL Bochum,2.40,3.30,2.87,12-09 06:08,Live
+947,17,Jahn Regensburg,0,1,VfL Bochum,2.30,3.40,3.00,12-05 23:18,Live
+948,17,Jahn Regensburg,0,1,VfL Bochum,2.25,3.30,3.20,12-05 15:05,Live
+949,17,Jahn Regensburg,0,1,VfL Bochum,2.40,3.30,2.90,12-04 21:15,Live
+950,17,Union Berlin,0,1,Dynamo Dresden,1.80,3.75,4.20,12-09 12:07,Live
+951,17,Union Berlin,0,1,Dynamo Dresden,1.72,3.80,4.50,12-09 11:33,Live
+952,17,Union Berlin,0,1,Dynamo Dresden,1.80,3.75,4.10,12-09 10:52,Live
+953,17,Union Berlin,0,1,Dynamo Dresden,1.83,3.75,4.00,12-09 06:14,Live
+954,17,Union Berlin,0,1,Dynamo Dresden,1.85,3.60,4.00,12-07 04:03,Live
+955,17,Union Berlin,0,1,Dynamo Dresden,1.83,3.60,4.00,12-06 15:01,Live
+956,17,Union Berlin,0,1,Dynamo Dresden,1.75,3.75,4.33,12-05 18:56,Live
+957,17,Union Berlin,0,1,Dynamo Dresden,1.85,3.60,4.00,12-04 21:15,Live
+958,17,Greuther Furth,1,0,Heidenheimer,2.37,3.40,2.87,12-09 12:07,Live
+959,17,Greuther Furth,1,0,Heidenheimer,2.35,3.40,2.90,12-09 11:58,Live
+960,17,Greuther Furth,1,0,Heidenheimer,2.40,3.40,2.80,12-09 11:44,Live
+961,17,Greuther Furth,1,0,Heidenheimer,2.37,3.40,2.87,12-09 10:13,Live
+962,17,Greuther Furth,1,0,Heidenheimer,2.30,3.40,3.00,12-06 14:45,Live
+963,17,Greuther Furth,1,0,Heidenheimer,2.40,3.30,2.87,12-04 21:16,Live
+964,17,Greuther Furth,1,0,Heidenheimer,2.50,3.25,2.80,12-04 21:15,Live
+965,17,SV Sandhausen,3,1,Arminia Bielefeld,2.37,3.20,3.10,12-10 12:53,Live
+966,17,SV Sandhausen,3,1,Arminia Bielefeld,2.15,3.25,3.40,12-10 07:22,Live
+967,17,SV Sandhausen,3,1,Arminia Bielefeld,2.25,3.25,3.20,12-05 10:12,Live
+968,17,SV Sandhausen,3,1,Arminia Bielefeld,2.30,3.25,3.10,12-04 21:15,Live
+969,17,St. Pauli,2,2,MSV Duisburg,2.10,3.30,3.50,12-10 12:38,Live
+970,17,St. Pauli,2,2,MSV Duisburg,2.25,3.25,3.20,12-08 10:47,Live
+971,17,St. Pauli,2,2,MSV Duisburg,2.20,3.25,3.30,12-04 21:15,Live
+972,17,Kaiserslautern,1,1,Ingolstadt,4.75,3.60,1.75,12-10 11:28,Live
+973,17,Kaiserslautern,1,1,Ingolstadt,5.00,3.60,1.70,12-05 15:58,Live
+974,17,Kaiserslautern,1,1,Ingolstadt,4.75,3.60,1.75,12-04 21:15,Live
+975,17,Fortuna Dusseldorf,0,2,Nurnberg,2.40,3.40,2.87,12-11 15:10,Live
+976,17,Fortuna Dusseldorf,0,2,Nurnberg,2.30,3.40,3.00,12-11 13:39,Live
+977,17,Fortuna Dusseldorf,0,2,Nurnberg,2.50,3.40,2.75,12-11 13:31,Live
+978,17,Fortuna Dusseldorf,0,2,Nurnberg,2.40,3.40,2.87,12-11 12:53,Live
+979,17,Fortuna Dusseldorf,0,2,Nurnberg,2.37,3.40,2.87,12-11 03:03,Live
+980,17,Fortuna Dusseldorf,0,2,Nurnberg,2.25,3.40,3.10,12-11 03:03,Live
+981,17,Fortuna Dusseldorf,0,2,Nurnberg,2.37,3.40,2.87,12-11 03:03,Live
+982,17,Fortuna Dusseldorf,0,2,Nurnberg,2.25,3.40,3.10,12-06 15:22,Live
+983,17,Fortuna Dusseldorf,0,2,Nurnberg,2.20,3.40,3.20,12-04 21:15,Live
+984,18,Eintracht Braunschweig,0,1,Fortuna Dusseldorf,2.45,3.25,2.90,12-15 17:39,Live
+985,18,Eintracht Braunschweig,0,1,Fortuna Dusseldorf,2.37,3.25,3.00,12-15 17:37,Live
+986,18,Eintracht Braunschweig,0,1,Fortuna Dusseldorf,2.45,3.25,2.90,12-15 17:19,Live
+987,18,Eintracht Braunschweig,0,1,Fortuna Dusseldorf,2.37,3.25,3.00,12-15 05:19,Live
+988,18,Eintracht Braunschweig,0,1,Fortuna Dusseldorf,2.25,3.40,3.10,12-12 15:00,Live
+989,18,Eintracht Braunschweig,0,1,Fortuna Dusseldorf,2.20,3.40,3.20,12-11 05:12,Live
+990,18,Union Berlin,1,2,Ingolstadt,3.25,3.50,2.15,12-15 18:15,Live
+991,18,Union Berlin,1,2,Ingolstadt,3.10,3.50,2.20,12-15 18:08,Live
+992,18,Union Berlin,1,2,Ingolstadt,2.90,3.50,2.30,12-15 17:44,Live
+993,18,Union Berlin,1,2,Ingolstadt,3.10,3.50,2.20,12-15 13:34,Live
+994,18,Union Berlin,1,2,Ingolstadt,3.10,3.40,2.25,12-15 13:34,Live
+995,18,Union Berlin,1,2,Ingolstadt,3.00,3.40,2.30,12-15 09:44,Live
+996,18,Union Berlin,1,2,Ingolstadt,2.90,3.30,2.37,12-15 09:32,Live
+997,18,Union Berlin,1,2,Ingolstadt,2.75,3.30,2.50,12-15 09:32,Live
+998,18,Union Berlin,1,2,Ingolstadt,2.90,3.30,2.37,12-15 09:32,Live
+999,18,Union Berlin,1,2,Ingolstadt,2.75,3.30,2.50,12-15 09:21,Live
+1000,18,Union Berlin,1,2,Ingolstadt,2.80,3.30,2.50,12-14 03:35,Live
+1001,18,Union Berlin,1,2,Ingolstadt,2.70,3.30,2.55,12-12 17:28,Live
+1002,18,Union Berlin,1,2,Ingolstadt,2.55,3.30,2.70,12-11 12:22,Live
+1003,18,Union Berlin,1,2,Ingolstadt,2.30,3.40,3.00,12-11 10:41,Live
+1004,18,Union Berlin,1,2,Ingolstadt,2.25,3.40,3.10,12-11 05:12,Live
+1005,18,Kaiserslautern,1,1,Nurnberg,3.90,3.60,1.90,12-16 10:48,Live
+1006,18,Kaiserslautern,1,1,Nurnberg,3.60,3.50,2.00,12-16 03:17,Live
+1007,18,Kaiserslautern,1,1,Nurnberg,3.40,3.50,2.05,12-14 14:35,Live
+1008,18,Kaiserslautern,1,1,Nurnberg,3.60,3.50,2.00,12-14 14:11,Live
+1009,18,Kaiserslautern,1,1,Nurnberg,3.40,3.40,2.10,12-11 05:12,Live
+1010,18,Erzgebirge Aue,1,1,Heidenheimer,2.50,3.10,2.87,12-16 11:56,Live
+1011,18,Erzgebirge Aue,1,1,Heidenheimer,2.50,3.10,2.90,12-16 08:42,Live
+1012,18,Erzgebirge Aue,1,1,Heidenheimer,2.45,3.30,2.80,12-16 08:41,Live
+1013,18,Erzgebirge Aue,1,1,Heidenheimer,2.50,3.10,2.90,12-16 08:41,Live
+1014,18,Erzgebirge Aue,1,1,Heidenheimer,2.45,3.30,2.80,12-16 04:31,Live
+1015,18,Erzgebirge Aue,1,1,Heidenheimer,2.37,3.30,2.90,12-15 23:54,Live
+1016,18,Erzgebirge Aue,1,1,Heidenheimer,2.45,3.30,2.80,12-11 18:47,Live
+1017,18,Erzgebirge Aue,1,1,Heidenheimer,2.37,3.40,2.87,12-11 12:07,Live
+1018,18,Erzgebirge Aue,1,1,Heidenheimer,2.40,3.40,2.80,12-11 05:12,Live
+1019,18,Jahn Regensburg,3,2,Arminia Bielefeld,2.25,3.25,3.20,12-16 01:52,Live
+1020,18,Jahn Regensburg,3,2,Arminia Bielefeld,2.30,3.30,3.10,12-14 12:41,Live
+1021,18,Jahn Regensburg,3,2,Arminia Bielefeld,2.40,3.30,2.90,12-12 15:05,Live
+1022,18,Jahn Regensburg,3,2,Arminia Bielefeld,2.30,3.30,3.10,12-11 14:19,Live
+1023,18,Jahn Regensburg,3,2,Arminia Bielefeld,2.40,3.30,2.90,12-11 11:52,Live
+1024,18,Jahn Regensburg,3,2,Arminia Bielefeld,2.50,3.30,2.80,12-11 05:12,Live
+1025,18,MSV Duisburg,2,0,Dynamo Dresden,2.40,3.50,2.75,12-17 12:29,Live
+1026,18,MSV Duisburg,2,0,Dynamo Dresden,2.37,3.50,2.80,12-17 10:12,Live
+1027,18,MSV Duisburg,2,0,Dynamo Dresden,2.40,3.40,2.80,12-15 22:38,Live
+1028,18,MSV Duisburg,2,0,Dynamo Dresden,2.25,3.40,3.10,12-11 12:22,Live
+1029,18,MSV Duisburg,2,0,Dynamo Dresden,2.20,3.40,3.20,12-11 05:12,Live
+1030,18,Greuther Furth,1,1,Darmstadt,2.20,3.20,3.40,12-17 09:06,Live
+1031,18,Greuther Furth,1,1,Darmstadt,2.25,3.20,3.30,12-17 06:24,Live
+1032,18,Greuther Furth,1,1,Darmstadt,2.20,3.20,3.40,12-16 22:57,Live
+1033,18,Greuther Furth,1,1,Darmstadt,2.15,3.30,3.40,12-16 16:05,Live
+1034,18,Greuther Furth,1,1,Darmstadt,2.20,3.30,3.30,12-12 14:20,Live
+1035,18,Greuther Furth,1,1,Darmstadt,2.30,3.30,3.10,12-11 15:59,Live
+1036,18,Greuther Furth,1,1,Darmstadt,2.40,3.30,2.90,12-11 05:12,Live
+1037,18,SV Sandhausen,3,1,Holstein Kiel,3.60,3.30,2.05,12-17 12:55,Live
+1038,18,SV Sandhausen,3,1,Holstein Kiel,3.80,3.30,2.00,12-17 12:29,Live
+1039,18,SV Sandhausen,3,1,Holstein Kiel,3.60,3.30,2.05,12-17 12:24,Live
+1040,18,SV Sandhausen,3,1,Holstein Kiel,3.90,3.40,1.95,12-17 09:29,Live
+1041,18,SV Sandhausen,3,1,Holstein Kiel,3.80,3.30,2.00,12-17 06:44,Live
+1042,18,SV Sandhausen,3,1,Holstein Kiel,3.60,3.30,2.05,12-17 06:44,Live
+1043,18,SV Sandhausen,3,1,Holstein Kiel,3.80,3.30,2.00,12-17 06:44,Live
+1044,18,SV Sandhausen,3,1,Holstein Kiel,3.60,3.30,2.05,12-17 06:43,Live
+1045,18,SV Sandhausen,3,1,Holstein Kiel,3.50,3.20,2.15,12-16 22:54,Live
+1046,18,SV Sandhausen,3,1,Holstein Kiel,3.60,3.25,2.10,12-15 16:40,Live
+1047,18,SV Sandhausen,3,1,Holstein Kiel,3.40,3.20,2.20,12-12 22:19,Live
+1048,18,SV Sandhausen,3,1,Holstein Kiel,3.40,3.40,2.15,12-12 15:12,Live
+1049,18,SV Sandhausen,3,1,Holstein Kiel,3.30,3.40,2.15,12-11 12:13,Live
+1050,18,SV Sandhausen,3,1,Holstein Kiel,2.90,3.30,2.40,12-11 12:12,Live
+1051,18,SV Sandhausen,3,1,Holstein Kiel,3.30,3.40,2.15,12-11 12:11,Live
+1052,18,SV Sandhausen,3,1,Holstein Kiel,2.90,3.30,2.40,12-11 05:12,Live
+1053,18,St. Pauli,2,1,VfL Bochum,2.75,3.20,2.60,12-18 11:10,Live
+1054,18,St. Pauli,2,1,VfL Bochum,2.60,3.20,2.75,12-18 09:04,Live
+1055,18,St. Pauli,2,1,VfL Bochum,2.50,3.20,2.87,12-18 09:04,Live
+1056,18,St. Pauli,2,1,VfL Bochum,2.60,3.20,2.75,12-18 09:03,Live
+1057,18,St. Pauli,2,1,VfL Bochum,2.50,3.20,2.87,12-18 01:49,Live
+1058,18,St. Pauli,2,1,VfL Bochum,2.37,3.40,2.87,12-16 03:55,Live
+1059,18,St. Pauli,2,1,VfL Bochum,2.20,3.40,3.20,12-11 23:39,Live
+1060,18,St. Pauli,2,1,VfL Bochum,2.10,3.40,3.40,12-11 05:12,Live
+1061,19,VfL Bochum,0,2,MSV Duisburg,2.35,3.30,3.00,01-23 17:46,Live
+1062,19,VfL Bochum,0,2,MSV Duisburg,2.45,3.30,2.87,01-23 17:24,Live
+1063,19,VfL Bochum,0,2,MSV Duisburg,2.35,3.30,3.00,01-23 17:05,Live
+1064,19,VfL Bochum,0,2,MSV Duisburg,2.25,3.30,3.20,01-23 15:43,Live
+1065,19,VfL Bochum,0,2,MSV Duisburg,2.37,3.25,3.00,01-23 15:43,Live
+1066,19,VfL Bochum,0,2,MSV Duisburg,2.25,3.30,3.20,01-23 15:42,Live
+1067,19,VfL Bochum,0,2,MSV Duisburg,2.37,3.25,3.00,01-23 13:49,Live
+1068,19,VfL Bochum,0,2,MSV Duisburg,2.30,3.25,3.10,01-23 13:48,Live
+1069,19,VfL Bochum,0,2,MSV Duisburg,2.45,3.25,2.87,01-23 12:49,Live
+1070,19,VfL Bochum,0,2,MSV Duisburg,2.50,3.25,2.87,01-23 12:47,Live
+1071,19,VfL Bochum,0,2,MSV Duisburg,2.37,3.40,2.87,01-23 12:25,Live
+1072,19,VfL Bochum,0,2,MSV Duisburg,2.25,3.40,3.10,01-23 10:21,Live
+1073,19,VfL Bochum,0,2,MSV Duisburg,2.20,3.40,3.20,01-23 07:11,Live
+1074,19,VfL Bochum,0,2,MSV Duisburg,2.10,3.40,3.40,01-23 04:50,Live
+1075,19,VfL Bochum,0,2,MSV Duisburg,2.00,3.40,3.75,01-22 14:47,Live
+1076,19,VfL Bochum,0,2,MSV Duisburg,2.00,3.40,3.60,01-22 13:09,Live
+1077,19,VfL Bochum,0,2,MSV Duisburg,2.05,3.40,3.50,01-22 04:04,Live
+1078,19,VfL Bochum,0,2,MSV Duisburg,2.00,3.20,4.00,01-14 20:39,Live
+1079,19,VfL Bochum,0,2,MSV Duisburg,2.15,3.10,3.60,12-21 01:12,Live
+1080,19,VfL Bochum,0,2,MSV Duisburg,2.25,3.10,3.40,12-20 12:05,Live
+1081,19,Nurnberg,2,2,Jahn Regensburg,1.75,3.75,4.50,01-23 15:20,Live
+1082,19,Nurnberg,2,2,Jahn Regensburg,1.80,3.75,4.20,01-23 11:48,Live
+1083,19,Nurnberg,2,2,Jahn Regensburg,1.75,3.75,4.50,01-22 12:07,Live
+1084,19,Nurnberg,2,2,Jahn Regensburg,1.80,3.75,4.20,01-20 02:19,Live
+1085,19,Nurnberg,2,2,Jahn Regensburg,1.80,3.60,4.50,01-19 11:32,Live
+1086,19,Nurnberg,2,2,Jahn Regensburg,1.80,3.50,4.75,01-19 10:53,Live
+1087,19,Nurnberg,2,2,Jahn Regensburg,1.80,3.50,4.50,01-11 18:09,Live
+1088,19,Nurnberg,2,2,Jahn Regensburg,1.72,3.60,4.75,01-04 17:00,Live
+1089,19,Nurnberg,2,2,Jahn Regensburg,1.72,3.50,5.00,01-02 15:30,Live
+1090,19,Nurnberg,2,2,Jahn Regensburg,1.75,3.50,4.75,12-20 12:05,Live
+1091,19,Ingolstadt,0,0,SV Sandhausen,1.53,4.00,6.50,01-23 19:49,Live
+1092,19,Ingolstadt,0,0,SV Sandhausen,1.45,4.20,8.00,01-23 19:35,Live
+1093,19,Ingolstadt,0,0,SV Sandhausen,1.50,4.00,7.00,01-23 19:26,Live
+1094,19,Ingolstadt,0,0,SV Sandhausen,1.55,3.80,6.50,01-23 13:01,Live
+1095,19,Ingolstadt,0,0,SV Sandhausen,1.53,3.80,6.50,01-23 10:03,Live
+1096,19,Ingolstadt,0,0,SV Sandhausen,1.53,4.00,7.00,01-22 20:01,Live
+1097,19,Ingolstadt,0,0,SV Sandhausen,1.50,4.00,7.00,01-22 19:58,Live
+1098,19,Ingolstadt,0,0,SV Sandhausen,1.53,4.00,6.50,01-22 18:03,Live
+1099,19,Ingolstadt,0,0,SV Sandhausen,1.53,3.80,6.50,01-22 13:06,Live
+1100,19,Ingolstadt,0,0,SV Sandhausen,1.55,3.80,6.50,01-22 09:51,Live
+1101,19,Ingolstadt,0,0,SV Sandhausen,1.57,3.75,6.00,01-12 08:40,Live
+1102,19,Ingolstadt,0,0,SV Sandhausen,1.60,3.60,6.00,12-20 12:05,Live
+1103,19,Holstein Kiel,2,2,Union Berlin,2.00,3.75,3.40,01-23 19:55,Live
+1104,19,Holstein Kiel,2,2,Union Berlin,2.05,3.60,3.40,01-23 18:03,Live
+1105,19,Holstein Kiel,2,2,Union Berlin,1.95,3.60,3.60,01-18 14:12,Live
+1106,19,Holstein Kiel,2,2,Union Berlin,1.85,3.60,4.00,01-15 00:31,Live
+1107,19,Holstein Kiel,2,2,Union Berlin,1.75,3.75,4.33,01-14 20:53,Live
+1108,19,Holstein Kiel,2,2,Union Berlin,1.85,3.60,4.00,12-22 00:20,Live
+1109,19,Holstein Kiel,2,2,Union Berlin,1.90,3.30,4.20,12-20 12:05,Live
+1110,19,Heidenheimer,2,0,Eintracht Braunschweig,2.37,3.20,3.00,01-23 12:14,Live
+1111,19,Heidenheimer,2,0,Eintracht Braunschweig,2.37,3.10,3.10,12-27 13:24,Live
+1112,19,Heidenheimer,2,0,Eintracht Braunschweig,2.60,3.10,2.80,12-20 12:05,Live
+1113,19,Arminia Bielefeld,0,0,Greuther Furth,1.90,3.60,3.75,01-24 13:59,Live
+1114,19,Arminia Bielefeld,0,0,Greuther Furth,2.00,3.50,3.50,01-24 13:26,Live
+1115,19,Arminia Bielefeld,0,0,Greuther Furth,1.95,3.50,3.60,01-24 12:55,Live
+1116,19,Arminia Bielefeld,0,0,Greuther Furth,2.05,3.50,3.40,01-24 10:39,Live
+1117,19,Arminia Bielefeld,0,0,Greuther Furth,2.00,3.50,3.60,01-24 05:10,Live
+1118,19,Arminia Bielefeld,0,0,Greuther Furth,2.10,3.40,3.40,01-24 05:07,Live
+1119,19,Arminia Bielefeld,0,0,Greuther Furth,2.15,3.40,3.30,01-24 03:23,Live
+1120,19,Arminia Bielefeld,0,0,Greuther Furth,2.05,3.30,3.60,12-27 13:25,Live
+1121,19,Arminia Bielefeld,0,0,Greuther Furth,2.15,3.25,3.40,12-20 12:05,Live
+1122,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.66,3.60,5.25,01-24 14:27,Live
+1123,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.61,3.75,5.50,01-24 13:23,Live
+1124,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.70,3.60,5.00,01-24 12:05,Live
+1125,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.83,3.50,4.20,01-24 05:09,Live
+1126,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.90,3.50,4.00,01-23 23:53,Live
+1127,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.85,3.50,4.20,01-22 22:42,Live
+1128,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.80,3.40,4.75,01-21 07:24,Live
+1129,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.80,3.50,4.50,01-21 07:16,Live
+1130,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.75,3.40,5.00,01-19 10:56,Live
+1131,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.75,3.50,4.75,01-02 15:38,Live
+1132,19,Fortuna Dusseldorf,2,1,Erzgebirge Aue,1.66,3.60,5.25,12-20 12:05,Live
+1133,19,Dynamo Dresden,1,3,St. Pauli,2.20,3.30,3.30,01-25 19:47,Live
+1134,19,Dynamo Dresden,1,3,St. Pauli,2.30,3.30,3.10,01-25 19:36,Live
+1135,19,Dynamo Dresden,1,3,St. Pauli,2.15,3.30,3.40,01-25 19:23,Live
+1136,19,Dynamo Dresden,1,3,St. Pauli,2.05,3.40,3.50,01-25 18:52,Live
+1137,19,Dynamo Dresden,1,3,St. Pauli,2.05,3.30,3.60,01-25 18:41,Live
+1138,19,Dynamo Dresden,1,3,St. Pauli,2.20,3.25,3.20,01-25 14:59,Live
+1139,19,Dynamo Dresden,1,3,St. Pauli,2.20,3.25,3.30,01-25 13:41,Live
+1140,19,Dynamo Dresden,1,3,St. Pauli,2.10,3.25,3.50,01-25 10:17,Live
+1141,19,Dynamo Dresden,1,3,St. Pauli,2.20,3.25,3.30,01-25 07:48,Live
+1142,19,Dynamo Dresden,1,3,St. Pauli,2.10,3.25,3.50,01-24 12:01,Live
+1143,19,Dynamo Dresden,1,3,St. Pauli,2.15,3.25,3.40,12-21 01:19,Live
+1144,19,Dynamo Dresden,1,3,St. Pauli,2.25,3.20,3.25,12-20 16:02,Live
+1145,19,Darmstadt,1,2,Kaiserslautern,2.37,3.30,3.00,02-21 17:55,Live
+1146,19,Darmstadt,1,2,Kaiserslautern,2.30,3.30,3.10,02-20 13:07,Live
+1147,19,Darmstadt,1,2,Kaiserslautern,2.37,3.40,2.90,02-20 01:13,Live
+1148,19,Darmstadt,1,2,Kaiserslautern,2.15,3.40,2.90,02-19 22:09,Live
+1149,20,Union Berlin,0,1,Nurnberg,2.00,3.70,3.40,01-26 16:25,Live
+1150,20,Union Berlin,0,1,Nurnberg,2.15,3.50,3.20,01-26 13:04,Live
+1151,20,Union Berlin,0,1,Nurnberg,2.05,3.50,3.40,01-26 09:10,Live
+1152,20,Union Berlin,0,1,Nurnberg,2.00,3.50,3.60,01-26 08:28,Live
+1153,20,Union Berlin,0,1,Nurnberg,2.05,3.50,3.40,01-26 00:43,Live
+1154,20,Union Berlin,0,1,Nurnberg,2.05,3.40,3.60,01-26 00:38,Live
+1155,20,Union Berlin,0,1,Nurnberg,2.15,3.40,3.30,01-25 16:25,Live
+1156,20,Union Berlin,0,1,Nurnberg,2.10,3.40,3.40,01-25 15:08,Live
+1157,20,Union Berlin,0,1,Nurnberg,2.20,3.40,3.20,01-25 13:05,Live
+1158,20,Union Berlin,0,1,Nurnberg,2.30,3.30,2.80,01-25 10:49,Live
+1159,20,Union Berlin,0,1,Nurnberg,2.45,3.30,2.45,01-25 10:43,Live
+1160,20,Jahn Regensburg,3,2,Ingolstadt,3.40,3.40,2.10,01-26 17:26,Live
+1161,20,Jahn Regensburg,3,2,Ingolstadt,3.40,3.50,2.05,01-26 17:26,Live
+1162,20,Jahn Regensburg,3,2,Ingolstadt,3.40,3.40,2.10,01-26 17:26,Live
+1163,20,Jahn Regensburg,3,2,Ingolstadt,3.40,3.50,2.05,01-26 17:14,Live
+1164,20,Jahn Regensburg,3,2,Ingolstadt,3.60,3.50,2.00,01-26 14:50,Live
+1165,20,Jahn Regensburg,3,2,Ingolstadt,3.40,3.40,2.10,01-26 08:55,Live
+1166,20,Jahn Regensburg,3,2,Ingolstadt,3.75,3.40,2.00,01-25 17:04,Live
+1167,20,Jahn Regensburg,3,2,Ingolstadt,3.90,3.40,1.95,01-25 12:58,Live
+1168,20,Jahn Regensburg,3,2,Ingolstadt,3.00,3.25,2.10,01-25 10:43,Live
+1169,20,MSV Duisburg,3,3,Heidenheimer,2.15,3.30,3.40,01-25 13:05,Live
+1170,20,MSV Duisburg,3,3,Heidenheimer,2.25,3.25,2.75,01-25 10:49,Live
+1171,20,Greuther Furth,0,0,Holstein Kiel,3.60,3.50,2.00,01-27 12:30,Live
+1172,20,Greuther Furth,0,0,Holstein Kiel,3.60,3.50,2.05,01-27 11:55,Live
+1173,20,Greuther Furth,0,0,Holstein Kiel,3.50,3.50,2.05,01-27 11:51,Live
+1174,20,Greuther Furth,0,0,Holstein Kiel,3.60,3.50,2.00,01-26 02:49,Live
+1175,20,Greuther Furth,0,0,Holstein Kiel,3.80,3.50,1.95,01-25 17:13,Live
+1176,20,Greuther Furth,0,0,Holstein Kiel,3.75,3.60,1.90,01-25 16:32,Live
+1177,20,Greuther Furth,0,0,Holstein Kiel,4.00,3.50,1.90,01-25 13:05,Live
+1178,20,Greuther Furth,0,0,Holstein Kiel,3.40,3.40,2.10,01-25 12:58,Live
+1179,20,Greuther Furth,0,0,Holstein Kiel,2.75,3.25,2.25,01-25 10:43,Live
+1180,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.30,3.10,2.30,01-27 12:24,Live
+1181,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.40,3.10,2.25,01-27 10:52,Live
+1182,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.50,3.10,2.20,01-27 10:20,Live
+1183,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.40,3.10,2.25,01-26 14:09,Live
+1184,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.30,3.10,2.30,01-26 02:28,Live
+1185,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.30,3.25,2.15,01-25 13:22,Live
+1186,20,Kaiserslautern,1,3,Fortuna Dusseldorf,3.25,3.25,2.20,01-25 12:58,Live
+1187,20,Kaiserslautern,1,3,Fortuna Dusseldorf,2.80,3.25,2.20,01-25 10:49,Live
+1188,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.62,3.30,2.60,01-28 12:43,Live
+1189,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.75,3.30,2.50,01-28 12:16,Live
+1190,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.62,3.30,2.62,01-28 08:14,Live
+1191,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.70,3.20,2.60,01-26 15:21,Live
+1192,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.62,3.30,2.60,01-25 13:35,Live
+1193,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.50,3.30,2.75,01-25 13:05,Live
+1194,20,Erzgebirge Aue,1,3,Eintracht Braunschweig,2.50,3.20,2.50,01-25 10:49,Live
+1195,20,SV Sandhausen,1,0,Dynamo Dresden,2.50,3.25,2.80,01-28 13:05,Live
+1196,20,SV Sandhausen,1,0,Dynamo Dresden,2.40,3.25,2.90,01-28 12:39,Live
+1197,20,SV Sandhausen,1,0,Dynamo Dresden,2.50,3.25,2.87,01-28 12:33,Live
+1198,20,SV Sandhausen,1,0,Dynamo Dresden,2.37,3.25,3.00,01-28 11:36,Live
+1199,20,SV Sandhausen,1,0,Dynamo Dresden,2.45,3.25,2.87,01-28 10:33,Live
+1200,20,SV Sandhausen,1,0,Dynamo Dresden,2.40,3.30,2.90,01-28 06:00,Live
+1201,20,SV Sandhausen,1,0,Dynamo Dresden,2.45,3.30,2.80,01-28 05:59,Live
+1202,20,SV Sandhausen,1,0,Dynamo Dresden,2.40,3.30,2.90,01-28 05:59,Live
+1203,20,SV Sandhausen,1,0,Dynamo Dresden,2.45,3.30,2.80,01-28 05:21,Live
+1204,20,SV Sandhausen,1,0,Dynamo Dresden,2.37,3.30,2.90,01-25 17:04,Live
+1205,20,SV Sandhausen,1,0,Dynamo Dresden,2.25,3.30,3.20,01-25 13:05,Live
+1206,20,SV Sandhausen,1,0,Dynamo Dresden,2.37,3.25,2.60,01-25 10:49,Live
+1207,20,St. Pauli,0,1,Darmstadt,2.00,3.40,3.75,01-28 08:32,Live
+1208,20,St. Pauli,0,1,Darmstadt,1.90,3.40,4.00,01-28 05:52,Live
+1209,20,St. Pauli,0,1,Darmstadt,2.00,3.30,3.80,01-25 13:10,Live
+1210,20,St. Pauli,0,1,Darmstadt,2.10,3.25,3.50,01-25 13:05,Live
+1211,20,St. Pauli,0,1,Darmstadt,2.00,3.20,3.30,01-25 10:57,Live
+1212,20,VfL Bochum,0,1,Arminia Bielefeld,2.30,3.40,3.00,01-29 20:07,Live
+1213,20,VfL Bochum,0,1,Arminia Bielefeld,2.40,3.40,2.87,01-29 20:02,Live
+1214,20,VfL Bochum,0,1,Arminia Bielefeld,2.30,3.40,3.00,01-29 19:26,Live
+1215,20,VfL Bochum,0,1,Arminia Bielefeld,2.40,3.25,2.90,01-29 15:54,Live
+1216,20,VfL Bochum,0,1,Arminia Bielefeld,2.30,3.25,3.10,01-25 13:17,Live
+1217,20,VfL Bochum,0,1,Arminia Bielefeld,2.20,3.25,3.25,01-25 13:05,Live
+1218,20,VfL Bochum,0,1,Arminia Bielefeld,2.10,3.25,3.00,01-25 10:57,Live
+1219,21,Fortuna Dusseldorf,1,0,SV Sandhausen,1.90,3.30,3.75,02-02 17:34,Live
+1220,21,Fortuna Dusseldorf,1,0,SV Sandhausen,2.00,3.25,3.50,02-02 17:00,Live
+1221,21,Fortuna Dusseldorf,1,0,SV Sandhausen,2.05,3.25,3.40,02-02 09:19,Live
+1222,21,Fortuna Dusseldorf,1,0,SV Sandhausen,2.00,3.40,3.70,02-01 09:49,Live
+1223,21,Fortuna Dusseldorf,1,0,SV Sandhausen,2.00,3.50,3.60,01-30 05:41,Live
+1224,21,Fortuna Dusseldorf,1,0,SV Sandhausen,1.90,3.60,3.80,01-29 12:58,Live
+1225,21,Fortuna Dusseldorf,1,0,SV Sandhausen,1.85,3.60,4.00,01-29 11:35,Live
+1226,21,Fortuna Dusseldorf,1,0,SV Sandhausen,1.80,3.60,4.33,01-29 05:12,Live
+1227,21,Nurnberg,4,1,Erzgebirge Aue,1.66,3.80,5.00,02-02 18:29,Live
+1228,21,Nurnberg,4,1,Erzgebirge Aue,1.57,4.00,5.50,02-02 17:34,Live
+1229,21,Nurnberg,4,1,Erzgebirge Aue,1.66,3.80,5.00,02-02 17:04,Live
+1230,21,Nurnberg,4,1,Erzgebirge Aue,1.61,3.80,5.50,02-02 17:03,Live
+1231,21,Nurnberg,4,1,Erzgebirge Aue,1.57,3.80,6.00,02-02 17:03,Live
+1232,21,Nurnberg,4,1,Erzgebirge Aue,1.53,3.90,6.50,02-02 17:00,Live
+1233,21,Nurnberg,4,1,Erzgebirge Aue,1.57,3.90,6.00,02-02 13:35,Live
+1234,21,Nurnberg,4,1,Erzgebirge Aue,1.61,3.80,5.50,02-02 09:49,Live
+1235,21,Nurnberg,4,1,Erzgebirge Aue,1.61,3.75,5.50,01-31 21:58,Live
+1236,21,Nurnberg,4,1,Erzgebirge Aue,1.60,3.60,6.00,01-31 20:12,Live
+1237,21,Nurnberg,4,1,Erzgebirge Aue,1.65,3.60,5.50,01-29 13:51,Live
+1238,21,Nurnberg,4,1,Erzgebirge Aue,1.66,3.60,5.25,01-29 05:12,Live
+1239,21,Heidenheimer,3,1,St. Pauli,2.37,3.40,2.87,02-03 12:14,Live
+1240,21,Heidenheimer,3,1,St. Pauli,2.40,3.40,2.87,02-03 11:56,Live
+1241,21,Heidenheimer,3,1,St. Pauli,2.45,3.30,2.87,02-03 11:32,Live
+1242,21,Heidenheimer,3,1,St. Pauli,2.37,3.40,2.87,02-03 09:42,Live
+1243,21,Heidenheimer,3,1,St. Pauli,2.30,3.40,3.00,01-29 12:58,Live
+1244,21,Heidenheimer,3,1,St. Pauli,2.37,3.40,2.90,01-29 05:12,Live
+1245,21,Ingolstadt,3,0,Greuther Furth,1.57,3.60,6.50,02-03 12:14,Live
+1246,21,Ingolstadt,3,0,Greuther Furth,1.61,3.60,6.00,01-29 05:12,Live
+1247,21,Holstein Kiel,1,1,Jahn Regensburg,1.70,3.80,5.00,02-03 12:05,Live
+1248,21,Holstein Kiel,1,1,Jahn Regensburg,1.75,3.75,4.50,02-03 04:43,Live
+1249,21,Holstein Kiel,1,1,Jahn Regensburg,1.66,3.80,5.00,02-01 23:46,Live
+1250,21,Holstein Kiel,1,1,Jahn Regensburg,1.75,3.75,4.33,02-01 15:15,Live
+1251,21,Holstein Kiel,1,1,Jahn Regensburg,1.72,3.75,4.50,01-29 10:35,Live
+1252,21,Holstein Kiel,1,1,Jahn Regensburg,1.80,3.60,4.33,01-29 05:16,Live
+1253,21,Darmstadt,1,2,MSV Duisburg,2.45,3.40,2.75,02-04 12:59,Live
+1254,21,Darmstadt,1,2,MSV Duisburg,2.40,3.40,2.80,01-29 12:03,Live
+1255,21,Darmstadt,1,2,MSV Duisburg,2.37,3.40,2.90,01-29 05:12,Live
+1256,21,Darmstadt,1,2,MSV Duisburg,2.50,3.40,2.70,01-29 05:09,Live
+1257,21,Eintracht Braunschweig,1,2,Kaiserslautern,1.72,3.60,5.00,02-04 13:09,Live
+1258,21,Eintracht Braunschweig,1,2,Kaiserslautern,1.83,3.50,4.33,01-30 01:43,Live
+1259,21,Eintracht Braunschweig,1,2,Kaiserslautern,1.80,3.50,4.50,01-29 12:58,Live
+1260,21,Eintracht Braunschweig,1,2,Kaiserslautern,1.72,3.60,4.75,01-29 07:01,Live
+1261,21,Eintracht Braunschweig,1,2,Kaiserslautern,1.66,3.60,5.25,01-29 05:16,Live
+1262,21,Dynamo Dresden,2,0,VfL Bochum,2.25,3.40,3.10,02-04 12:59,Live
+1263,21,Dynamo Dresden,2,0,VfL Bochum,2.20,3.40,3.20,01-29 11:28,Live
+1264,21,Dynamo Dresden,2,0,VfL Bochum,2.30,3.40,3.00,01-29 08:35,Live
+1265,21,Dynamo Dresden,2,0,VfL Bochum,2.37,3.40,2.90,01-29 05:16,Live
+1266,21,Arminia Bielefeld,1,1,Union Berlin,2.60,3.40,2.60,02-05 19:18,Live
+1267,21,Arminia Bielefeld,1,1,Union Berlin,2.50,3.40,2.70,02-05 09:40,Live
+1268,21,Arminia Bielefeld,1,1,Union Berlin,2.45,3.40,2.75,02-04 16:49,Live
+1269,21,Arminia Bielefeld,1,1,Union Berlin,2.50,3.40,2.70,02-02 06:08,Live
+1270,21,Arminia Bielefeld,1,1,Union Berlin,2.40,3.40,2.87,02-01 15:15,Live
+1271,21,Arminia Bielefeld,1,1,Union Berlin,2.37,3.40,2.87,01-30 23:59,Live
+1272,21,Arminia Bielefeld,1,1,Union Berlin,2.40,3.40,2.87,01-29 13:54,Live
+1273,21,Arminia Bielefeld,1,1,Union Berlin,2.30,3.40,3.00,01-29 12:00,Live
+1274,21,Arminia Bielefeld,1,1,Union Berlin,2.37,3.40,2.87,01-29 10:35,Live
+1275,21,Arminia Bielefeld,1,1,Union Berlin,2.50,3.40,2.70,01-29 05:16,Live
+1276,22,VfL Bochum,2,1,Darmstadt,2.00,3.50,3.60,02-09 12:47,Live
+1277,22,VfL Bochum,2,1,Darmstadt,2.05,3.40,3.50,02-09 12:11,Live
+1278,22,VfL Bochum,2,1,Darmstadt,2.10,3.40,3.40,02-09 12:10,Live
+1279,22,VfL Bochum,2,1,Darmstadt,2.15,3.40,3.30,02-08 02:51,Live
+1280,22,VfL Bochum,2,1,Darmstadt,2.10,3.30,3.60,02-06 11:12,Live
+1281,22,VfL Bochum,2,1,Darmstadt,2.05,3.30,3.75,02-06 11:10,Live
+1282,22,VfL Bochum,2,1,Darmstadt,2.20,3.25,3.30,02-06 06:46,Live
+1283,22,VfL Bochum,2,1,Darmstadt,2.20,3.50,3.20,02-05 12:35,Live
+1284,22,VfL Bochum,2,1,Darmstadt,2.30,3.50,3.00,02-05 10:22,Live
+1285,22,VfL Bochum,2,1,Darmstadt,2.15,3.50,3.20,02-05 09:45,Live
+1286,22,VfL Bochum,2,1,Darmstadt,2.25,3.50,3.00,02-05 09:40,Live
+1287,22,VfL Bochum,2,1,Darmstadt,2.30,3.50,2.87,02-05 05:48,Live
+1288,22,Kaiserslautern,3,1,Holstein Kiel,3.80,3.60,1.90,02-09 18:08,Live
+1289,22,Kaiserslautern,3,1,Holstein Kiel,3.60,3.50,2.00,02-09 07:14,Live
+1290,22,Kaiserslautern,3,1,Holstein Kiel,3.30,3.50,2.10,02-09 07:14,Live
+1291,22,Kaiserslautern,3,1,Holstein Kiel,3.60,3.50,2.00,02-09 07:14,Live
+1292,22,Kaiserslautern,3,1,Holstein Kiel,3.30,3.50,2.10,02-09 02:27,Live
+1293,22,Kaiserslautern,3,1,Holstein Kiel,3.50,3.60,2.00,02-08 20:16,Live
+1294,22,Kaiserslautern,3,1,Holstein Kiel,3.60,3.60,1.95,02-05 10:02,Live
+1295,22,Kaiserslautern,3,1,Holstein Kiel,4.00,3.60,1.85,02-05 09:40,Live
+1296,22,Kaiserslautern,3,1,Holstein Kiel,3.80,3.60,1.90,02-05 05:48,Live
+1297,22,Union Berlin,3,1,Fortuna Dusseldorf,2.00,3.50,3.60,02-10 12:44,Live
+1298,22,Union Berlin,3,1,Fortuna Dusseldorf,2.10,3.40,3.50,02-10 10:38,Live
+1299,22,Union Berlin,3,1,Fortuna Dusseldorf,2.10,3.40,3.40,02-09 18:51,Live
+1300,22,Union Berlin,3,1,Fortuna Dusseldorf,2.15,3.40,3.25,02-06 22:24,Live
+1301,22,Union Berlin,3,1,Fortuna Dusseldorf,2.05,3.40,3.60,02-06 10:46,Live
+1302,22,Union Berlin,3,1,Fortuna Dusseldorf,2.20,3.30,3.30,02-05 21:35,Live
+1303,22,Union Berlin,3,1,Fortuna Dusseldorf,2.15,3.50,3.20,02-05 09:45,Live
+1304,22,Union Berlin,3,1,Fortuna Dusseldorf,2.25,3.50,3.00,02-05 09:40,Live
+1305,22,Union Berlin,3,1,Fortuna Dusseldorf,2.50,3.50,2.62,02-05 05:48,Live
+1306,22,MSV Duisburg,2,2,Arminia Bielefeld,2.20,3.40,3.30,02-10 12:44,Live
+1307,22,MSV Duisburg,2,2,Arminia Bielefeld,2.30,3.40,3.00,02-10 12:31,Live
+1308,22,MSV Duisburg,2,2,Arminia Bielefeld,2.40,3.40,2.90,02-10 12:28,Live
+1309,22,MSV Duisburg,2,2,Arminia Bielefeld,2.25,3.40,3.10,02-10 04:48,Live
+1310,22,MSV Duisburg,2,2,Arminia Bielefeld,2.20,3.40,3.20,02-09 20:09,Live
+1311,22,MSV Duisburg,2,2,Arminia Bielefeld,2.25,3.30,3.20,02-08 02:53,Live
+1312,22,MSV Duisburg,2,2,Arminia Bielefeld,2.20,3.40,3.25,02-06 10:58,Live
+1313,22,MSV Duisburg,2,2,Arminia Bielefeld,2.20,3.40,3.20,02-06 00:31,Live
+1314,22,MSV Duisburg,2,2,Arminia Bielefeld,2.30,3.40,3.00,02-05 21:33,Live
+1315,22,MSV Duisburg,2,2,Arminia Bielefeld,2.20,3.50,3.10,02-05 15:10,Live
+1316,22,MSV Duisburg,2,2,Arminia Bielefeld,2.25,3.50,3.00,02-05 09:40,Live
+1317,22,MSV Duisburg,2,2,Arminia Bielefeld,2.37,3.50,2.80,02-05 05:48,Live
+1318,22,Jahn Regensburg,2,0,Heidenheimer,2.00,3.50,3.60,02-10 12:19,Live
+1319,22,Jahn Regensburg,2,0,Heidenheimer,1.95,3.50,3.80,02-10 12:13,Live
+1320,22,Jahn Regensburg,2,0,Heidenheimer,2.05,3.50,3.60,02-10 11:27,Live
+1321,22,Jahn Regensburg,2,0,Heidenheimer,2.10,3.50,3.40,02-10 11:25,Live
+1322,22,Jahn Regensburg,2,0,Heidenheimer,2.00,3.50,3.60,02-10 05:57,Live
+1323,22,Jahn Regensburg,2,0,Heidenheimer,2.00,3.40,3.75,02-10 04:57,Live
+1324,22,Jahn Regensburg,2,0,Heidenheimer,2.05,3.40,3.60,02-10 03:24,Live
+1325,22,Jahn Regensburg,2,0,Heidenheimer,2.00,3.40,3.75,02-07 12:24,Live
+1326,22,Jahn Regensburg,2,0,Heidenheimer,2.15,3.50,3.20,02-06 00:33,Live
+1327,22,Jahn Regensburg,2,0,Heidenheimer,2.05,3.60,3.30,02-05 19:43,Live
+1328,22,Jahn Regensburg,2,0,Heidenheimer,2.15,3.60,3.10,02-05 05:48,Live
+1329,22,SV Sandhausen,0,0,Eintracht Braunschweig,2.40,3.20,3.00,02-11 13:07,Live
+1330,22,SV Sandhausen,0,0,Eintracht Braunschweig,2.45,3.20,2.90,02-11 12:48,Live
+1331,22,SV Sandhausen,0,0,Eintracht Braunschweig,2.37,3.20,3.00,02-11 10:47,Live
+1332,22,SV Sandhausen,0,0,Eintracht Braunschweig,2.20,3.25,3.30,02-05 05:48,Live
+1333,22,Erzgebirge Aue,0,0,Ingolstadt,4.33,3.75,1.80,02-11 12:45,Live
+1334,22,Erzgebirge Aue,0,0,Ingolstadt,4.50,3.75,1.75,02-11 12:20,Live
+1335,22,Erzgebirge Aue,0,0,Ingolstadt,4.75,3.60,1.72,02-10 10:19,Live
+1336,22,Erzgebirge Aue,0,0,Ingolstadt,4.50,3.50,1.80,02-09 23:08,Live
+1337,22,Erzgebirge Aue,0,0,Ingolstadt,4.33,3.40,1.85,02-07 21:49,Live
+1338,22,Erzgebirge Aue,0,0,Ingolstadt,3.80,3.60,1.90,02-06 01:09,Live
+1339,22,Erzgebirge Aue,0,0,Ingolstadt,3.75,3.50,1.95,02-05 21:35,Live
+1340,22,Erzgebirge Aue,0,0,Ingolstadt,4.20,3.50,1.85,02-05 10:17,Live
+1341,22,Erzgebirge Aue,0,0,Ingolstadt,4.00,3.50,1.90,02-05 09:45,Live
+1342,22,Erzgebirge Aue,0,0,Ingolstadt,3.80,3.50,1.90,02-05 09:40,Live
+1343,22,Erzgebirge Aue,0,0,Ingolstadt,3.40,3.40,2.10,02-05 05:48,Live
+1344,22,Greuther Furth,1,0,Dynamo Dresden,2.70,3.20,2.60,02-11 13:10,Live
+1345,22,Greuther Furth,1,0,Dynamo Dresden,2.55,3.30,2.70,02-11 11:19,Live
+1346,22,Greuther Furth,1,0,Dynamo Dresden,2.62,3.30,2.60,02-11 11:18,Live
+1347,22,Greuther Furth,1,0,Dynamo Dresden,2.40,3.30,2.87,02-11 10:31,Live
+1348,22,Greuther Furth,1,0,Dynamo Dresden,2.30,3.30,3.00,02-11 10:22,Live
+1349,22,Greuther Furth,1,0,Dynamo Dresden,2.40,3.30,2.90,02-11 01:23,Live
+1350,22,Greuther Furth,1,0,Dynamo Dresden,2.37,3.20,3.00,02-10 00:40,Live
+1351,22,Greuther Furth,1,0,Dynamo Dresden,2.50,3.20,2.80,02-05 05:48,Live
+1352,22,St. Pauli,0,0,Nurnberg,2.37,3.30,2.90,02-12 20:00,Live
+1353,22,St. Pauli,0,0,Nurnberg,2.50,3.30,2.75,02-12 19:40,Live
+1354,22,St. Pauli,0,0,Nurnberg,2.62,3.30,2.62,02-12 18:53,Live
+1355,22,St. Pauli,0,0,Nurnberg,2.87,3.30,2.40,02-12 10:45,Live
+1356,22,St. Pauli,0,0,Nurnberg,2.87,3.25,2.45,02-12 09:25,Live
+1357,22,St. Pauli,0,0,Nurnberg,2.75,3.25,2.55,02-08 19:00,Live
+1358,22,St. Pauli,0,0,Nurnberg,2.80,3.25,2.50,02-07 22:56,Live
+1359,22,St. Pauli,0,0,Nurnberg,3.00,3.40,2.30,02-05 09:40,Live
+1360,22,St. Pauli,0,0,Nurnberg,2.90,3.30,2.37,02-05 05:48,Live
+1361,23,Heidenheimer,1,0,VfL Bochum,2.62,3.25,2.62,02-16 16:57,Live
+1362,23,Heidenheimer,1,0,VfL Bochum,2.45,3.25,2.87,02-16 15:30,Live
+1363,23,Heidenheimer,1,0,VfL Bochum,2.55,3.25,2.75,02-16 15:12,Live
+1364,23,Heidenheimer,1,0,VfL Bochum,2.40,3.25,2.90,02-16 12:20,Live
+1365,23,Heidenheimer,1,0,VfL Bochum,2.55,3.25,2.75,02-16 12:20,Live
+1366,23,Heidenheimer,1,0,VfL Bochum,2.40,3.25,2.90,02-16 12:20,Live
+1367,23,Heidenheimer,1,0,VfL Bochum,2.55,3.25,2.75,02-16 12:08,Live
+1368,23,Heidenheimer,1,0,VfL Bochum,2.62,3.25,2.62,02-16 10:00,Live
+1369,23,Heidenheimer,1,0,VfL Bochum,2.50,3.20,2.80,02-16 07:29,Live
+1370,23,Heidenheimer,1,0,VfL Bochum,2.40,3.30,2.87,02-13 11:09,Live
+1371,23,Heidenheimer,1,0,VfL Bochum,2.50,3.30,2.75,02-12 10:02,Live
+1372,23,Heidenheimer,1,0,VfL Bochum,2.37,3.30,2.90,02-12 09:47,Live
+1373,23,Heidenheimer,1,0,VfL Bochum,2.30,3.30,3.10,02-12 08:01,Live
+1374,23,Heidenheimer,1,0,VfL Bochum,2.37,3.30,2.90,02-12 06:57,Live
+1375,23,Kaiserslautern,0,1,SV Sandhausen,2.70,3.00,2.80,02-16 16:01,Live
+1376,23,Kaiserslautern,0,1,SV Sandhausen,2.50,3.00,3.00,02-16 10:41,Live
+1377,23,Kaiserslautern,0,1,SV Sandhausen,2.50,3.10,2.90,02-12 17:10,Live
+1378,23,Kaiserslautern,0,1,SV Sandhausen,2.45,3.20,2.90,02-12 16:09,Live
+1379,23,Kaiserslautern,0,1,SV Sandhausen,2.55,3.20,2.80,02-12 10:02,Live
+1380,23,Kaiserslautern,0,1,SV Sandhausen,2.50,3.20,2.87,02-12 06:57,Live
+1381,23,Arminia Bielefeld,2,0,Darmstadt,1.90,3.50,4.00,02-17 08:42,Live
+1382,23,Arminia Bielefeld,2,0,Darmstadt,1.85,3.50,4.20,02-17 08:41,Live
+1383,23,Arminia Bielefeld,2,0,Darmstadt,2.05,3.40,3.50,02-17 08:40,Live
+1384,23,Arminia Bielefeld,2,0,Darmstadt,1.95,3.50,3.75,02-12 06:57,Live
+1385,23,Holstein Kiel,2,2,Erzgebirge Aue,1.53,4.10,6.00,02-17 12:29,Live
+1386,23,Holstein Kiel,2,2,Erzgebirge Aue,1.50,4.00,7.00,02-17 12:16,Live
+1387,23,Holstein Kiel,2,2,Erzgebirge Aue,1.53,4.00,6.50,02-17 11:02,Live
+1388,23,Holstein Kiel,2,2,Erzgebirge Aue,1.57,3.80,6.00,02-14 01:43,Live
+1389,23,Holstein Kiel,2,2,Erzgebirge Aue,1.57,3.80,6.50,02-13 15:18,Live
+1390,23,Holstein Kiel,2,2,Erzgebirge Aue,1.60,3.80,6.00,02-12 09:42,Live
+1391,23,Holstein Kiel,2,2,Erzgebirge Aue,1.75,3.60,4.75,02-12 06:57,Live
+1392,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.90,3.40,4.00,02-17 11:57,Live
+1393,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.85,3.60,4.10,02-17 11:43,Live
+1394,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.80,3.60,4.33,02-17 09:51,Live
+1395,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.80,3.75,4.20,02-17 08:49,Live
+1396,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.85,3.60,4.00,02-17 08:48,Live
+1397,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.80,3.75,4.20,02-17 08:48,Live
+1398,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.85,3.60,4.00,02-17 05:37,Live
+1399,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.83,3.60,4.20,02-16 17:55,Live
+1400,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.80,3.60,4.33,02-12 10:14,Live
+1401,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.72,3.75,4.60,02-12 10:02,Live
+1402,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.70,3.75,4.75,02-12 09:40,Live
+1403,23,Fortuna Dusseldorf,1,1,Greuther Furth,1.61,3.75,5.50,02-12 06:57,Live
+1404,23,Ingolstadt,0,1,St. Pauli,1.70,3.75,5.00,02-17 12:24,Live
+1405,23,Ingolstadt,0,1,St. Pauli,1.66,3.75,5.00,02-16 23:12,Live
+1406,23,Ingolstadt,0,1,St. Pauli,1.61,3.75,5.50,02-14 01:42,Live
+1407,23,Ingolstadt,0,1,St. Pauli,1.60,3.80,6.00,02-13 15:16,Live
+1408,23,Ingolstadt,0,1,St. Pauli,1.66,3.75,5.25,02-12 09:42,Live
+1409,23,Ingolstadt,0,1,St. Pauli,1.75,3.60,4.75,02-12 06:57,Live
+1410,23,Eintracht Braunschweig,1,0,Union Berlin,2.90,3.30,2.37,02-18 12:45,Live
+1411,23,Eintracht Braunschweig,1,0,Union Berlin,2.70,3.30,2.55,02-18 12:25,Live
+1412,23,Eintracht Braunschweig,1,0,Union Berlin,2.62,3.30,2.62,02-18 09:36,Live
+1413,23,Eintracht Braunschweig,1,0,Union Berlin,2.55,3.40,2.62,02-12 09:45,Live
+1414,23,Eintracht Braunschweig,1,0,Union Berlin,2.30,3.40,3.00,02-12 06:57,Live
+1415,23,Dynamo Dresden,1,0,Jahn Regensburg,2.35,3.50,2.80,02-18 12:36,Live
+1416,23,Dynamo Dresden,1,0,Jahn Regensburg,2.50,3.50,2.62,02-18 12:23,Live
+1417,23,Dynamo Dresden,1,0,Jahn Regensburg,2.37,3.50,2.80,02-18 09:36,Live
+1418,23,Dynamo Dresden,1,0,Jahn Regensburg,2.30,3.60,2.80,02-17 11:32,Live
+1419,23,Dynamo Dresden,1,0,Jahn Regensburg,2.20,3.60,3.00,02-16 11:42,Live
+1420,23,Dynamo Dresden,1,0,Jahn Regensburg,2.25,3.40,3.10,02-12 16:16,Live
+1421,23,Dynamo Dresden,1,0,Jahn Regensburg,2.10,3.50,3.30,02-12 09:47,Live
+1422,23,Dynamo Dresden,1,0,Jahn Regensburg,2.20,3.50,3.10,02-12 09:45,Live
+1423,23,Dynamo Dresden,1,0,Jahn Regensburg,2.50,3.40,2.70,02-12 06:57,Live
+1424,23,Nurnberg,3,1,MSV Duisburg,1.85,3.75,4.00,02-18 13:11,Live
+1425,23,Nurnberg,3,1,MSV Duisburg,1.83,3.75,4.00,02-18 12:19,Live
+1426,23,Nurnberg,3,1,MSV Duisburg,1.90,3.60,3.75,02-18 09:38,Live
+1427,23,Nurnberg,3,1,MSV Duisburg,1.90,3.75,3.60,02-18 09:37,Live
+1428,23,Nurnberg,3,1,MSV Duisburg,1.90,3.60,3.75,02-18 09:36,Live
+1429,23,Nurnberg,3,1,MSV Duisburg,1.90,3.75,3.60,02-18 05:49,Live
+1430,23,Nurnberg,3,1,MSV Duisburg,2.00,3.60,3.50,02-14 11:36,Live
+1431,23,Nurnberg,3,1,MSV Duisburg,1.95,3.60,3.60,02-14 01:43,Live
+1432,23,Nurnberg,3,1,MSV Duisburg,1.95,3.60,3.75,02-13 17:03,Live
+1433,23,Nurnberg,3,1,MSV Duisburg,1.83,3.75,4.00,02-12 06:57,Live
+1434,24,Arminia Bielefeld,2,3,Dynamo Dresden,2.05,3.50,3.60,02-23 17:52,Live
+1435,24,Arminia Bielefeld,2,3,Dynamo Dresden,2.00,3.50,3.75,02-23 17:38,Live
+1436,24,Arminia Bielefeld,2,3,Dynamo Dresden,2.05,3.50,3.50,02-23 14:53,Live
+1437,24,Arminia Bielefeld,2,3,Dynamo Dresden,2.10,3.50,3.30,02-19 05:19,Live
+1438,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.10,3.40,3.40,02-23 10:00,Live
+1439,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.15,3.40,3.40,02-23 09:26,Live
+1440,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.05,3.40,3.60,02-22 18:12,Live
+1441,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.00,3.40,3.75,02-22 18:03,Live
+1442,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.05,3.40,3.60,02-22 12:17,Live
+1443,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.10,3.40,3.40,02-20 13:14,Live
+1444,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.05,3.40,3.50,02-20 10:19,Live
+1445,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.15,3.40,3.25,02-19 16:39,Live
+1446,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.25,3.40,3.10,02-19 16:31,Live
+1447,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.30,3.40,3.00,02-19 11:18,Live
+1448,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.20,3.40,3.20,02-19 10:06,Live
+1449,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.15,3.40,3.30,02-19 10:03,Live
+1450,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.25,3.40,3.10,02-19 09:07,Live
+1451,24,Jahn Regensburg,4,3,Fortuna Dusseldorf,2.50,3.40,2.70,02-19 05:19,Live
+1452,24,MSV Duisburg,2,1,Ingolstadt,3.40,3.40,2.10,02-23 18:46,Live
+1453,24,MSV Duisburg,2,1,Ingolstadt,3.20,3.40,2.20,02-19 09:07,Live
+1454,24,MSV Duisburg,2,1,Ingolstadt,3.00,3.40,2.30,02-19 05:19,Live
+1455,24,Erzgebirge Aue,2,1,Kaiserslautern,2.30,3.20,3.10,02-24 12:13,Live
+1456,24,Erzgebirge Aue,2,1,Kaiserslautern,2.37,3.20,3.00,02-23 19:07,Live
+1457,24,Erzgebirge Aue,2,1,Kaiserslautern,2.25,3.20,3.25,02-23 16:48,Live
+1458,24,Erzgebirge Aue,2,1,Kaiserslautern,2.15,3.20,3.50,02-19 13:22,Live
+1459,24,Erzgebirge Aue,2,1,Kaiserslautern,2.05,3.25,3.75,02-19 10:26,Live
+1460,24,Erzgebirge Aue,2,1,Kaiserslautern,2.10,3.25,3.60,02-19 05:19,Live
+1461,24,Union Berlin,2,1,SV Sandhausen,1.75,3.60,4.75,02-24 12:30,Live
+1462,24,Union Berlin,2,1,SV Sandhausen,1.80,3.60,4.50,02-24 12:05,Live
+1463,24,Union Berlin,2,1,SV Sandhausen,1.72,3.60,4.75,02-24 05:09,Live
+1464,24,Union Berlin,2,1,SV Sandhausen,1.90,3.50,4.00,02-23 16:06,Live
+1465,24,Union Berlin,2,1,SV Sandhausen,1.83,3.75,4.00,02-23 14:22,Live
+1466,24,Union Berlin,2,1,SV Sandhausen,1.85,3.60,4.00,02-19 16:33,Live
+1467,24,Union Berlin,2,1,SV Sandhausen,2.00,3.50,3.60,02-19 10:39,Live
+1468,24,Union Berlin,2,1,SV Sandhausen,1.95,3.50,3.80,02-19 09:05,Live
+1469,24,Union Berlin,2,1,SV Sandhausen,2.05,3.40,3.50,02-19 05:40,Live
+1470,24,Union Berlin,2,1,SV Sandhausen,2.15,3.40,3.25,02-19 05:19,Live
+1471,24,Greuther Furth,2,1,Eintracht Braunschweig,2.60,3.20,2.75,02-24 03:18,Live
+1472,24,Greuther Furth,2,1,Eintracht Braunschweig,2.70,3.20,2.62,02-24 03:14,Live
+1473,24,Greuther Furth,2,1,Eintracht Braunschweig,2.55,3.25,2.75,02-23 16:48,Live
+1474,24,Greuther Furth,2,1,Eintracht Braunschweig,2.60,3.25,2.70,02-23 04:10,Live
+1475,24,Greuther Furth,2,1,Eintracht Braunschweig,2.50,3.25,2.80,02-22 12:46,Live
+1476,24,Greuther Furth,2,1,Eintracht Braunschweig,2.40,3.25,2.90,02-19 16:35,Live
+1477,24,Greuther Furth,2,1,Eintracht Braunschweig,2.45,3.25,2.87,02-19 11:14,Live
+1478,24,Greuther Furth,2,1,Eintracht Braunschweig,2.30,3.25,3.10,02-19 05:19,Live
+1479,24,VfL Bochum,0,0,Nurnberg,2.37,3.20,3.00,02-25 12:54,Live
+1480,24,VfL Bochum,0,0,Nurnberg,2.45,3.20,2.87,02-25 12:45,Live
+1481,24,VfL Bochum,0,0,Nurnberg,2.55,3.20,2.75,02-25 12:31,Live
+1482,24,VfL Bochum,0,0,Nurnberg,2.70,3.20,2.60,02-25 12:04,Live
+1483,24,VfL Bochum,0,0,Nurnberg,2.60,3.20,2.70,02-25 01:28,Live
+1484,24,VfL Bochum,0,0,Nurnberg,2.50,3.30,2.87,02-23 20:55,Live
+1485,24,VfL Bochum,0,0,Nurnberg,2.37,3.30,3.00,02-23 19:13,Live
+1486,24,VfL Bochum,0,0,Nurnberg,2.45,3.25,2.87,02-19 09:57,Live
+1487,24,VfL Bochum,0,0,Nurnberg,2.50,3.25,2.80,02-19 05:19,Live
+1488,24,St. Pauli,3,2,Holstein Kiel,2.87,3.30,2.40,02-25 11:59,Live
+1489,24,St. Pauli,3,2,Holstein Kiel,2.70,3.30,2.55,02-24 10:42,Live
+1490,24,St. Pauli,3,2,Holstein Kiel,2.90,3.30,2.40,02-19 11:18,Live
+1491,24,St. Pauli,3,2,Holstein Kiel,3.10,3.30,2.30,02-19 11:14,Live
+1492,24,St. Pauli,3,2,Holstein Kiel,2.90,3.30,2.40,02-19 10:37,Live
+1493,24,St. Pauli,3,2,Holstein Kiel,3.10,3.30,2.30,02-19 10:06,Live
+1494,24,St. Pauli,3,2,Holstein Kiel,2.62,3.25,2.62,02-19 08:07,Live
+1495,24,St. Pauli,3,2,Holstein Kiel,2.50,3.25,2.80,02-19 07:55,Live
+1496,24,St. Pauli,3,2,Holstein Kiel,2.62,3.25,2.62,02-19 06:01,Live
+1497,24,St. Pauli,3,2,Holstein Kiel,2.50,3.25,2.80,02-19 05:19,Live
+1498,24,Darmstadt,1,1,Heidenheimer,2.00,3.40,3.75,02-25 13:05,Live
+1499,24,Darmstadt,1,1,Heidenheimer,2.10,3.30,3.50,02-25 11:59,Live
+1500,24,Darmstadt,1,1,Heidenheimer,2.25,3.25,3.20,02-25 05:13,Live
+1501,24,Darmstadt,1,1,Heidenheimer,2.37,3.25,3.00,02-25 05:12,Live
+1502,24,Darmstadt,1,1,Heidenheimer,2.25,3.25,3.20,02-25 05:12,Live
+1503,24,Darmstadt,1,1,Heidenheimer,2.37,3.25,3.00,02-22 15:21,Live
+1504,24,Darmstadt,1,1,Heidenheimer,2.25,3.25,3.20,02-19 05:19,Live
+1505,25,Dynamo Dresden,0,2,Darmstadt,1.90,3.60,3.80,03-02 17:41,Live
+1506,25,Dynamo Dresden,0,2,Darmstadt,1.85,3.60,4.00,03-02 05:10,Live
+1507,25,Dynamo Dresden,0,2,Darmstadt,1.90,3.60,3.75,02-27 14:12,Live
+1508,25,Dynamo Dresden,0,2,Darmstadt,2.00,3.50,3.60,02-26 15:33,Live
+1509,25,Kaiserslautern,4,3,Union Berlin,3.30,3.25,2.20,03-02 17:53,Live
+1510,25,Kaiserslautern,4,3,Union Berlin,3.40,3.25,2.15,03-02 17:06,Live
+1511,25,Kaiserslautern,4,3,Union Berlin,3.40,3.25,2.20,03-02 13:52,Live
+1512,25,Kaiserslautern,4,3,Union Berlin,3.50,3.25,2.15,03-02 09:34,Live
+1513,25,Kaiserslautern,4,3,Union Berlin,3.60,3.25,2.10,03-01 09:56,Live
+1514,25,Kaiserslautern,4,3,Union Berlin,3.70,3.25,2.05,02-26 15:33,Live
+1515,25,Holstein Kiel,5,0,MSV Duisburg,1.70,3.60,4.75,03-03 12:38,Live
+1516,25,Holstein Kiel,5,0,MSV Duisburg,1.75,3.60,4.50,03-03 11:15,Live
+1517,25,Holstein Kiel,5,0,MSV Duisburg,1.80,3.60,4.33,03-03 11:12,Live
+1518,25,Holstein Kiel,5,0,MSV Duisburg,1.72,3.60,4.75,02-27 10:58,Live
+1519,25,Holstein Kiel,5,0,MSV Duisburg,1.80,3.50,4.50,02-26 15:33,Live
+1520,25,SV Sandhausen,1,1,Erzgebirge Aue,2.05,3.40,3.60,03-03 11:18,Live
+1521,25,SV Sandhausen,1,1,Erzgebirge Aue,2.00,3.40,3.75,03-01 06:47,Live
+1522,25,SV Sandhausen,1,1,Erzgebirge Aue,1.90,3.40,4.00,02-26 15:33,Live
+1523,25,Nurnberg,0,2,Greuther Furth,2.10,3.25,3.60,03-03 12:17,Live
+1524,25,Nurnberg,0,2,Greuther Furth,2.00,3.30,3.80,03-03 11:33,Live
+1525,25,Nurnberg,0,2,Greuther Furth,1.95,3.30,4.00,03-03 11:32,Live
+1526,25,Nurnberg,0,2,Greuther Furth,2.00,3.30,3.80,03-03 11:32,Live
+1527,25,Nurnberg,0,2,Greuther Furth,1.95,3.30,4.00,03-03 07:15,Live
+1528,25,Nurnberg,0,2,Greuther Furth,1.90,3.60,3.80,03-03 06:56,Live
+1529,25,Nurnberg,0,2,Greuther Furth,1.75,3.75,4.50,03-02 10:16,Live
+1530,25,Nurnberg,0,2,Greuther Furth,1.83,3.60,4.20,02-28 19:41,Live
+1531,25,Nurnberg,0,2,Greuther Furth,1.80,3.60,4.33,02-26 15:33,Live
+1532,25,Eintracht Braunschweig,2,1,Jahn Regensburg,2.20,3.30,3.30,03-04 12:11,Live
+1533,25,Eintracht Braunschweig,2,1,Jahn Regensburg,2.10,3.30,3.50,03-04 11:52,Live
+1534,25,Eintracht Braunschweig,2,1,Jahn Regensburg,2.20,3.30,3.30,03-04 11:09,Live
+1535,25,Eintracht Braunschweig,2,1,Jahn Regensburg,2.30,3.30,3.10,03-04 11:02,Live
+1536,25,Eintracht Braunschweig,2,1,Jahn Regensburg,2.40,3.30,2.87,02-26 15:33,Live
+1537,25,Fortuna Dusseldorf,2,1,St. Pauli,2.15,3.30,3.40,03-04 12:11,Live
+1538,25,Fortuna Dusseldorf,2,1,St. Pauli,2.10,3.30,3.50,02-27 11:02,Live
+1539,25,Fortuna Dusseldorf,2,1,St. Pauli,2.05,3.30,3.60,02-26 15:33,Live
+1540,25,Heidenheimer,2,2,Arminia Bielefeld,2.55,3.30,2.70,03-04 12:52,Live
+1541,25,Heidenheimer,2,2,Arminia Bielefeld,2.45,3.30,2.80,02-26 15:33,Live
+1542,25,Ingolstadt,0,1,VfL Bochum,1.72,3.50,5.00,03-05 19:13,Live
+1543,25,Ingolstadt,0,1,VfL Bochum,1.75,3.50,4.75,03-05 18:54,Live
+1544,25,Ingolstadt,0,1,VfL Bochum,1.72,3.60,4.75,02-26 15:33,Live
+1545,26,Dynamo Dresden,3,2,Heidenheimer,1.85,3.50,4.20,03-09 17:58,Live
+1546,26,Dynamo Dresden,3,2,Heidenheimer,1.90,3.50,3.90,03-08 18:33,Live
+1547,26,Dynamo Dresden,3,2,Heidenheimer,1.95,3.50,3.75,03-06 02:34,Live
+1548,26,Dynamo Dresden,3,2,Heidenheimer,1.90,3.40,4.00,03-05 09:51,Live
+1549,26,Dynamo Dresden,3,2,Heidenheimer,2.00,3.30,3.75,03-05 01:36,Live
+1550,26,Dynamo Dresden,3,2,Heidenheimer,1.95,3.10,4.33,03-04 19:09,Live
+1551,26,Dynamo Dresden,3,2,Heidenheimer,2.05,3.10,4.00,03-04 18:43,Live
+1552,26,Dynamo Dresden,3,2,Heidenheimer,2.10,3.10,3.75,03-04 16:20,Live
+1553,26,Arminia Bielefeld,1,0,Nurnberg,2.45,3.30,2.87,03-09 17:51,Live
+1554,26,Arminia Bielefeld,1,0,Nurnberg,2.30,3.30,3.10,03-09 09:26,Live
+1555,26,Arminia Bielefeld,1,0,Nurnberg,2.45,3.30,2.80,03-09 04:25,Live
+1556,26,Arminia Bielefeld,1,0,Nurnberg,2.37,3.30,2.90,03-08 23:36,Live
+1557,26,Arminia Bielefeld,1,0,Nurnberg,2.50,3.30,2.75,03-05 21:51,Live
+1558,26,Arminia Bielefeld,1,0,Nurnberg,2.30,3.10,3.20,03-05 12:47,Live
+1559,26,Arminia Bielefeld,1,0,Nurnberg,2.37,3.10,3.10,03-04 16:20,Live
+1560,26,St. Pauli,0,0,Eintracht Braunschweig,2.40,3.10,3.10,03-10 12:35,Live
+1561,26,St. Pauli,0,0,Eintracht Braunschweig,2.30,3.10,3.25,03-10 11:34,Live
+1562,26,St. Pauli,0,0,Eintracht Braunschweig,2.40,3.10,3.10,03-09 16:16,Live
+1563,26,St. Pauli,0,0,Eintracht Braunschweig,2.30,3.10,3.30,03-07 17:03,Live
+1564,26,St. Pauli,0,0,Eintracht Braunschweig,2.20,3.10,3.50,03-05 10:31,Live
+1565,26,St. Pauli,0,0,Eintracht Braunschweig,2.05,3.20,3.80,03-04 16:22,Live
+1566,26,Greuther Furth,2,1,Kaiserslautern,2.00,3.30,3.75,03-10 11:26,Live
+1567,26,Greuther Furth,2,1,Kaiserslautern,2.10,3.25,3.50,03-10 10:42,Live
+1568,26,Greuther Furth,2,1,Kaiserslautern,2.00,3.30,3.75,03-09 15:47,Live
+1569,26,Greuther Furth,2,1,Kaiserslautern,2.20,3.25,3.30,03-09 05:50,Live
+1570,26,Greuther Furth,2,1,Kaiserslautern,2.15,3.30,3.40,03-06 03:06,Live
+1571,26,Greuther Furth,2,1,Kaiserslautern,2.05,3.25,3.75,03-05 09:40,Live
+1572,26,Greuther Furth,2,1,Kaiserslautern,1.95,3.30,4.00,03-04 16:22,Live
+1573,26,VfL Bochum,1,1,Holstein Kiel,2.50,3.20,2.90,03-10 12:16,Live
+1574,26,VfL Bochum,1,1,Holstein Kiel,2.70,3.20,2.70,03-10 12:10,Live
+1575,26,VfL Bochum,1,1,Holstein Kiel,2.90,3.20,2.45,03-10 05:32,Live
+1576,26,VfL Bochum,1,1,Holstein Kiel,3.20,3.20,2.30,03-10 05:31,Live
+1577,26,VfL Bochum,1,1,Holstein Kiel,2.90,3.20,2.45,03-10 05:29,Live
+1578,26,VfL Bochum,1,1,Holstein Kiel,3.20,3.20,2.25,03-09 15:15,Live
+1579,26,VfL Bochum,1,1,Holstein Kiel,3.00,3.20,2.37,03-06 15:27,Live
+1580,26,VfL Bochum,1,1,Holstein Kiel,2.90,3.20,2.45,03-04 16:20,Live
+1581,26,Darmstadt,1,1,Ingolstadt,2.90,3.25,2.45,03-10 12:44,Live
+1582,26,Darmstadt,1,1,Ingolstadt,3.00,3.25,2.37,03-10 05:11,Live
+1583,26,Darmstadt,1,1,Ingolstadt,3.40,3.30,2.15,03-06 03:06,Live
+1584,26,Darmstadt,1,1,Ingolstadt,3.50,3.30,2.10,03-05 12:47,Live
+1585,26,Darmstadt,1,1,Ingolstadt,3.30,3.30,2.20,03-04 19:09,Live
+1586,26,Darmstadt,1,1,Ingolstadt,3.10,3.25,2.30,03-04 17:40,Live
+1587,26,Union Berlin,0,0,Erzgebirge Aue,1.65,3.75,5.25,03-11 13:15,Live
+1588,26,Union Berlin,0,0,Erzgebirge Aue,1.70,3.60,5.00,03-11 06:02,Live
+1589,26,Union Berlin,0,0,Erzgebirge Aue,1.61,3.75,5.50,03-11 05:08,Live
+1590,26,Union Berlin,0,0,Erzgebirge Aue,1.57,3.80,6.00,03-11 00:13,Live
+1591,26,Union Berlin,0,0,Erzgebirge Aue,1.61,3.75,5.50,03-09 04:16,Live
+1592,26,Union Berlin,0,0,Erzgebirge Aue,1.66,3.60,5.25,03-07 23:01,Live
+1593,26,Union Berlin,0,0,Erzgebirge Aue,1.65,3.50,5.75,03-05 12:45,Live
+1594,26,Union Berlin,0,0,Erzgebirge Aue,1.70,3.50,5.25,03-04 16:22,Live
+1595,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.62,3.10,2.75,03-11 12:09,Live
+1596,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.45,3.10,3.00,03-11 09:56,Live
+1597,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.62,3.10,2.75,03-11 09:35,Live
+1598,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.50,3.10,2.90,03-11 05:23,Live
+1599,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.40,3.10,3.10,03-05 15:58,Live
+1600,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.30,3.10,3.25,03-05 12:47,Live
+1601,26,MSV Duisburg,1,2,Fortuna Dusseldorf,2.37,3.10,3.10,03-04 16:22,Live
+1602,26,Jahn Regensburg,2,1,SV Sandhausen,2.00,3.40,3.75,03-11 12:17,Live
+1603,26,Jahn Regensburg,2,1,SV Sandhausen,1.95,3.40,4.00,03-11 09:47,Live
+1604,26,Jahn Regensburg,2,1,SV Sandhausen,2.10,3.30,3.50,03-06 03:18,Live
+1605,26,Jahn Regensburg,2,1,SV Sandhausen,2.00,3.20,4.00,03-04 16:22,Live
+1606,27,Fortuna Dusseldorf,4,2,Arminia Bielefeld,2.00,3.50,3.60,03-16 17:36,Live
+1607,27,Fortuna Dusseldorf,4,2,Arminia Bielefeld,2.10,3.50,3.30,03-16 06:16,Live
+1608,27,Fortuna Dusseldorf,4,2,Arminia Bielefeld,2.05,3.40,3.50,03-16 06:16,Live
+1609,27,Fortuna Dusseldorf,4,2,Arminia Bielefeld,2.10,3.50,3.30,03-16 06:15,Live
+1610,27,Fortuna Dusseldorf,4,2,Arminia Bielefeld,2.05,3.40,3.50,03-13 11:11,Live
+1611,27,Fortuna Dusseldorf,4,2,Arminia Bielefeld,2.00,3.40,3.75,03-12 04:58,Live
+1612,27,Holstein Kiel,2,1,Heidenheimer,1.44,4.50,7.00,03-16 18:08,Live
+1613,27,Holstein Kiel,2,1,Heidenheimer,1.45,4.50,6.50,03-16 17:53,Live
+1614,27,Holstein Kiel,2,1,Heidenheimer,1.50,4.50,5.75,03-16 16:44,Live
+1615,27,Holstein Kiel,2,1,Heidenheimer,1.55,4.33,5.25,03-16 10:02,Live
+1616,27,Holstein Kiel,2,1,Heidenheimer,1.50,4.50,5.75,03-15 13:53,Live
+1617,27,Holstein Kiel,2,1,Heidenheimer,1.53,4.50,5.50,03-15 11:59,Live
+1618,27,Holstein Kiel,2,1,Heidenheimer,1.50,4.50,5.75,03-14 00:00,Live
+1619,27,Holstein Kiel,2,1,Heidenheimer,1.50,4.33,5.75,03-13 15:41,Live
+1620,27,Holstein Kiel,2,1,Heidenheimer,1.53,4.33,5.50,03-13 02:31,Live
+1621,27,Holstein Kiel,2,1,Heidenheimer,1.55,4.20,5.50,03-12 14:17,Live
+1622,27,Holstein Kiel,2,1,Heidenheimer,1.61,4.00,5.00,03-12 08:48,Live
+1623,27,Holstein Kiel,2,1,Heidenheimer,1.66,4.00,4.75,03-12 04:58,Live
+1624,27,Kaiserslautern,1,1,St. Pauli,2.55,3.20,2.75,03-17 11:06,Live
+1625,27,Kaiserslautern,1,1,St. Pauli,2.45,3.20,2.90,03-17 04:15,Live
+1626,27,Kaiserslautern,1,1,St. Pauli,2.37,3.20,3.00,03-16 10:22,Live
+1627,27,Kaiserslautern,1,1,St. Pauli,2.50,3.20,2.87,03-16 02:08,Live
+1628,27,Kaiserslautern,1,1,St. Pauli,2.45,3.20,3.00,03-14 16:30,Live
+1629,27,Kaiserslautern,1,1,St. Pauli,2.60,3.20,2.75,03-12 04:58,Live
+1630,27,Union Berlin,2,2,Jahn Regensburg,2.00,3.30,3.75,03-17 11:35,Live
+1631,27,Union Berlin,2,2,Jahn Regensburg,2.10,3.30,3.50,03-17 11:15,Live
+1632,27,Union Berlin,2,2,Jahn Regensburg,2.00,3.40,3.75,03-16 22:20,Live
+1633,27,Union Berlin,2,2,Jahn Regensburg,1.85,3.60,4.00,03-16 13:42,Live
+1634,27,Union Berlin,2,2,Jahn Regensburg,1.90,3.60,3.80,03-13 23:22,Live
+1635,27,Union Berlin,2,2,Jahn Regensburg,1.80,3.75,4.20,03-12 16:47,Live
+1636,27,Union Berlin,2,2,Jahn Regensburg,1.75,3.75,4.33,03-12 04:58,Live
+1637,27,SV Sandhausen,2,3,VfL Bochum,3.00,3.00,2.55,03-17 12:20,Live
+1638,27,SV Sandhausen,2,3,VfL Bochum,2.87,3.00,2.62,03-17 12:13,Live
+1639,27,SV Sandhausen,2,3,VfL Bochum,2.62,3.00,2.90,03-17 12:06,Live
+1640,27,SV Sandhausen,2,3,VfL Bochum,2.50,3.00,3.10,03-17 11:11,Live
+1641,27,SV Sandhausen,2,3,VfL Bochum,2.60,3.00,2.90,03-13 03:51,Live
+1642,27,SV Sandhausen,2,3,VfL Bochum,2.60,3.10,2.80,03-12 11:05,Live
+1643,27,SV Sandhausen,2,3,VfL Bochum,2.50,3.20,2.87,03-12 08:41,Live
+1644,27,SV Sandhausen,2,3,VfL Bochum,2.30,3.25,3.10,03-12 04:58,Live
+1645,27,Nurnberg,1,1,Darmstadt,1.83,3.60,4.00,03-18 13:08,Live
+1646,27,Nurnberg,1,1,Darmstadt,1.85,3.60,4.00,03-18 03:45,Live
+1647,27,Nurnberg,1,1,Darmstadt,1.85,3.50,4.20,03-16 22:10,Live
+1648,27,Nurnberg,1,1,Darmstadt,1.75,3.75,4.33,03-12 04:58,Live
+1649,27,Ingolstadt,4,2,Dynamo Dresden,1.85,3.60,4.20,03-18 11:42,Live
+1650,27,Ingolstadt,4,2,Dynamo Dresden,1.83,3.60,4.20,03-12 04:58,Live
+1651,27,Eintracht Braunschweig,3,2,MSV Duisburg,2.00,3.50,3.50,03-18 12:59,Live
+1652,27,Eintracht Braunschweig,3,2,MSV Duisburg,1.85,3.60,4.00,03-18 11:33,Live
+1653,27,Eintracht Braunschweig,3,2,MSV Duisburg,2.00,3.50,3.60,03-18 11:31,Live
+1654,27,Eintracht Braunschweig,3,2,MSV Duisburg,1.85,3.60,4.00,03-18 11:31,Live
+1655,27,Eintracht Braunschweig,3,2,MSV Duisburg,2.00,3.50,3.60,03-13 08:27,Live
+1656,27,Eintracht Braunschweig,3,2,MSV Duisburg,1.95,3.60,3.60,03-12 11:40,Live
+1657,27,Eintracht Braunschweig,3,2,MSV Duisburg,2.10,3.50,3.30,03-12 04:58,Live
+1658,27,Erzgebirge Aue,2,1,Greuther Furth,2.62,3.10,2.75,03-19 15:46,Live
+1659,27,Erzgebirge Aue,2,1,Greuther Furth,2.62,3.20,2.70,03-19 15:46,Live
+1660,27,Erzgebirge Aue,2,1,Greuther Furth,2.62,3.10,2.75,03-19 15:45,Live
+1661,27,Erzgebirge Aue,2,1,Greuther Furth,2.62,3.20,2.70,03-19 13:25,Live
+1662,27,Erzgebirge Aue,2,1,Greuther Furth,2.70,3.20,2.62,03-19 09:07,Live
+1663,27,Erzgebirge Aue,2,1,Greuther Furth,2.62,3.20,2.70,03-19 04:00,Live
+1664,27,Erzgebirge Aue,2,1,Greuther Furth,2.55,3.25,2.75,03-18 18:17,Live
+1665,27,Erzgebirge Aue,2,1,Greuther Furth,2.55,3.40,2.70,03-18 14:59,Live
+1666,27,Erzgebirge Aue,2,1,Greuther Furth,2.50,3.40,2.70,03-18 08:01,Live
+1667,27,Erzgebirge Aue,2,1,Greuther Furth,2.45,3.40,2.75,03-13 20:54,Live
+1668,27,Erzgebirge Aue,2,1,Greuther Furth,2.45,3.30,2.80,03-12 15:25,Live
+1669,27,Erzgebirge Aue,2,1,Greuther Furth,2.40,3.30,2.90,03-12 08:53,Live
+1670,27,Erzgebirge Aue,2,1,Greuther Furth,2.30,3.30,3.10,03-12 04:58,Live
+1671,28,Dynamo Dresden,1,1,Nurnberg,2.40,3.40,2.75,03-31 12:42,Live
+1672,28,Dynamo Dresden,1,1,Nurnberg,2.55,3.40,2.62,03-31 12:37,Live
+1673,28,Dynamo Dresden,1,1,Nurnberg,2.40,3.40,2.80,03-31 07:00,Live
+1674,28,Dynamo Dresden,1,1,Nurnberg,2.37,3.40,2.87,03-25 11:12,Live
+1675,28,Dynamo Dresden,1,1,Nurnberg,2.45,3.40,2.75,03-20 11:12,Live
+1676,28,Dynamo Dresden,1,1,Nurnberg,2.60,3.40,2.60,03-20 06:57,Live
+1677,28,Dynamo Dresden,1,1,Nurnberg,2.80,3.40,2.40,03-20 05:01,Live
+1678,28,Heidenheimer,1,2,Ingolstadt,3.75,3.40,1.95,03-31 12:13,Live
+1679,28,Heidenheimer,1,2,Ingolstadt,3.50,3.40,2.05,03-20 12:25,Live
+1680,28,Heidenheimer,1,2,Ingolstadt,3.30,3.40,2.15,03-20 09:29,Live
+1681,28,Heidenheimer,1,2,Ingolstadt,3.40,3.40,2.10,03-20 08:46,Live
+1682,28,Heidenheimer,1,2,Ingolstadt,3.20,3.40,2.20,03-20 07:11,Live
+1683,28,Heidenheimer,1,2,Ingolstadt,3.00,3.40,2.30,03-20 05:38,Live
+1684,28,Heidenheimer,1,2,Ingolstadt,2.80,3.30,2.50,03-20 05:01,Live
+1685,28,MSV Duisburg,1,4,Kaiserslautern,1.95,3.50,3.80,03-31 11:57,Live
+1686,28,MSV Duisburg,1,4,Kaiserslautern,2.10,3.40,3.40,03-30 21:19,Live
+1687,28,MSV Duisburg,1,4,Kaiserslautern,2.00,3.40,3.75,03-20 10:33,Live
+1688,28,MSV Duisburg,1,4,Kaiserslautern,2.05,3.30,3.60,03-20 07:06,Live
+1689,28,MSV Duisburg,1,4,Kaiserslautern,1.90,3.40,4.00,03-20 05:59,Live
+1690,28,MSV Duisburg,1,4,Kaiserslautern,1.85,3.50,4.20,03-20 05:01,Live
+1691,28,Jahn Regensburg,1,3,Erzgebirge Aue,1.80,3.60,4.33,04-01 12:16,Live
+1692,28,Jahn Regensburg,1,3,Erzgebirge Aue,1.72,3.75,4.75,04-01 09:43,Live
+1693,28,Jahn Regensburg,1,3,Erzgebirge Aue,1.80,3.60,4.33,04-01 09:42,Live
+1694,28,Jahn Regensburg,1,3,Erzgebirge Aue,1.72,3.75,4.75,04-01 09:42,Live
+1695,28,Jahn Regensburg,1,3,Erzgebirge Aue,1.80,3.60,4.33,03-21 01:04,Live
+1696,28,Jahn Regensburg,1,3,Erzgebirge Aue,1.83,3.50,4.33,03-20 05:01,Live
+1697,28,St. Pauli,1,1,SV Sandhausen,2.25,3.25,3.20,04-01 13:14,Live
+1698,28,St. Pauli,1,1,SV Sandhausen,2.15,3.30,3.40,03-20 05:01,Live
+1699,28,Greuther Furth,2,1,Union Berlin,2.30,3.40,3.10,04-01 12:26,Live
+1700,28,Greuther Furth,2,1,Union Berlin,2.40,3.40,2.90,04-01 12:19,Live
+1701,28,Greuther Furth,2,1,Union Berlin,2.37,3.40,2.90,04-01 10:19,Live
+1702,28,Greuther Furth,2,1,Union Berlin,2.45,3.40,2.75,03-31 22:10,Live
+1703,28,Greuther Furth,2,1,Union Berlin,2.60,3.40,2.60,03-31 14:24,Live
+1704,28,Greuther Furth,2,1,Union Berlin,2.75,3.40,2.45,03-25 11:15,Live
+1705,28,Greuther Furth,2,1,Union Berlin,2.80,3.40,2.40,03-20 09:29,Live
+1706,28,Greuther Furth,2,1,Union Berlin,2.75,3.40,2.45,03-20 08:00,Live
+1707,28,Greuther Furth,2,1,Union Berlin,2.62,3.40,2.55,03-20 07:06,Live
+1708,28,Greuther Furth,2,1,Union Berlin,2.40,3.40,2.80,03-20 05:01,Live
+1709,28,VfL Bochum,2,0,Eintracht Braunschweig,1.90,3.60,4.00,04-01 12:17,Live
+1710,28,VfL Bochum,2,0,Eintracht Braunschweig,2.00,3.50,3.60,04-01 08:56,Live
+1711,28,VfL Bochum,2,0,Eintracht Braunschweig,2.15,3.40,3.30,04-01 08:56,Live
+1712,28,VfL Bochum,2,0,Eintracht Braunschweig,2.00,3.50,3.60,04-01 08:55,Live
+1713,28,VfL Bochum,2,0,Eintracht Braunschweig,2.15,3.40,3.30,04-01 02:28,Live
+1714,28,VfL Bochum,2,0,Eintracht Braunschweig,2.10,3.40,3.40,03-20 10:33,Live
+1715,28,VfL Bochum,2,0,Eintracht Braunschweig,2.05,3.40,3.50,03-20 09:08,Live
+1716,28,VfL Bochum,2,0,Eintracht Braunschweig,2.15,3.40,3.30,03-20 06:50,Live
+1717,28,VfL Bochum,2,0,Eintracht Braunschweig,2.25,3.40,3.10,03-20 05:01,Live
+1718,28,Arminia Bielefeld,1,1,Holstein Kiel,3.00,3.60,2.20,04-01 12:57,Live
+1719,28,Arminia Bielefeld,1,1,Holstein Kiel,3.30,3.30,2.15,04-01 10:04,Live
+1720,28,Arminia Bielefeld,1,1,Holstein Kiel,3.10,3.30,2.30,03-29 14:31,Live
+1721,28,Arminia Bielefeld,1,1,Holstein Kiel,2.87,3.30,2.45,03-28 12:05,Live
+1722,28,Arminia Bielefeld,1,1,Holstein Kiel,3.10,3.30,2.30,03-20 10:33,Live
+1723,28,Arminia Bielefeld,1,1,Holstein Kiel,2.75,3.25,2.55,03-20 06:52,Live
+1724,28,Arminia Bielefeld,1,1,Holstein Kiel,2.60,3.25,2.70,03-20 05:01,Live
+1725,28,Darmstadt,1,0,Fortuna Dusseldorf,2.80,3.40,2.40,04-02 20:06,Live
+1726,28,Darmstadt,1,0,Fortuna Dusseldorf,2.62,3.40,2.55,04-02 11:05,Live
+1727,28,Darmstadt,1,0,Fortuna Dusseldorf,2.60,3.40,2.60,04-02 10:12,Live
+1728,28,Darmstadt,1,0,Fortuna Dusseldorf,2.50,3.40,2.70,04-02 09:36,Live
+1729,28,Darmstadt,1,0,Fortuna Dusseldorf,2.62,3.40,2.55,04-02 09:15,Live
+1730,28,Darmstadt,1,0,Fortuna Dusseldorf,2.60,3.40,2.60,04-02 09:14,Live
+1731,28,Darmstadt,1,0,Fortuna Dusseldorf,2.62,3.40,2.55,04-02 09:13,Live
+1732,28,Darmstadt,1,0,Fortuna Dusseldorf,2.60,3.40,2.60,04-01 22:49,Live
+1733,28,Darmstadt,1,0,Fortuna Dusseldorf,2.55,3.40,2.62,03-20 14:29,Live
+1734,28,Darmstadt,1,0,Fortuna Dusseldorf,2.70,3.40,2.50,03-20 09:29,Live
+1735,28,Darmstadt,1,0,Fortuna Dusseldorf,2.50,3.40,2.70,03-20 09:11,Live
+1736,28,Darmstadt,1,0,Fortuna Dusseldorf,2.62,3.40,2.55,03-20 06:09,Live
+1737,28,Darmstadt,1,0,Fortuna Dusseldorf,2.80,3.40,2.40,03-20 05:01,Live
+1738,29,SV Sandhausen,0,0,Greuther Furth,2.00,3.30,4.00,04-06 17:43,Live
+1739,29,SV Sandhausen,0,0,Greuther Furth,2.10,3.25,3.60,04-06 13:18,Live
+1740,29,SV Sandhausen,0,0,Greuther Furth,2.20,3.20,3.40,04-06 13:18,Live
+1741,29,SV Sandhausen,0,0,Greuther Furth,2.10,3.25,3.60,04-06 13:18,Live
+1742,29,SV Sandhausen,0,0,Greuther Furth,2.20,3.20,3.40,04-06 08:32,Live
+1743,29,SV Sandhausen,0,0,Greuther Furth,2.30,3.20,3.20,04-05 16:14,Live
+1744,29,SV Sandhausen,0,0,Greuther Furth,2.40,3.20,3.00,04-04 10:52,Live
+1745,29,SV Sandhausen,0,0,Greuther Furth,2.37,3.20,3.00,04-03 18:58,Live
+1746,29,SV Sandhausen,0,0,Greuther Furth,2.40,3.20,3.00,04-03 00:11,Live
+1747,29,SV Sandhausen,0,0,Greuther Furth,2.30,3.30,2.90,04-02 10:30,Live
+1748,29,SV Sandhausen,0,0,Greuther Furth,2.30,3.30,3.00,04-02 10:22,Live
+1749,29,SV Sandhausen,0,0,Greuther Furth,2.40,3.30,2.87,04-02 08:14,Live
+1750,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.45,3.50,2.70,04-06 17:58,Live
+1751,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.30,3.50,2.87,04-06 17:53,Live
+1752,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.37,3.50,2.80,04-06 16:27,Live
+1753,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.30,3.50,2.90,04-06 15:39,Live
+1754,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.37,3.50,2.80,04-06 13:50,Live
+1755,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.55,3.40,2.62,04-06 13:31,Live
+1756,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.40,3.40,2.80,04-06 13:22,Live
+1757,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.30,3.40,3.00,04-06 02:31,Live
+1758,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.20,3.40,3.25,04-05 10:21,Live
+1759,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.20,3.40,3.20,04-03 00:11,Live
+1760,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.20,3.40,3.30,04-02 11:32,Live
+1761,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.10,3.40,3.50,04-02 10:22,Live
+1762,29,Fortuna Dusseldorf,1,2,VfL Bochum,2.00,3.40,3.75,04-02 08:14,Live
+1763,29,Nurnberg,3,2,Heidenheimer,1.80,3.75,4.20,04-07 10:19,Live
+1764,29,Nurnberg,3,2,Heidenheimer,1.72,3.80,4.50,04-07 09:09,Live
+1765,29,Nurnberg,3,2,Heidenheimer,1.80,3.75,4.20,04-06 23:02,Live
+1766,29,Nurnberg,3,2,Heidenheimer,1.75,3.75,4.50,04-06 02:47,Live
+1767,29,Nurnberg,3,2,Heidenheimer,1.66,3.80,5.00,04-04 04:07,Live
+1768,29,Nurnberg,3,2,Heidenheimer,1.60,3.80,5.50,04-02 11:32,Live
+1769,29,Nurnberg,3,2,Heidenheimer,1.53,4.00,6.00,04-02 10:30,Live
+1770,29,Nurnberg,3,2,Heidenheimer,1.44,4.33,7.00,04-02 08:14,Live
+1771,29,Erzgebirge Aue,2,1,St. Pauli,2.50,3.20,2.80,04-07 12:46,Live
+1772,29,Erzgebirge Aue,2,1,St. Pauli,2.45,3.20,2.90,04-07 12:21,Live
+1773,29,Erzgebirge Aue,2,1,St. Pauli,2.37,3.20,3.00,04-07 12:20,Live
+1774,29,Erzgebirge Aue,2,1,St. Pauli,2.45,3.20,2.90,04-07 12:11,Live
+1775,29,Erzgebirge Aue,2,1,St. Pauli,2.37,3.20,3.00,04-07 12:09,Live
+1776,29,Erzgebirge Aue,2,1,St. Pauli,2.45,3.20,2.90,04-05 10:00,Live
+1777,29,Erzgebirge Aue,2,1,St. Pauli,2.40,3.20,3.00,04-02 10:30,Live
+1778,29,Erzgebirge Aue,2,1,St. Pauli,2.50,3.20,2.80,04-02 08:14,Live
+1779,29,Holstein Kiel,0,0,Darmstadt,1.65,4.00,5.25,04-07 12:06,Live
+1780,29,Holstein Kiel,0,0,Darmstadt,1.57,4.10,5.75,04-07 12:02,Live
+1781,29,Holstein Kiel,0,0,Darmstadt,1.50,4.33,6.50,04-07 11:59,Live
+1782,29,Holstein Kiel,0,0,Darmstadt,1.50,4.00,7.50,04-06 19:51,Live
+1783,29,Holstein Kiel,0,0,Darmstadt,1.53,3.80,6.50,04-03 05:49,Live
+1784,29,Holstein Kiel,0,0,Darmstadt,1.50,4.00,7.00,04-03 00:13,Live
+1785,29,Holstein Kiel,0,0,Darmstadt,1.50,4.20,6.50,04-02 14:33,Live
+1786,29,Holstein Kiel,0,0,Darmstadt,1.44,4.33,7.00,04-02 08:14,Live
+1787,29,Union Berlin,0,0,MSV Duisburg,1.83,3.75,4.00,04-07 12:45,Live
+1788,29,Union Berlin,0,0,MSV Duisburg,1.85,3.75,3.90,04-07 12:32,Live
+1789,29,Union Berlin,0,0,MSV Duisburg,1.80,3.75,4.20,04-07 12:12,Live
+1790,29,Union Berlin,0,0,MSV Duisburg,1.95,3.60,3.75,04-07 10:42,Live
+1791,29,Union Berlin,0,0,MSV Duisburg,1.90,3.60,3.80,04-06 22:52,Live
+1792,29,Union Berlin,0,0,MSV Duisburg,1.95,3.50,3.80,04-02 15:29,Live
+1793,29,Union Berlin,0,0,MSV Duisburg,2.00,3.50,3.60,04-02 11:31,Live
+1794,29,Union Berlin,0,0,MSV Duisburg,2.10,3.40,3.40,04-02 08:18,Live
+1795,29,Kaiserslautern,1,1,Jahn Regensburg,2.30,3.40,3.10,04-08 12:59,Live
+1796,29,Kaiserslautern,1,1,Jahn Regensburg,2.40,3.40,2.87,04-08 12:30,Live
+1797,29,Kaiserslautern,1,1,Jahn Regensburg,2.25,3.40,3.10,04-08 12:12,Live
+1798,29,Kaiserslautern,1,1,Jahn Regensburg,2.15,3.40,3.25,04-08 10:38,Live
+1799,29,Kaiserslautern,1,1,Jahn Regensburg,2.25,3.40,3.10,04-08 10:35,Live
+1800,29,Kaiserslautern,1,1,Jahn Regensburg,2.37,3.40,2.87,04-06 18:26,Live
+1801,29,Kaiserslautern,1,1,Jahn Regensburg,2.50,3.40,2.70,04-04 04:56,Live
+1802,29,Kaiserslautern,1,1,Jahn Regensburg,2.40,3.50,2.75,04-02 15:57,Live
+1803,29,Kaiserslautern,1,1,Jahn Regensburg,2.30,3.50,2.87,04-02 10:30,Live
+1804,29,Kaiserslautern,1,1,Jahn Regensburg,2.40,3.40,2.80,04-02 08:18,Live
+1805,29,Ingolstadt,2,2,Arminia Bielefeld,1.53,4.00,6.00,04-08 08:04,Live
+1806,29,Ingolstadt,2,2,Arminia Bielefeld,1.65,3.80,5.00,04-03 11:25,Live
+1807,29,Ingolstadt,2,2,Arminia Bielefeld,1.70,3.80,4.75,04-02 11:34,Live
+1808,29,Ingolstadt,2,2,Arminia Bielefeld,1.80,3.75,4.20,04-02 11:25,Live
+1809,29,Ingolstadt,2,2,Arminia Bielefeld,1.75,3.70,4.50,04-02 10:49,Live
+1810,29,Ingolstadt,2,2,Arminia Bielefeld,1.83,3.60,4.20,04-02 08:18,Live
+1811,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.45,3.20,2.90,04-08 12:56,Live
+1812,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.40,3.20,3.00,04-08 12:28,Live
+1813,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.30,3.20,3.10,04-08 10:04,Live
+1814,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.25,3.20,3.25,04-07 18:33,Live
+1815,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.40,3.20,3.00,04-07 18:23,Live
+1816,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.25,3.20,3.25,04-07 18:23,Live
+1817,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.40,3.20,3.00,04-06 03:04,Live
+1818,29,Eintracht Braunschweig,1,1,Dynamo Dresden,2.25,3.25,3.20,04-02 08:18,Live
+1819,30,Greuther Furth,1,2,Jahn Regensburg,2.55,3.40,2.62,04-13 18:01,Live
+1820,30,Greuther Furth,1,2,Jahn Regensburg,2.70,3.40,2.50,04-13 16:13,Live
+1821,30,Greuther Furth,1,2,Jahn Regensburg,2.50,3.40,2.70,04-12 23:39,Live
+1822,30,Greuther Furth,1,2,Jahn Regensburg,2.60,3.25,2.70,04-12 21:29,Live
+1823,30,Greuther Furth,1,2,Jahn Regensburg,2.40,3.30,2.90,04-12 09:22,Live
+1824,30,Greuther Furth,1,2,Jahn Regensburg,2.40,3.25,2.90,04-10 15:02,Live
+1825,30,Greuther Furth,1,2,Jahn Regensburg,2.25,3.25,3.20,04-09 15:07,Live
+1826,30,Greuther Furth,1,2,Jahn Regensburg,2.30,3.25,3.10,04-09 12:24,Live
+1827,30,VfL Bochum,3,2,Kaiserslautern,1.65,4.00,5.00,04-13 17:53,Live
+1828,30,VfL Bochum,3,2,Kaiserslautern,1.60,4.00,5.25,04-13 16:13,Live
+1829,30,VfL Bochum,3,2,Kaiserslautern,1.65,3.80,5.00,04-13 14:09,Live
+1830,30,VfL Bochum,3,2,Kaiserslautern,1.72,3.75,4.50,04-13 03:42,Live
+1831,30,VfL Bochum,3,2,Kaiserslautern,1.61,3.75,5.50,04-13 00:39,Live
+1832,30,VfL Bochum,3,2,Kaiserslautern,1.72,3.60,4.75,04-12 22:04,Live
+1833,30,VfL Bochum,3,2,Kaiserslautern,1.70,3.75,5.00,04-12 21:18,Live
+1834,30,VfL Bochum,3,2,Kaiserslautern,1.75,3.60,4.60,04-09 12:37,Live
+1835,30,Arminia Bielefeld,2,0,Erzgebirge Aue,2.00,3.30,3.75,04-14 12:45,Live
+1836,30,Arminia Bielefeld,2,0,Erzgebirge Aue,2.05,3.30,3.60,04-14 12:33,Live
+1837,30,Arminia Bielefeld,2,0,Erzgebirge Aue,2.00,3.30,3.75,04-10 12:08,Live
+1838,30,Arminia Bielefeld,2,0,Erzgebirge Aue,2.05,3.30,3.60,04-09 12:31,Live
+1839,30,MSV Duisburg,0,2,SV Sandhausen,2.45,2.75,3.30,04-14 11:02,Live
+1840,30,MSV Duisburg,0,2,SV Sandhausen,2.60,2.75,3.10,04-14 10:48,Live
+1841,30,MSV Duisburg,0,2,SV Sandhausen,2.45,3.20,2.90,04-14 10:44,Live
+1842,30,MSV Duisburg,0,2,SV Sandhausen,2.50,3.20,2.87,04-14 06:39,Live
+1843,30,MSV Duisburg,0,2,SV Sandhausen,2.40,3.20,3.00,04-10 12:10,Live
+1844,30,MSV Duisburg,0,2,SV Sandhausen,2.50,3.20,2.87,04-10 12:08,Live
+1845,30,MSV Duisburg,0,2,SV Sandhausen,2.40,3.20,3.00,04-09 12:37,Live
+1846,30,St. Pauli,0,1,Union Berlin,2.45,3.25,2.87,04-14 11:58,Live
+1847,30,St. Pauli,0,1,Union Berlin,2.37,3.25,3.00,04-14 09:47,Live
+1848,30,St. Pauli,0,1,Union Berlin,2.25,3.25,3.20,04-14 07:37,Live
+1849,30,St. Pauli,0,1,Union Berlin,2.30,3.25,3.10,04-14 07:27,Live
+1850,30,St. Pauli,0,1,Union Berlin,2.45,3.25,2.87,04-13 12:06,Live
+1851,30,St. Pauli,0,1,Union Berlin,2.60,3.25,2.70,04-13 11:50,Live
+1852,30,St. Pauli,0,1,Union Berlin,2.40,3.25,2.90,04-09 12:42,Live
+1853,30,Dynamo Dresden,0,4,Holstein Kiel,2.70,3.25,2.60,04-12 21:29,Live
+1854,30,Dynamo Dresden,0,4,Holstein Kiel,2.87,3.25,2.45,04-10 16:38,Live
+1855,30,Dynamo Dresden,0,4,Holstein Kiel,3.00,3.25,2.37,04-10 12:10,Live
+1856,30,Dynamo Dresden,0,4,Holstein Kiel,3.10,3.25,2.30,04-10 12:08,Live
+1857,30,Dynamo Dresden,0,4,Holstein Kiel,3.20,3.25,2.25,04-09 12:18,Live
+1858,30,Heidenheimer,3,1,Fortuna Dusseldorf,2.80,3.30,2.50,04-15 12:32,Live
+1859,30,Heidenheimer,3,1,Fortuna Dusseldorf,2.90,3.30,2.40,04-15 12:10,Live
+1860,30,Heidenheimer,3,1,Fortuna Dusseldorf,2.87,3.30,2.40,04-15 07:46,Live
+1861,30,Heidenheimer,3,1,Fortuna Dusseldorf,2.80,3.30,2.45,04-09 12:18,Live
+1862,30,Ingolstadt,1,1,Nurnberg,2.05,3.40,3.60,04-15 09:56,Live
+1863,30,Ingolstadt,1,1,Nurnberg,2.10,3.40,3.40,04-15 04:20,Live
+1864,30,Ingolstadt,1,1,Nurnberg,2.05,3.40,3.60,04-15 03:52,Live
+1865,30,Ingolstadt,1,1,Nurnberg,1.95,3.50,3.80,04-11 01:28,Live
+1866,30,Ingolstadt,1,1,Nurnberg,1.90,3.40,4.00,04-10 15:01,Live
+1867,30,Ingolstadt,1,1,Nurnberg,1.85,3.40,4.33,04-09 13:18,Live
+1868,30,Ingolstadt,1,1,Nurnberg,1.90,3.40,4.00,04-09 12:42,Live
+1869,30,Darmstadt,1,1,Eintracht Braunschweig,2.30,3.10,3.20,04-15 12:46,Live
+1870,30,Darmstadt,1,1,Eintracht Braunschweig,2.30,3.25,3.10,04-15 12:39,Live
+1871,30,Darmstadt,1,1,Eintracht Braunschweig,2.50,3.10,2.90,04-15 00:14,Live
+1872,30,Darmstadt,1,1,Eintracht Braunschweig,2.30,3.10,3.20,04-09 12:42,Live
+1873,31,Eintracht Braunschweig,0,0,Arminia Bielefeld,2.40,3.40,2.87,04-20 11:46,Live
+1874,31,Eintracht Braunschweig,0,0,Arminia Bielefeld,2.45,3.40,2.80,04-20 11:45,Live
+1875,31,Eintracht Braunschweig,0,0,Arminia Bielefeld,2.30,3.40,3.00,04-20 10:46,Live
+1876,31,Eintracht Braunschweig,0,0,Arminia Bielefeld,2.30,3.10,3.20,04-20 09:33,Live
+1877,31,Eintracht Braunschweig,0,0,Arminia Bielefeld,2.50,3.10,2.90,04-19 23:30,Live
+1878,31,Eintracht Braunschweig,0,0,Arminia Bielefeld,2.30,3.20,3.10,04-16 12:00,Live
+1879,31,Greuther Furth,1,1,VfL Bochum,3.00,3.25,2.37,04-20 18:07,Live
+1880,31,Greuther Furth,1,1,VfL Bochum,2.90,3.25,2.40,04-20 17:37,Live
+1881,31,Greuther Furth,1,1,VfL Bochum,3.10,3.25,2.30,04-19 00:46,Live
+1882,31,Greuther Furth,1,1,VfL Bochum,3.50,3.20,2.15,04-18 16:45,Live
+1883,31,Greuther Furth,1,1,VfL Bochum,3.40,3.20,2.20,04-18 12:39,Live
+1884,31,Greuther Furth,1,1,VfL Bochum,3.50,3.10,2.20,04-17 23:14,Live
+1885,31,Greuther Furth,1,1,VfL Bochum,3.30,3.10,2.30,04-16 18:34,Live
+1886,31,Greuther Furth,1,1,VfL Bochum,3.10,3.10,2.40,04-16 13:43,Live
+1887,31,Greuther Furth,1,1,VfL Bochum,3.25,3.10,2.30,04-16 12:55,Live
+1888,31,Greuther Furth,1,1,VfL Bochum,3.00,3.10,2.45,04-16 12:38,Live
+1889,31,Greuther Furth,1,1,VfL Bochum,2.87,3.10,2.55,04-16 12:36,Live
+1890,31,Greuther Furth,1,1,VfL Bochum,2.70,3.10,2.70,04-16 12:00,Live
+1891,31,SV Sandhausen,1,1,Darmstadt,2.20,3.10,3.50,04-21 12:13,Live
+1892,31,SV Sandhausen,1,1,Darmstadt,2.10,3.10,3.75,04-16 12:00,Live
+1893,31,Union Berlin,1,1,Heidenheimer,1.72,3.80,4.50,04-17 19:04,Live
+1894,31,Union Berlin,1,1,Heidenheimer,1.80,3.75,4.20,04-17 05:24,Live
+1895,31,Union Berlin,1,1,Heidenheimer,1.85,3.60,4.00,04-17 03:18,Live
+1896,31,Union Berlin,1,1,Heidenheimer,1.85,3.50,4.33,04-16 15:09,Live
+1897,31,Union Berlin,1,1,Heidenheimer,1.80,3.50,4.50,04-16 12:00,Live
+1898,31,Jahn Regensburg,3,1,St. Pauli,2.00,3.50,3.60,04-21 00:29,Live
+1899,31,Jahn Regensburg,3,1,St. Pauli,1.90,3.50,3.80,04-20 15:49,Live
+1900,31,Jahn Regensburg,3,1,St. Pauli,2.05,3.40,3.50,04-20 15:00,Live
+1901,31,Jahn Regensburg,3,1,St. Pauli,2.10,3.25,3.60,04-16 16:59,Live
+1902,31,Jahn Regensburg,3,1,St. Pauli,2.00,3.30,3.80,04-16 12:00,Live
+1903,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.50,3.25,2.80,04-22 07:22,Live
+1904,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.62,3.25,2.62,04-22 07:14,Live
+1905,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.90,3.25,2.40,04-20 15:17,Live
+1906,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.70,3.25,2.60,04-17 16:21,Live
+1907,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.60,3.25,2.70,04-17 04:06,Live
+1908,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.60,3.30,2.62,04-17 03:17,Live
+1909,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.62,3.30,2.70,04-16 18:34,Live
+1910,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.45,3.30,2.87,04-16 13:14,Live
+1911,31,Fortuna Dusseldorf,3,0,Ingolstadt,2.35,3.30,3.00,04-16 12:00,Live
+1912,31,Kaiserslautern,0,1,Dynamo Dresden,2.70,3.40,2.50,04-22 13:09,Live
+1913,31,Kaiserslautern,0,1,Dynamo Dresden,2.55,3.40,2.62,04-22 12:29,Live
+1914,31,Kaiserslautern,0,1,Dynamo Dresden,2.62,3.40,2.60,04-22 01:35,Live
+1915,31,Kaiserslautern,0,1,Dynamo Dresden,2.70,3.25,2.60,04-18 22:53,Live
+1916,31,Kaiserslautern,0,1,Dynamo Dresden,2.60,3.30,2.62,04-17 03:17,Live
+1917,31,Kaiserslautern,0,1,Dynamo Dresden,2.55,3.30,2.62,04-16 13:14,Live
+1918,31,Kaiserslautern,0,1,Dynamo Dresden,2.45,3.30,2.80,04-16 12:00,Live
+1919,31,Erzgebirge Aue,1,3,MSV Duisburg,2.37,3.20,3.10,04-22 12:29,Live
+1920,31,Erzgebirge Aue,1,3,MSV Duisburg,2.25,3.25,3.25,04-16 15:05,Live
+1921,31,Erzgebirge Aue,1,3,MSV Duisburg,2.25,3.25,3.20,04-16 12:00,Live
+1922,31,Holstein Kiel,1,3,Nurnberg,1.85,3.60,4.20,04-23 14:29,Live
+1923,31,Holstein Kiel,1,3,Nurnberg,1.80,3.60,4.50,04-23 13:28,Live
+1924,31,Holstein Kiel,1,3,Nurnberg,2.00,3.50,3.60,04-22 16:49,Live
+1925,31,Holstein Kiel,1,3,Nurnberg,1.95,3.50,3.75,04-22 16:18,Live
+1926,31,Holstein Kiel,1,3,Nurnberg,2.05,3.50,3.40,04-20 23:18,Live
+1927,31,Holstein Kiel,1,3,Nurnberg,2.00,3.60,3.50,04-20 22:43,Live
+1928,31,Holstein Kiel,1,3,Nurnberg,2.10,3.50,3.25,04-19 01:21,Live
+1929,31,Holstein Kiel,1,3,Nurnberg,2.00,3.50,3.50,04-17 15:35,Live
+1930,31,Holstein Kiel,1,3,Nurnberg,1.95,3.50,3.75,04-17 12:15,Live
+1931,31,Holstein Kiel,1,3,Nurnberg,2.00,3.50,3.60,04-17 01:57,Live
+1932,31,Holstein Kiel,1,3,Nurnberg,1.95,3.50,3.75,04-16 21:36,Live
+1933,31,Holstein Kiel,1,3,Nurnberg,2.00,3.40,3.75,04-16 12:36,Live
+1934,31,Holstein Kiel,1,3,Nurnberg,1.95,3.40,3.80,04-16 12:00,Live
+1935,32,VfL Bochum,2,1,Erzgebirge Aue,1.66,3.60,5.00,04-27 16:53,Live
+1936,32,VfL Bochum,2,1,Erzgebirge Aue,1.61,3.75,5.25,04-27 16:39,Live
+1937,32,VfL Bochum,2,1,Erzgebirge Aue,1.66,3.75,5.00,04-26 00:22,Live
+1938,32,VfL Bochum,2,1,Erzgebirge Aue,1.70,3.60,5.00,04-24 11:35,Live
+1939,32,VfL Bochum,2,1,Erzgebirge Aue,1.72,3.60,4.75,04-23 14:58,Live
+1940,32,Arminia Bielefeld,3,2,Kaiserslautern,1.70,3.60,5.00,04-27 17:31,Live
+1941,32,Arminia Bielefeld,3,2,Kaiserslautern,1.65,3.75,5.25,04-27 16:27,Live
+1942,32,Arminia Bielefeld,3,2,Kaiserslautern,1.70,3.60,4.75,04-27 13:54,Live
+1943,32,Arminia Bielefeld,3,2,Kaiserslautern,1.75,3.60,4.50,04-27 11:27,Live
+1944,32,Arminia Bielefeld,3,2,Kaiserslautern,1.70,3.75,4.75,04-27 11:25,Live
+1945,32,Arminia Bielefeld,3,2,Kaiserslautern,1.66,3.75,5.00,04-24 11:35,Live
+1946,32,Arminia Bielefeld,3,2,Kaiserslautern,1.75,3.60,4.60,04-23 14:58,Live
+1947,32,St. Pauli,3,0,Greuther Furth,2.00,3.40,3.75,04-28 12:15,Live
+1948,32,St. Pauli,3,0,Greuther Furth,2.15,3.30,3.40,04-28 00:34,Live
+1949,32,St. Pauli,3,0,Greuther Furth,2.10,3.30,3.50,04-27 00:09,Live
+1950,32,St. Pauli,3,0,Greuther Furth,2.15,3.30,3.40,04-23 15:03,Live
+1951,32,Darmstadt,3,1,Union Berlin,2.40,3.25,2.90,04-28 12:15,Live
+1952,32,Darmstadt,3,1,Union Berlin,2.30,3.25,3.10,04-28 09:39,Live
+1953,32,Darmstadt,3,1,Union Berlin,2.45,3.25,2.87,04-28 05:12,Live
+1954,32,Darmstadt,3,1,Union Berlin,2.40,3.25,2.90,04-27 20:18,Live
+1955,32,Darmstadt,3,1,Union Berlin,2.30,3.25,3.10,04-25 06:43,Live
+1956,32,Darmstadt,3,1,Union Berlin,2.20,3.25,3.30,04-23 15:01,Live
+1957,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.37,3.30,2.90,04-28 10:05,Live
+1958,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.40,3.30,2.90,04-27 22:56,Live
+1959,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.30,3.30,3.10,04-27 20:18,Live
+1960,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.50,3.25,2.80,04-24 01:20,Live
+1961,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.55,3.25,2.80,04-23 19:48,Live
+1962,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.60,3.25,2.70,04-23 16:08,Live
+1963,32,Dynamo Dresden,1,2,Fortuna Dusseldorf,2.50,3.25,2.80,04-23 15:03,Live
+1964,32,Heidenheimer,2,0,SV Sandhausen,2.62,3.20,2.75,04-29 13:26,Live
+1965,32,Heidenheimer,2,0,SV Sandhausen,2.50,3.20,2.87,04-29 12:48,Live
+1966,32,Heidenheimer,2,0,SV Sandhausen,2.45,3.20,2.90,04-29 12:32,Live
+1967,32,Heidenheimer,2,0,SV Sandhausen,2.37,3.20,3.00,04-29 03:00,Live
+1968,32,Heidenheimer,2,0,SV Sandhausen,2.45,3.20,2.90,04-29 02:21,Live
+1969,32,Heidenheimer,2,0,SV Sandhausen,2.60,3.20,2.75,04-29 00:51,Live
+1970,32,Heidenheimer,2,0,SV Sandhausen,2.45,3.20,2.90,04-26 14:42,Live
+1971,32,Heidenheimer,2,0,SV Sandhausen,2.37,3.20,3.00,04-23 21:28,Live
+1972,32,Heidenheimer,2,0,SV Sandhausen,2.25,3.20,3.25,04-23 15:09,Live
+1973,32,Ingolstadt,1,5,Holstein Kiel,2.40,3.30,2.90,04-29 12:48,Live
+1974,32,Ingolstadt,1,5,Holstein Kiel,2.30,3.30,3.10,04-29 10:52,Live
+1975,32,Ingolstadt,1,5,Holstein Kiel,2.25,3.30,3.20,04-29 09:16,Live
+1976,32,Ingolstadt,1,5,Holstein Kiel,2.40,3.30,2.90,04-29 03:01,Live
+1977,32,Ingolstadt,1,5,Holstein Kiel,2.25,3.30,3.20,04-28 13:57,Live
+1978,32,Ingolstadt,1,5,Holstein Kiel,2.30,3.30,3.10,04-25 04:19,Live
+1979,32,Ingolstadt,1,5,Holstein Kiel,2.25,3.30,3.25,04-24 12:06,Live
+1980,32,Ingolstadt,1,5,Holstein Kiel,2.30,3.25,3.10,04-23 15:05,Live
+1981,32,MSV Duisburg,4,1,Jahn Regensburg,2.00,3.40,3.60,04-29 13:26,Live
+1982,32,MSV Duisburg,4,1,Jahn Regensburg,2.10,3.40,3.40,04-29 13:14,Live
+1983,32,MSV Duisburg,4,1,Jahn Regensburg,2.25,3.30,3.10,04-29 12:28,Live
+1984,32,MSV Duisburg,4,1,Jahn Regensburg,2.37,3.30,2.90,04-29 06:24,Live
+1985,32,MSV Duisburg,4,1,Jahn Regensburg,2.30,3.40,3.00,04-26 12:20,Live
+1986,32,MSV Duisburg,4,1,Jahn Regensburg,2.37,3.40,2.90,04-25 04:04,Live
+1987,32,MSV Duisburg,4,1,Jahn Regensburg,2.30,3.25,3.10,04-24 11:35,Live
+1988,32,MSV Duisburg,4,1,Jahn Regensburg,2.45,3.25,2.90,04-23 16:16,Live
+1989,32,MSV Duisburg,4,1,Jahn Regensburg,2.37,3.25,3.00,04-23 15:09,Live
+1990,32,Nurnberg,2,0,Eintracht Braunschweig,1.72,3.75,4.75,04-30 19:34,Live
+1991,32,Nurnberg,2,0,Eintracht Braunschweig,1.70,3.75,4.75,04-30 09:20,Live
+1992,32,Nurnberg,2,0,Eintracht Braunschweig,1.75,3.50,4.75,04-23 15:09,Live
+1993,33,Eintracht Braunschweig,0,2,Ingolstadt,2.50,3.25,2.87,05-06 14:59,Live
+1994,33,Eintracht Braunschweig,0,2,Ingolstadt,2.75,3.25,2.60,05-06 14:50,Live
+1995,33,Eintracht Braunschweig,0,2,Ingolstadt,2.75,3.25,2.62,05-06 14:48,Live
+1996,33,Eintracht Braunschweig,0,2,Ingolstadt,2.60,3.25,2.80,05-06 13:11,Live
+1997,33,Eintracht Braunschweig,0,2,Ingolstadt,2.50,3.25,2.87,05-06 09:42,Live
+1998,33,Eintracht Braunschweig,0,2,Ingolstadt,2.55,3.25,2.80,05-05 17:18,Live
+1999,33,Eintracht Braunschweig,0,2,Ingolstadt,2.55,3.25,2.75,05-03 16:24,Live
+2000,33,Eintracht Braunschweig,0,2,Ingolstadt,2.50,3.25,2.80,05-02 23:55,Live
+2001,33,Eintracht Braunschweig,0,2,Ingolstadt,2.62,3.20,2.75,05-02 21:19,Live
+2002,33,Eintracht Braunschweig,0,2,Ingolstadt,2.40,3.20,3.00,05-01 04:27,Live
+2003,33,Eintracht Braunschweig,0,2,Ingolstadt,2.25,3.20,3.30,04-30 18:13,Live
+2004,33,Eintracht Braunschweig,0,2,Ingolstadt,2.25,3.20,3.25,04-30 15:27,Live
+2005,33,Union Berlin,3,1,VfL Bochum,2.15,3.40,3.25,05-06 14:48,Live
+2006,33,Union Berlin,3,1,VfL Bochum,2.10,3.40,3.40,05-06 05:06,Live
+2007,33,Union Berlin,3,1,VfL Bochum,2.25,3.30,3.20,05-02 21:49,Live
+2008,33,Union Berlin,3,1,VfL Bochum,2.30,3.30,3.10,04-30 15:36,Live
+2009,33,St. Pauli,1,0,Arminia Bielefeld,2.05,3.50,3.60,05-06 14:48,Live
+2010,33,St. Pauli,1,0,Arminia Bielefeld,2.05,3.50,3.50,05-06 14:47,Live
+2011,33,St. Pauli,1,0,Arminia Bielefeld,2.00,3.50,3.60,05-06 14:46,Live
+2012,33,St. Pauli,1,0,Arminia Bielefeld,2.05,3.50,3.50,05-06 14:45,Live
+2013,33,St. Pauli,1,0,Arminia Bielefeld,2.00,3.50,3.60,05-06 10:11,Live
+2014,33,St. Pauli,1,0,Arminia Bielefeld,2.10,3.50,3.30,05-03 00:05,Live
+2015,33,St. Pauli,1,0,Arminia Bielefeld,2.05,3.50,3.50,05-02 21:49,Live
+2016,33,St. Pauli,1,0,Arminia Bielefeld,2.00,3.50,3.60,05-01 00:26,Live
+2017,33,St. Pauli,1,0,Arminia Bielefeld,1.95,3.40,3.80,04-30 15:33,Live
+2018,33,Greuther Furth,2,2,MSV Duisburg,1.83,3.60,4.20,05-06 14:30,Live
+2019,33,Greuther Furth,2,2,MSV Duisburg,1.80,3.60,4.50,05-06 13:22,Live
+2020,33,Greuther Furth,2,2,MSV Duisburg,1.90,3.50,4.00,05-06 01:48,Live
+2021,33,Greuther Furth,2,2,MSV Duisburg,1.75,3.75,4.33,05-05 12:18,Live
+2022,33,Greuther Furth,2,2,MSV Duisburg,1.90,3.60,3.75,05-05 02:49,Live
+2023,33,Greuther Furth,2,2,MSV Duisburg,1.80,3.50,4.50,05-05 02:46,Live
+2024,33,Greuther Furth,2,2,MSV Duisburg,1.75,3.50,4.75,05-03 18:10,Live
+2025,33,Greuther Furth,2,2,MSV Duisburg,1.70,3.60,5.00,05-03 17:43,Live
+2026,33,Greuther Furth,2,2,MSV Duisburg,1.80,3.50,4.50,05-01 13:34,Live
+2027,33,Greuther Furth,2,2,MSV Duisburg,1.90,3.40,4.10,04-30 15:36,Live
+2028,33,Greuther Furth,2,2,MSV Duisburg,1.80,3.50,4.50,04-30 15:27,Live
+2029,33,SV Sandhausen,0,2,Nurnberg,3.50,3.30,2.10,05-06 14:50,Live
+2030,33,SV Sandhausen,0,2,Nurnberg,3.60,3.30,2.05,05-06 14:49,Live
+2031,33,SV Sandhausen,0,2,Nurnberg,3.50,3.30,2.10,05-06 14:48,Live
+2032,33,SV Sandhausen,0,2,Nurnberg,3.60,3.30,2.05,05-05 10:54,Live
+2033,33,SV Sandhausen,0,2,Nurnberg,3.50,3.30,2.10,05-01 13:29,Live
+2034,33,SV Sandhausen,0,2,Nurnberg,3.60,3.30,2.05,05-01 06:55,Live
+2035,33,SV Sandhausen,0,2,Nurnberg,3.80,3.30,2.00,04-30 16:07,Live
+2036,33,Fortuna Dusseldorf,1,1,Holstein Kiel,3.00,3.25,2.37,05-06 14:53,Live
+2037,33,Fortuna Dusseldorf,1,1,Holstein Kiel,2.80,3.25,2.50,05-06 14:44,Live
+2038,33,Fortuna Dusseldorf,1,1,Holstein Kiel,3.00,3.25,2.37,05-05 10:54,Live
+2039,33,Fortuna Dusseldorf,1,1,Holstein Kiel,3.00,3.25,2.35,05-01 11:00,Live
+2040,33,Fortuna Dusseldorf,1,1,Holstein Kiel,3.10,3.25,2.30,05-01 10:11,Live
+2041,33,Fortuna Dusseldorf,1,1,Holstein Kiel,2.70,3.25,2.60,04-30 23:21,Live
+2042,33,Fortuna Dusseldorf,1,1,Holstein Kiel,2.60,3.25,2.70,04-30 17:28,Live
+2043,33,Fortuna Dusseldorf,1,1,Holstein Kiel,2.40,3.25,2.90,04-30 17:26,Live
+2044,33,Fortuna Dusseldorf,1,1,Holstein Kiel,2.30,3.25,3.10,04-30 15:38,Live
+2045,33,Kaiserslautern,1,0,Heidenheimer,3.00,3.60,2.20,05-06 14:25,Live
+2046,33,Kaiserslautern,1,0,Heidenheimer,3.10,3.60,2.15,05-06 08:31,Live
+2047,33,Kaiserslautern,1,0,Heidenheimer,2.90,3.60,2.25,05-01 13:39,Live
+2048,33,Kaiserslautern,1,0,Heidenheimer,3.10,3.60,2.15,05-01 13:29,Live
+2049,33,Kaiserslautern,1,0,Heidenheimer,3.20,3.60,2.10,05-01 00:26,Live
+2050,33,Kaiserslautern,1,0,Heidenheimer,3.20,3.30,2.00,04-30 18:36,Live
+2051,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.50,3.25,2.80,05-06 10:24,Live
+2052,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.55,3.25,2.75,05-03 18:10,Live
+2053,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.50,3.25,2.80,05-03 00:04,Live
+2054,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.70,3.30,2.60,05-02 18:25,Live
+2055,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.50,3.30,2.80,05-02 12:09,Live
+2056,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.30,3.30,3.10,05-01 06:49,Live
+2057,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.20,3.30,3.25,05-01 04:27,Live
+2058,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.10,3.30,3.50,04-30 19:07,Live
+2059,33,Erzgebirge Aue,0,0,Dynamo Dresden,2.05,3.30,3.60,04-30 15:27,Live
+2060,33,Jahn Regensburg,0,3,Darmstadt,2.62,3.50,2.50,05-06 08:15,Live
+2061,33,Jahn Regensburg,0,3,Darmstadt,2.80,3.50,2.40,05-06 02:27,Live
+2062,33,Jahn Regensburg,0,3,Darmstadt,2.62,3.50,2.50,05-06 02:26,Live
+2063,33,Jahn Regensburg,0,3,Darmstadt,2.80,3.50,2.40,05-06 02:26,Live
+2064,33,Jahn Regensburg,0,3,Darmstadt,2.62,3.50,2.50,05-05 03:27,Live
+2065,33,Jahn Regensburg,0,3,Darmstadt,2.80,3.40,2.40,05-05 03:05,Live
+2066,33,Jahn Regensburg,0,3,Darmstadt,2.60,3.40,2.60,05-03 18:02,Live
+2067,33,Jahn Regensburg,0,3,Darmstadt,2.50,3.40,2.70,05-03 16:24,Live
+2068,33,Jahn Regensburg,0,3,Darmstadt,2.60,3.40,2.60,05-02 23:22,Live
+2069,33,Jahn Regensburg,0,3,Darmstadt,2.50,3.40,2.70,05-02 00:35,Live
+2070,33,Jahn Regensburg,0,3,Darmstadt,2.45,3.40,2.80,05-01 19:28,Live
+2071,33,Jahn Regensburg,0,3,Darmstadt,2.30,3.40,3.00,04-30 16:07,Live
+2072,33,Jahn Regensburg,0,3,Darmstadt,2.15,3.40,3.30,04-30 15:33,Live
+2073,34,Ingolstadt,1,3,Kaiserslautern,1.40,4.75,7.00,05-13 10:12,Live
+2074,34,Ingolstadt,1,3,Kaiserslautern,1.44,4.50,6.50,05-13 01:15,Live
+2075,34,Ingolstadt,1,3,Kaiserslautern,1.50,4.33,6.00,05-13 01:08,Live
+2076,34,Ingolstadt,1,3,Kaiserslautern,1.53,4.20,5.75,05-08 23:54,Live
+2077,34,Ingolstadt,1,3,Kaiserslautern,1.53,4.20,6.00,05-08 13:32,Live
+2078,34,Ingolstadt,1,3,Kaiserslautern,1.57,4.00,5.50,05-07 16:08,Live
+2079,34,Ingolstadt,1,3,Kaiserslautern,1.60,4.00,5.25,05-07 14:43,Live
+2080,34,Ingolstadt,1,3,Kaiserslautern,1.61,4.00,5.00,05-07 14:18,Live
+2081,34,Darmstadt,1,0,Erzgebirge Aue,2.10,3.30,3.50,05-13 15:05,Live
+2082,34,Darmstadt,1,0,Erzgebirge Aue,2.05,3.30,3.60,05-13 13:46,Live
+2083,34,Darmstadt,1,0,Erzgebirge Aue,2.05,3.50,3.50,05-13 13:08,Live
+2084,34,Darmstadt,1,0,Erzgebirge Aue,2.00,3.50,3.60,05-13 06:31,Live
+2085,34,Darmstadt,1,0,Erzgebirge Aue,1.95,3.50,3.75,05-08 23:54,Live
+2086,34,Darmstadt,1,0,Erzgebirge Aue,1.95,3.50,4.00,05-08 20:01,Live
+2087,34,Darmstadt,1,0,Erzgebirge Aue,1.90,3.50,4.00,05-08 01:01,Live
+2088,34,Darmstadt,1,0,Erzgebirge Aue,1.95,3.50,3.90,05-07 16:37,Live
+2089,34,Darmstadt,1,0,Erzgebirge Aue,2.00,3.50,3.75,05-07 14:43,Live
+2090,34,Darmstadt,1,0,Erzgebirge Aue,2.10,3.40,3.40,05-07 14:18,Live
+2091,34,Dynamo Dresden,0,1,Union Berlin,1.83,3.80,3.90,05-13 15:03,Live
+2092,34,Dynamo Dresden,0,1,Union Berlin,1.90,3.75,3.60,05-13 01:03,Live
+2093,34,Dynamo Dresden,0,1,Union Berlin,1.80,3.75,4.20,05-12 21:13,Live
+2094,34,Dynamo Dresden,0,1,Union Berlin,1.83,3.75,4.00,05-09 22:10,Live
+2095,34,Dynamo Dresden,0,1,Union Berlin,1.75,3.75,4.33,05-07 15:56,Live
+2096,34,Dynamo Dresden,0,1,Union Berlin,1.80,3.75,4.20,05-07 15:37,Live
+2097,34,Dynamo Dresden,0,1,Union Berlin,1.75,3.75,4.33,05-07 14:18,Live
+2098,34,Heidenheimer,1,1,Greuther Furth,2.15,3.30,3.40,05-13 14:46,Live
+2099,34,Heidenheimer,1,1,Greuther Furth,2.20,3.30,3.30,05-13 11:19,Live
+2100,34,Heidenheimer,1,1,Greuther Furth,2.25,3.30,3.20,05-13 04:34,Live
+2101,34,Heidenheimer,1,1,Greuther Furth,2.40,3.25,2.90,05-13 01:38,Live
+2102,34,Heidenheimer,1,1,Greuther Furth,2.45,3.25,2.87,05-10 17:49,Live
+2103,34,Heidenheimer,1,1,Greuther Furth,2.60,3.25,2.70,05-07 16:47,Live
+2104,34,Heidenheimer,1,1,Greuther Furth,2.40,3.25,2.90,05-07 14:18,Live
+2105,34,VfL Bochum,1,1,Jahn Regensburg,1.80,3.75,4.10,05-13 10:21,Live
+2106,34,VfL Bochum,1,1,Jahn Regensburg,1.75,3.60,4.50,05-13 10:15,Live
+2107,34,VfL Bochum,1,1,Jahn Regensburg,1.75,3.60,4.60,05-13 10:11,Live
+2108,34,VfL Bochum,1,1,Jahn Regensburg,1.83,3.60,4.20,05-13 00:59,Live
+2109,34,VfL Bochum,1,1,Jahn Regensburg,1.95,3.50,3.75,05-07 15:43,Live
+2110,34,VfL Bochum,1,1,Jahn Regensburg,2.00,3.50,3.60,05-07 14:43,Live
+2111,34,VfL Bochum,1,1,Jahn Regensburg,2.05,3.50,3.40,05-07 14:18,Live
+2112,34,Nurnberg,2,3,Fortuna Dusseldorf,2.00,3.50,3.60,05-13 07:49,Live
+2113,34,Nurnberg,2,3,Fortuna Dusseldorf,1.95,3.50,3.80,05-07 14:18,Live
+2114,34,Arminia Bielefeld,0,0,SV Sandhausen,1.95,3.50,3.75,05-12 11:43,Live
+2115,34,Arminia Bielefeld,0,0,SV Sandhausen,2.10,3.50,3.30,05-07 15:37,Live
+2116,34,Arminia Bielefeld,0,0,SV Sandhausen,2.05,3.50,3.40,05-07 14:18,Live
+2117,34,MSV Duisburg,2,0,St. Pauli,2.00,3.40,3.75,05-13 15:05,Live
+2118,34,MSV Duisburg,2,0,St. Pauli,2.10,3.40,3.40,05-13 01:07,Live
+2119,34,MSV Duisburg,2,0,St. Pauli,2.20,3.40,3.20,05-12 22:05,Live
+2120,34,MSV Duisburg,2,0,St. Pauli,2.30,3.30,3.10,05-10 17:41,Live
+2121,34,MSV Duisburg,2,0,St. Pauli,2.40,3.30,2.87,05-08 21:40,Live
+2122,34,MSV Duisburg,2,0,St. Pauli,2.55,3.30,2.70,05-07 14:18,Live
+2123,34,Holstein Kiel,6,2,Eintracht Braunschweig,3.25,3.40,2.15,05-13 15:15,Live
+2124,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.87,3.40,2.37,05-13 14:45,Live
+2125,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.62,3.40,2.55,05-13 11:47,Live
+2126,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.80,3.40,2.40,05-13 01:42,Live
+2127,34,Holstein Kiel,6,2,Eintracht Braunschweig,3.00,3.40,2.30,05-10 20:27,Live
+2128,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.80,3.40,2.40,05-10 17:56,Live
+2129,34,Holstein Kiel,6,2,Eintracht Braunschweig,3.00,3.40,2.30,05-10 17:41,Live
+2130,34,Holstein Kiel,6,2,Eintracht Braunschweig,3.20,3.40,2.20,05-09 18:14,Live
+2131,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.80,3.40,2.40,05-08 23:54,Live
+2132,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.80,3.30,2.30,05-08 21:04,Live
+2133,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.62,3.30,2.50,05-08 20:55,Live
+2134,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.45,3.40,2.80,05-08 14:15,Live
+2135,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.30,3.40,3.00,05-08 01:01,Live
+2136,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.20,3.50,3.20,05-07 16:11,Live
+2137,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.10,3.50,3.40,05-07 15:46,Live
+2138,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.10,3.40,3.40,05-07 15:39,Live
+2139,34,Holstein Kiel,6,2,Eintracht Braunschweig,2.15,3.40,3.25,05-07 14:18,Live
