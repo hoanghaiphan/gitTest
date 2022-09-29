@@ -1,0 +1,307 @@
+,Round,Hometeam,Scorehome,Scoreaway,Awayteam,Home,Draw,Away
+0,1,Bayern Munchen,2,1,VfL Wolfsburg,1.20,6.28,11.43
+1,1,TSG Hoffenheim,2,0,Augsburg,2.03,3.44,3.35
+2,1,Hannover 96,2,1,Schalke 04,2.89,3.36,2.28
+3,1,Hertha Berlin,2,2,Werder Bremen,2.05,3.38,3.36
+4,1,Eintracht Frankfurt,1,0,SC Freiburg,2.00,3.38,3.45
+5,1,FC Koln,0,0,Hamburger SV,2.21,3.33,3.03
+6,1,Borussia Dortmund,0,2,Bayer Leverkusen,1.55,4.00,5.43
+7,1,SC Paderborn 07,2,2,FSV Mainz 05,2.86,3.29,2.32
+8,1,Borussia Monchengladbach,1,1,VfB Stuttgart,1.96,3.42,3.56
+9,2,Augsburg,2,3,Borussia Dortmund,5.04,3.92,1.58
+10,2,Bayer Leverkusen,4,2,Hertha Berlin,1.49,4.08,6.08
+11,2,VfL Wolfsburg,2,2,Eintracht Frankfurt,1.64,3.75,4.84
+12,2,VfB Stuttgart,0,2,FC Koln,2.05,3.35,3.34
+13,2,Hamburger SV,0,3,SC Paderborn 07,1.75,3.59,4.23
+14,2,Werder Bremen,1,1,TSG Hoffenheim,2.76,3.37,2.35
+15,2,Schalke 04,1,1,Bayern Munchen,5.76,4.30,1.48
+16,2,FSV Mainz 05,0,0,Hannover 96,2.05,3.42,3.32
+17,2,SC Freiburg,0,0,Borussia Monchengladbach,2.85,3.34,2.32
+18,3,Bayer Leverkusen,3,3,Werder Bremen,1.29,5.23,9.01
+19,3,TSG Hoffenheim,1,1,VfL Wolfsburg,2.23,3.41,2.91
+20,3,Hertha Berlin,1,3,FSV Mainz 05,2.25,3.29,2.98
+21,3,SC Paderborn 07,0,0,FC Koln,2.84,3.25,2.37
+22,3,Bayern Munchen,2,0,VfB Stuttgart,1.16,7.30,12.83
+23,3,Borussia Dortmund,3,1,SC Freiburg,1.25,5.61,9.95
+24,3,Borussia Monchengladbach,4,1,Schalke 04,2.31,3.34,2.86
+25,3,Eintracht Frankfurt,0,1,Augsburg,2.18,3.34,3.09
+26,3,Hannover 96,2,0,Hamburger SV,2.10,3.40,3.20
+27,4,SC Freiburg,2,2,Hertha Berlin,2.61,3.19,2.57
+28,4,Augsburg,4,2,Werder Bremen,1.86,3.51,3.90
+29,4,Schalke 04,2,2,Eintracht Frankfurt,1.69,3.73,4.43
+30,4,VfB Stuttgart,0,2,TSG Hoffenheim,2.51,3.28,2.61
+31,4,Hamburger SV,0,0,Bayern Munchen,9.35,5.48,1.28
+32,4,SC Paderborn 07,2,0,Hannover 96,2.80,3.24,2.38
+33,4,FSV Mainz 05,2,0,Borussia Dortmund,5.13,4.08,1.56
+34,4,VfL Wolfsburg,4,1,Bayer Leverkusen,2.56,3.36,2.51
+35,4,FC Koln,0,0,Borussia Monchengladbach,2.68,3.20,2.54
+36,5,Werder Bremen,0,3,Schalke 04,3.06,3.40,2.16
+37,5,Eintracht Frankfurt,2,2,FSV Mainz 05,2.34,3.25,2.86
+38,5,Bayern Munchen,4,0,SC Paderborn 07,1.11,7.94,21.76
+39,5,TSG Hoffenheim,3,3,SC Freiburg,1.65,3.78,4.65
+40,5,Borussia Dortmund,2,2,VfB Stuttgart,1.33,4.96,8.01
+41,5,Bayer Leverkusen,1,0,Augsburg,1.42,4.49,6.58
+42,5,Borussia Monchengladbach,1,0,Hamburger SV,1.57,3.91,5.23
+43,5,Hannover 96,1,0,FC Koln,2.09,3.31,3.33
+44,5,Hertha Berlin,1,0,VfL Wolfsburg,2.75,3.28,2.42
+45,6,FSV Mainz 05,0,0,TSG Hoffenheim,2.33,3.35,2.84
+46,6,Schalke 04,2,1,Borussia Dortmund,3.29,3.42,2.05
+47,6,SC Freiburg,0,0,Bayer Leverkusen,4.24,3.63,1.74
+48,6,VfB Stuttgart,1,0,Hannover 96,2.18,3.35,3.06
+49,6,FC Koln,0,2,Bayern Munchen,8.29,4.58,1.34
+50,6,SC Paderborn 07,1,2,Borussia Monchengladbach,3.29,3.31,2.08
+51,6,VfL Wolfsburg,2,1,Werder Bremen,1.53,4.03,5.45
+52,6,Augsburg,1,0,Hertha Berlin,1.97,3.36,3.50
+53,6,Hamburger SV,1,2,Eintracht Frankfurt,2.10,3.35,3.21
+54,7,Hertha Berlin,3,2,VfB Stuttgart,2.24,3.29,2.98
+55,7,TSG Hoffenheim,2,1,Schalke 04,2.31,3.39,2.80
+56,7,Bayern Munchen,4,0,Hannover 96,1.14,7.19,15.81
+57,7,Borussia Dortmund,0,1,Hamburger SV,1.34,4.89,7.82
+58,7,Bayer Leverkusen,2,2,SC Paderborn 07,1.33,4.94,8.01
+59,7,Werder Bremen,1,1,SC Freiburg,2.16,3.39,3.06
+60,7,Eintracht Frankfurt,3,2,FC Koln,2.20,3.25,3.08
+61,7,VfL Wolfsburg,1,0,Augsburg,1.72,3.68,4.34
+62,7,Borussia Monchengladbach,1,1,FSV Mainz 05,1.87,3.48,3.78
+63,8,FSV Mainz 05,2,1,Augsburg,2.28,3.25,3.00
+64,8,Hannover 96,0,3,Borussia Monchengladbach,2.87,3.28,2.34
+65,8,SC Freiburg,1,2,VfL Wolfsburg,3.32,3.38,2.08
+66,8,VfB Stuttgart,3,3,Bayer Leverkusen,3.34,3.43,2.05
+67,8,Bayern Munchen,6,0,Werder Bremen,1.09,9.76,19.63
+68,8,FC Koln,2,1,Borussia Dortmund,4.88,3.76,1.65
+69,8,Schalke 04,2,0,Hertha Berlin,1.73,3.64,4.42
+70,8,Hamburger SV,1,1,TSG Hoffenheim,2.50,3.30,2.65
+71,8,SC Paderborn 07,3,1,Eintracht Frankfurt,2.51,3.25,2.67
+72,9,Werder Bremen,0,1,FC Koln,2.47,3.28,2.68
+73,9,Eintracht Frankfurt,4,5,VfB Stuttgart,2.33,3.33,2.83
+74,9,Augsburg,2,0,SC Freiburg,1.88,3.43,3.83
+75,9,TSG Hoffenheim,1,0,SC Paderborn 07,1.54,3.88,5.55
+76,9,Hertha Berlin,3,0,Hamburger SV,2.22,3.29,3.03
+77,9,Borussia Dortmund,0,1,Hannover 96,1.28,5.17,10.09
+78,9,Bayer Leverkusen,1,0,Schalke 04,1.80,3.60,4.05
+79,9,VfL Wolfsburg,3,0,FSV Mainz 05,1.69,3.64,4.57
+80,9,Borussia Monchengladbach,0,0,Bayern Munchen,6.63,4.15,1.46
+81,10,Schalke 04,1,0,Augsburg,1.81,3.53,4.05
+82,10,FSV Mainz 05,1,2,Werder Bremen,1.70,3.76,4.36
+83,10,Hannover 96,1,0,Eintracht Frankfurt,2.29,3.35,2.85
+84,10,VfB Stuttgart,0,4,VfL Wolfsburg,2.91,3.37,2.26
+85,10,Hamburger SV,1,0,Bayer Leverkusen,3.39,3.44,2.02
+86,10,Bayern Munchen,2,1,Borussia Dortmund,1.49,4.26,5.82
+87,10,Borussia Monchengladbach,3,1,TSG Hoffenheim,1.91,3.50,3.69
+88,10,FC Koln,0,1,SC Freiburg,1.93,3.38,3.79
+89,10,SC Paderborn 07,3,1,Hertha Berlin,2.51,3.28,2.65
+90,11,Hertha Berlin,0,2,Hannover 96,1.99,3.40,3.54
+91,11,Eintracht Frankfurt,0,4,Bayern Munchen,11.44,6.26,1.22
+92,11,SC Freiburg,2,0,Schalke 04,2.98,3.32,2.28
+93,11,Augsburg,3,0,SC Paderborn 07,1.75,3.54,4.34
+94,11,TSG Hoffenheim,3,4,FC Koln,1.82,3.55,3.90
+95,11,Bayer Leverkusen,0,0,FSV Mainz 05,1.48,4.20,5.92
+96,11,Werder Bremen,2,0,VfB Stuttgart,2.59,3.31,2.54
+97,11,VfL Wolfsburg,2,0,Hamburger SV,1.59,3.94,5.07
+98,11,Borussia Dortmund,1,0,Borussia Monchengladbach,1.57,4.02,5.23
+99,12,SC Paderborn 07,2,2,Borussia Dortmund,6.09,4.26,1.46
+100,12,Bayern Munchen,4,0,TSG Hoffenheim,1.13,7.76,14.91
+101,12,Schalke 04,3,2,VfL Wolfsburg,2.57,3.31,2.56
+102,12,Borussia Monchengladbach,1,3,Eintracht Frankfurt,1.49,4.19,5.79
+103,12,FSV Mainz 05,2,2,SC Freiburg,1.93,3.40,3.65
+104,12,Hannover 96,1,3,Bayer Leverkusen,3.47,3.38,1.99
+105,12,FC Koln,1,2,Hertha Berlin,2.06,3.26,3.40
+106,12,Hamburger SV,2,0,Werder Bremen,1.92,3.46,3.59
+107,12,VfB Stuttgart,0,1,Augsburg,2.38,3.27,2.76
+108,13,SC Freiburg,1,4,VfB Stuttgart,2.23,3.29,3.01
+109,13,Hertha Berlin,0,1,Bayern Munchen,12.81,6.66,1.18
+110,13,Werder Bremen,4,0,SC Paderborn 07,2.05,3.41,3.31
+111,13,Augsburg,3,1,Hamburger SV,1.88,3.47,3.81
+112,13,Schalke 04,4,1,FSV Mainz 05,1.91,3.49,3.67
+113,13,Bayer Leverkusen,5,1,FC Koln,1.50,4.15,5.85
+114,13,TSG Hoffenheim,4,3,Hannover 96,1.75,3.69,4.15
+115,13,VfL Wolfsburg,1,0,Borussia Monchengladbach,1.95,3.49,3.53
+116,13,Eintracht Frankfurt,2,0,Borussia Dortmund,5.33,4.23,1.52
+117,14,Borussia Dortmund,1,0,TSG Hoffenheim,1.46,4.42,6.08
+118,14,VfB Stuttgart,0,4,Schalke 04,2.28,3.30,2.94
+119,14,Borussia Monchengladbach,3,2,Hertha Berlin,1.58,3.78,5.44
+120,14,Hannover 96,1,3,VfL Wolfsburg,3.42,3.43,2.01
+121,14,FC Koln,1,2,Augsburg,2.49,3.15,2.75
+122,14,SC Paderborn 07,1,1,SC Freiburg,2.39,3.27,2.78
+123,14,Bayern Munchen,1,0,Bayer Leverkusen,1.21,6.07,11.49
+124,14,Hamburger SV,2,1,FSV Mainz 05,2.06,3.35,3.38
+125,14,Eintracht Frankfurt,5,2,Werder Bremen,1.99,3.46,3.43
+126,15,TSG Hoffenheim,3,2,Eintracht Frankfurt,1.74,3.62,4.19
+127,15,Augsburg,0,4,Bayern Munchen,9.53,5.35,1.27
+128,15,Schalke 04,1,2,FC Koln,1.84,3.48,3.98
+129,15,Hertha Berlin,1,0,Borussia Dortmund,5.09,3.87,1.59
+130,15,Werder Bremen,3,3,Hannover 96,2.37,3.31,2.77
+131,15,SC Freiburg,0,0,Hamburger SV,2.36,3.21,2.83
+132,15,FSV Mainz 05,1,1,VfB Stuttgart,2.25,3.32,2.97
+133,15,Bayer Leverkusen,1,1,Borussia Monchengladbach,1.80,3.61,4.05
+134,15,VfL Wolfsburg,1,1,SC Paderborn 07,1.36,4.90,7.10
+135,16,Hamburger SV,0,1,VfB Stuttgart,2.21,3.34,3.01
+136,16,FC Koln,0,0,FSV Mainz 05,2.31,3.28,2.88
+137,16,Hannover 96,2,0,Augsburg,2.56,3.23,2.60
+138,16,Bayern Munchen,2,0,SC Freiburg,1.10,9.44,17.64
+139,16,Borussia Dortmund,2,2,VfL Wolfsburg,1.78,3.65,4.05
+140,16,Borussia Monchengladbach,4,1,Werder Bremen,1.44,4.38,6.20
+141,16,TSG Hoffenheim,0,1,Bayer Leverkusen,3.10,3.43,2.13
+142,16,Eintracht Frankfurt,4,4,Hertha Berlin,2.14,3.35,3.14
+143,16,SC Paderborn 07,1,2,Schalke 04,2.82,3.36,2.32
+144,17,FSV Mainz 05,1,2,Bayern Munchen,10.96,5.93,1.22
+145,17,Schalke 04,0,0,Hamburger SV,1.84,3.48,3.92
+146,17,Bayer Leverkusen,1,1,Eintracht Frankfurt,1.47,4.31,6.03
+147,17,Werder Bremen,2,1,Borussia Dortmund,5.64,4.12,1.51
+148,17,VfB Stuttgart,0,0,SC Paderborn 07,1.87,3.56,3.70
+149,17,Augsburg,2,1,Borussia Monchengladbach,2.38,3.23,2.82
+150,17,VfL Wolfsburg,2,1,FC Koln,1.48,4.12,6.05
+151,17,Hertha Berlin,0,5,TSG Hoffenheim,2.43,3.26,2.71
+152,17,SC Freiburg,2,2,Hannover 96,2.32,3.31,2.83
+153,18,VfL Wolfsburg,4,1,Bayern Munchen,6.02,4.38,1.46
+154,18,FSV Mainz 05,5,0,SC Paderborn 07,2.01,3.41,3.46
+155,18,Schalke 04,1,0,Hannover 96,1.85,3.48,3.93
+156,18,SC Freiburg,4,1,Eintracht Frankfurt,2.47,3.30,2.67
+157,18,VfB Stuttgart,0,1,Borussia Monchengladbach,2.70,3.31,2.41
+158,18,Hamburger SV,0,2,FC Koln,2.15,3.24,3.26
+159,18,Bayer Leverkusen,0,0,Borussia Dortmund,2.36,3.27,2.80
+160,18,Werder Bremen,2,0,Hertha Berlin,2.35,3.26,2.82
+161,18,Augsburg,3,1,TSG Hoffenheim,2.36,3.27,2.83
+162,19,Eintracht Frankfurt,1,1,VfL Wolfsburg,3.41,3.49,1.99
+163,19,Hannover 96,1,1,FSV Mainz 05,2.08,3.37,3.25
+164,19,Borussia Monchengladbach,1,0,SC Freiburg,1.50,4.18,5.70
+165,19,Bayern Munchen,1,1,Schalke 04,1.16,7.35,13.21
+166,19,Borussia Dortmund,0,1,Augsburg,1.47,4.21,6.03
+167,19,TSG Hoffenheim,1,2,Werder Bremen,1.64,3.94,4.48
+168,19,Hertha Berlin,0,1,Bayer Leverkusen,4.20,3.48,1.79
+169,19,FC Koln,0,0,VfB Stuttgart,2.24,3.25,3.00
+170,19,SC Paderborn 07,0,3,Hamburger SV,2.40,3.24,2.77
+171,20,Schalke 04,1,0,Borussia Monchengladbach,2.36,3.32,2.81
+172,20,FC Koln,0,0,SC Paderborn 07,1.95,3.38,3.65
+173,20,VfL Wolfsburg,3,0,TSG Hoffenheim,1.60,3.92,4.95
+174,20,FSV Mainz 05,0,2,Hertha Berlin,2.06,3.34,3.37
+175,20,SC Freiburg,0,3,Borussia Dortmund,5.42,3.99,1.55
+176,20,VfB Stuttgart,0,2,Bayern Munchen,11.42,6.25,1.20
+177,20,Hamburger SV,2,1,Hannover 96,2.28,3.26,2.95
+178,20,Werder Bremen,2,1,Bayer Leverkusen,4.08,3.67,1.77
+179,20,Augsburg,2,2,Eintracht Frankfurt,1.83,3.62,3.89
+180,21,Borussia Dortmund,4,2,FSV Mainz 05,1.37,4.73,7.44
+181,21,Werder Bremen,3,2,Augsburg,2.63,3.26,2.53
+182,21,Bayer Leverkusen,4,5,VfL Wolfsburg,2.23,3.35,2.98
+183,21,Borussia Monchengladbach,1,0,FC Koln,1.62,3.73,5.23
+184,21,TSG Hoffenheim,2,1,VfB Stuttgart,1.82,3.66,3.90
+185,21,Bayern Munchen,8,0,Hamburger SV,1.09,9.47,21.68
+186,21,Eintracht Frankfurt,1,0,Schalke 04,2.44,3.32,2.71
+187,21,Hertha Berlin,0,2,SC Freiburg,2.09,3.31,3.35
+188,21,Hannover 96,1,2,SC Paderborn 07,1.86,3.49,3.95
+189,22,VfB Stuttgart,2,3,Borussia Dortmund,4.43,3.68,1.72
+190,22,SC Paderborn 07,0,6,Bayern Munchen,15.27,7.16,1.15
+191,22,FSV Mainz 05,3,1,Eintracht Frankfurt,2.30,3.36,2.85
+192,22,Augsburg,2,2,Bayer Leverkusen,2.78,3.26,2.43
+193,22,SC Freiburg,1,1,TSG Hoffenheim,2.77,3.38,2.38
+194,22,Schalke 04,1,1,Werder Bremen,1.80,3.65,3.99
+195,22,FC Koln,1,1,Hannover 96,2.22,3.19,3.15
+196,22,Hamburger SV,1,1,Borussia Monchengladbach,2.98,3.23,2.29
+197,22,VfL Wolfsburg,2,1,Hertha Berlin,1.34,4.77,8.12
+198,23,Bayern Munchen,4,1,FC Koln,1.09,8.89,23.30
+199,23,Borussia Dortmund,3,0,Schalke 04,1.53,4.11,5.97
+200,23,Bayer Leverkusen,1,0,SC Freiburg,1.37,4.67,7.63
+201,23,TSG Hoffenheim,2,0,FSV Mainz 05,1.95,3.51,3.48
+202,23,Hannover 96,1,1,VfB Stuttgart,2.17,3.30,3.14
+203,23,Hertha Berlin,1,0,Augsburg,2.74,3.18,2.47
+204,23,Eintracht Frankfurt,2,1,Hamburger SV,2.03,3.46,3.37
+205,23,Borussia Monchengladbach,2,0,SC Paderborn 07,1.55,4.00,5.44
+206,23,Werder Bremen,3,5,VfL Wolfsburg,3.68,3.59,1.87
+207,24,VfB Stuttgart,0,0,Hertha Berlin,2.01,3.34,3.54
+208,24,Augsburg,1,0,VfL Wolfsburg,3.33,3.39,2.05
+209,24,Hannover 96,1,3,Bayern Munchen,11.68,6.25,1.21
+210,24,SC Freiburg,0,1,Werder Bremen,2.48,3.30,2.68
+211,24,Schalke 04,3,1,TSG Hoffenheim,2.13,3.40,3.20
+212,24,Hamburger SV,0,0,Borussia Dortmund,5.52,3.95,1.56
+213,24,FSV Mainz 05,2,2,Borussia Monchengladbach,2.65,3.21,2.53
+214,24,FC Koln,4,2,Eintracht Frankfurt,2.35,3.31,2.83
+215,24,SC Paderborn 07,0,3,Bayer Leverkusen,4.53,3.66,1.72
+0,25,Bayer Leverkusen,4,0,VfB Stuttgart,1.46,4.24,6.45
+1,25,Augsburg,0,2,FSV Mainz 05,1.96,3.40,3.63
+2,25,TSG Hoffenheim,3,0,Hamburger SV,1.81,3.57,4.02
+3,25,Hertha Berlin,2,2,Schalke 04,2.68,3.19,2.54
+4,25,Werder Bremen,0,4,Bayern Munchen,9.96,5.62,1.26
+5,25,Eintracht Frankfurt,4,0,SC Paderborn 07,1.71,3.75,4.43
+6,25,Borussia Dortmund,0,0,FC Koln,1.30,5.04,9.53
+7,25,VfL Wolfsburg,3,0,SC Freiburg,1.30,5.12,8.74
+8,25,Borussia Monchengladbach,2,0,Hannover 96,1.74,3.55,4.45
+9,26,Hamburger SV,0,1,Hertha Berlin,2.21,3.19,3.17
+10,26,Hannover 96,2,3,Borussia Dortmund,5.15,3.94,1.59
+11,26,SC Freiburg,2,0,Augsburg,2.79,3.23,2.42
+12,26,VfB Stuttgart,3,1,Eintracht Frankfurt,2.36,3.34,2.80
+13,26,FC Koln,1,1,Werder Bremen,2.25,3.28,3.03
+14,26,SC Paderborn 07,0,0,TSG Hoffenheim,3.30,3.39,2.07
+15,26,Schalke 04,0,1,Bayer Leverkusen,2.93,3.28,2.32
+16,26,FSV Mainz 05,1,1,VfL Wolfsburg,3.26,3.43,2.07
+17,26,Bayern Munchen,0,2,Borussia Monchengladbach,1.16,7.00,14.66
+18,27,Bayer Leverkusen,4,0,Hamburger SV,1.38,4.63,7.84
+19,27,VfL Wolfsburg,3,1,VfB Stuttgart,1.41,4.56,6.67
+20,27,TSG Hoffenheim,1,4,Borussia Monchengladbach,2.44,3.26,2.74
+21,27,Werder Bremen,0,0,FSV Mainz 05,2.28,3.33,2.93
+22,27,Eintracht Frankfurt,2,2,Hannover 96,1.95,3.49,3.56
+23,27,SC Freiburg,1,0,FC Koln,2.50,3.12,2.74
+24,27,Borussia Dortmund,0,1,Bayern Munchen,3.52,3.43,1.98
+25,27,Augsburg,0,0,Schalke 04,2.30,3.22,2.93
+26,27,Hertha Berlin,2,0,SC Paderborn 07,1.86,3.39,4.08
+27,28,Hannover 96,1,1,Hertha Berlin,2.16,3.26,3.24
+28,28,SC Paderborn 07,2,1,Augsburg,3.15,3.29,2.17
+29,28,Bayern Munchen,3,0,Eintracht Frankfurt,1.14,7.68,15.79
+30,28,Schalke 04,0,0,SC Freiburg,1.65,3.76,4.79
+31,28,Borussia Monchengladbach,3,1,Borussia Dortmund,2.88,3.30,2.33
+32,28,FSV Mainz 05,2,3,Bayer Leverkusen,3.26,3.39,2.08
+33,28,Hamburger SV,0,2,VfL Wolfsburg,3.75,3.57,1.89
+34,28,FC Koln,3,2,TSG Hoffenheim,2.40,3.21,2.86
+35,28,VfB Stuttgart,3,2,Werder Bremen,2.16,3.34,3.14
+36,29,Eintracht Frankfurt,0,0,Borussia Monchengladbach,3.05,3.38,2.20
+37,29,TSG Hoffenheim,0,2,Bayern Munchen,6.04,4.47,1.45
+38,29,Hertha Berlin,0,0,FC Koln,2.42,3.10,2.88
+39,29,Borussia Dortmund,3,0,SC Paderborn 07,1.20,6.11,12.35
+40,29,Bayer Leverkusen,4,0,Hannover 96,1.35,4.76,7.72
+41,29,SC Freiburg,2,3,FSV Mainz 05,2.60,3.18,2.60
+42,29,Augsburg,2,1,VfB Stuttgart,2.14,3.30,3.21
+43,29,Werder Bremen,1,0,Hamburger SV,2.04,3.40,3.40
+44,29,VfL Wolfsburg,1,1,Schalke 04,1.72,3.71,4.35
+45,30,FSV Mainz 05,2,0,Schalke 04,2.28,3.24,3.00
+46,30,Borussia Dortmund,2,0,Eintracht Frankfurt,1.35,4.79,7.93
+47,30,Hannover 96,1,2,TSG Hoffenheim,2.41,3.32,2.73
+48,30,VfB Stuttgart,2,2,SC Freiburg,1.89,3.44,3.84
+49,30,Hamburger SV,3,2,Augsburg,2.58,3.20,2.60
+50,30,FC Koln,1,1,Bayer Leverkusen,4.16,3.47,1.81
+51,30,Bayern Munchen,1,0,Hertha Berlin,1.14,7.54,16.86
+52,30,SC Paderborn 07,2,2,Werder Bremen,2.64,3.31,2.49
+53,30,Borussia Monchengladbach,1,0,VfL Wolfsburg,2.47,3.26,2.70
+54,31,VfL Wolfsburg,2,2,Hannover 96,1.39,4.60,7.07
+55,31,Augsburg,0,0,FC Koln,2.16,3.24,3.23
+56,31,TSG Hoffenheim,1,1,Borussia Dortmund,3.88,3.71,1.81
+57,31,Schalke 04,3,2,VfB Stuttgart,2.03,3.43,3.35
+58,31,Werder Bremen,1,0,Eintracht Frankfurt,2.25,3.45,2.89
+59,31,SC Freiburg,1,2,SC Paderborn 07,1.99,3.42,3.48
+60,31,Bayer Leverkusen,2,0,Bayern Munchen,3.01,3.35,2.25
+61,31,FSV Mainz 05,1,2,Hamburger SV,1.80,3.58,4.09
+62,31,Hertha Berlin,1,2,Borussia Monchengladbach,4.00,3.42,1.87
+63,32,Hamburger SV,1,1,SC Freiburg,2.07,3.35,3.34
+64,32,Bayern Munchen,0,1,Augsburg,1.42,4.57,7.04
+65,32,Borussia Dortmund,2,0,Hertha Berlin,1.29,5.12,9.67
+66,32,Borussia Monchengladbach,3,0,Bayer Leverkusen,2.39,3.25,2.79
+67,32,Hannover 96,1,1,Werder Bremen,2.13,3.47,3.12
+68,32,Eintracht Frankfurt,3,1,TSG Hoffenheim,2.42,3.44,2.64
+69,32,VfB Stuttgart,2,0,FSV Mainz 05,2.08,3.43,3.25
+70,32,SC Paderborn 07,1,3,VfL Wolfsburg,4.93,4.06,1.58
+71,32,FC Koln,2,0,Schalke 04,2.67,3.19,2.56
+72,33,Schalke 04,1,0,SC Paderborn 07,1.65,3.85,4.61
+73,33,Bayer Leverkusen,2,0,TSG Hoffenheim,1.41,4.71,6.47
+74,33,VfL Wolfsburg,2,1,Borussia Dortmund,2.35,3.41,2.74
+75,33,FSV Mainz 05,2,0,FC Koln,2.07,3.29,3.33
+76,33,Augsburg,1,2,Hannover 96,2.05,3.43,3.32
+77,33,Hertha Berlin,0,0,Eintracht Frankfurt,2.07,3.38,3.31
+78,33,Werder Bremen,0,2,Borussia Monchengladbach,3.76,3.61,1.84
+79,33,SC Freiburg,2,1,Bayern Munchen,4.76,3.84,1.66
+80,33,VfB Stuttgart,2,1,Hamburger SV,1.80,3.62,4.02
+81,34,Bayern Munchen,2,0,FSV Mainz 05,1.23,6.32,9.99
+82,34,Borussia Dortmund,3,2,Werder Bremen,1.30,5.56,7.99
+83,34,Borussia Monchengladbach,1,3,Augsburg,1.62,4.02,4.80
+84,34,TSG Hoffenheim,2,1,Hertha Berlin,2.03,3.49,3.32
+85,34,Hannover 96,2,1,SC Freiburg,1.97,3.35,3.77
+86,34,Eintracht Frankfurt,2,1,Bayer Leverkusen,3.87,3.83,1.78
+87,34,Hamburger SV,2,0,Schalke 04,2.21,3.56,2.94
+88,34,FC Koln,2,2,VfL Wolfsburg,3.75,3.62,1.87
+89,34,SC Paderborn 07,1,2,VfB Stuttgart,3.21,3.65,2.03

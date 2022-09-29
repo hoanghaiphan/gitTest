@@ -10,21 +10,26 @@ import time
 #driver = webdriver.Chrome('C:/Users/NA1696/Downloads/chromedriver_win32_76/chromedriver')
 #driver.get('http://info.nowgoal.com/en/SubLeague/2010-2011/9/132.html')
 
-servicePath=Service('C:/Users/hoanghai/Documents/2022Python/chromedriver.exe')
-driver = webdriver.Chrome(service=servicePath)
+# servicePath=Service('C:/Users/hoanghai/Documents/2022Python/chromedriver.exe')
+# driver = webdriver.Chrome(service=servicePath)
 
-#season = ['2010-2011', '2011-2012', '2012-2013', '2013-2014', '2014-2015', '2015-2016', '2016-2017', '2017-2018', '2018-2019']
-season = ['2020-2021']
+driver = webdriver.Chrome('C:/Users/Pc/Downloads/2022Python/chromedriver.exe')
+
+# season = ['2010-2011', '2011-2012', '2012-2013', '2013-2014', '2014-2015', '2015-2016', '2016-2017', '2017-2018', '2018-2019']
+# season = ['2020-2021']
+# season = ['2018-2019', '2019-2020', '2020-2021', '2021-2022']
+season = ['2011-2012','2012-2013','2013-2014']
+# season = ['2010-2011']
 
 for s in season:
     OddsRecord2022 = pd.DataFrame(columns=['Round','Hometeam', 'Scorehome', 'Scoreaway','Awayteam','Home','Draw','Away'])
-    for rnd in range(20,35):
-        driver.get('https://www.nowgoal.pro/football/database/schedule-9-' + s + '?round=' + str(rnd))
+    for rnd in range(1,35):
+        driver.get('https://www.nowgoal.ltd/football/database/schedule-8-' + s + '?round=' + str(rnd))
 #         time.sleep(2)
         matches = driver.find_elements(By.CLASS_NAME,"linkTd")
         n = len(matches)        
         for j in range(0,n):
-            driver.get('https://www.nowgoal.pro/football/database/schedule-9-' + s + '?round=' + str(rnd))
+            driver.get('https://www.nowgoal.ltd/football/database/schedule-8-' + s + '?round=' + str(rnd))
             matches = driver.find_elements(By.CLASS_NAME,"linkTd")
 #             ActionChains(driver).key_down(Keys.COMMAND).click(j).perform()
 #             driver.execute_script("matches[0].click()")
@@ -52,7 +57,7 @@ for s in season:
             Away = driver.find_element(By.XPATH,"//*[@id='oContent']/table/tbody/tr[5]/td[4]").text
 #             
             OddsRecord2022.loc[len(OddsRecord2022)] = [rnd, hometeam, homescore, awayscore, awayteam, Home, Draw, Away]
-    OddsRecord2022.to_csv('Bundesliga22022_part4' + s + '.csv')        
+    OddsRecord2022.to_csv('2Bundesliga' + s + '.csv')        
 # test = driver.find_elements(By.XPATH,"//*[contains(@onclick,'switchRoundPop(1)')]")
 # https://www.nowgoal.fun/football/database/schedule-9-2020-2021?round=1
 # links=driver.find_elements(By.XPATH,'//*[contains(@href,"html")]')
