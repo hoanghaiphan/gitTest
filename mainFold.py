@@ -20,13 +20,13 @@ sample = 0
 returnSum = 0
 betSum = 0
 mMin = 0
-for s in ["2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016","2016-2017","2017-2018","2018-2019","2019-2020","2020-2021"]:
+for s in ["2005-2006","2006-2007","2007-2008","2008-2009","2009-2010","2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016","2016-2017","2017-2018","2018-2019","2019-2020","2020-2021","2021-2022"]:
 # for s in ["2020-2021"]:
     mMin = 0
     stakeMax = 1
     results = []
     season = s
-    with open("./bundes2Data/Bundesliga2_"+season+".csv") as csvfile:
+    with open("./bundes1Data/Bundesliga"+season+".csv") as csvfile:
         reader = csv.reader(csvfile) # change contents to floats
         for row in reader: # each row is a list
             results.append(row)
@@ -34,34 +34,34 @@ for s in ["2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016
     results = numpy.delete(results, (0), axis=1)
 
     #delete "Run" odds
-    i=1
-    while True:
-        if results[i][9] == "Run":
-            results = numpy.delete(results, i, axis=0)
-        else:
-            i += 1 
-        if (i+1) > len(results[1:]):
-            break
+#     i=1
+#     while True:
+#         if results[i][9] == "Run":
+#             results = numpy.delete(results, i, axis=0)
+#         else:
+#             i += 1 
+#         if (i+1) > len(results[1:]):
+#             break
 
     #delete odds of the same match
-    i=1
-    while True:
-        if results[i+1][1] == results[i][1]:
-            results = numpy.delete(results, (i+1), axis=0)
-        else:
-            i += 1 
-        if (i+1) > len(results[1:]):
-            break
+#     i=1
+#     while True:
+#         if results[i+1][1] == results[i][1]:
+#             results = numpy.delete(results, (i+1), axis=0)
+#         else:
+#             i += 1 
+#         if (i+1) > len(results[1:]):
+#             break
         
     #delete empty row
-    i=1
-    while True:
-        if results[i+1][0] == '':
-            results = numpy.delete(results, (i+1), axis=0)
-        else:
-            i += 1 
-        if (i+1) > len(results[1:]):
-            break        
+#     i=1
+#     while True:
+#         if results[i+1][0] == '':
+#             results = numpy.delete(results, (i+1), axis=0)
+#         else:
+#             i += 1 
+#         if (i+1) > len(results[1:]):
+#             break        
 
     #results = numpy.delete(results, 0, axis=1)
 
@@ -101,16 +101,20 @@ for s in ["2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016
     startRound = 8
     endRound = len(rER[1::])+1
 #     endRound = 25
-    mStop = 20
+    mStop = 5
     stake = 1
     stakeMax = 1
     safeMargin = 0.95
     lastBet = 34
     for i in range(startRound, endRound):
+        xBet = 0
+        checkBet = False
         for j in range(streak, len(rER[i][1:])):
             c1 = checkStreak(rER,i,rER[i-1][j][1],streak)
             c2 = checkStreak(rER,i,rER[i-1][j][4],streak)
             if c1:
+                xBet = xBet + 1
+                checkBet = True
                 m = m-stake
                 if m < mMin:
                     mMin = m
@@ -119,6 +123,8 @@ for s in ["2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016
                     m = m + float(rER[i-1][j][7])*stake*safeMargin
 #                 mplot3WLate.append(round(m,2))            
             if c2:
+                xBet = xBet + 1
+                checkBet = True
                 m = m-stake
                 if m < mMin:
                     mMin = m              
@@ -129,15 +135,24 @@ for s in ["2010-2011","2011-2012","2012-2013","2013-2014","2014-2015","2015-2016
 #         if c1 or c2:
 #             if m < mplot3WLate[-2]:
 #                 stake = stake*2
-        mplot3WLate.append(stake)
-        mplot3WLate.append(round(m,2))
+        if checkBet:
+            mplot3WLate.append(stake)
+            mplot3WLate.append("x" + str(xBet))
+#             mplot3WLate.append(xBet)
+            mplot3WLate.append(round(m,2))
         if m > mStop:
             lastBet = i            
             break
-        if m < mplot3WLate[-3]:
-            stake = stake*2
-        if m > mplot3WLate[-3]:
-            stake = 1
+#         if checkBet:
+#             if m < mplot3WLate[-3]:
+#                 stake = stake*2
+#             if m > mplot3WLate[-3]:
+#                 stake = 1
+        if checkBet:
+            if m < 0:
+                stake = stake*2
+            if m > 0:
+                stake = 1
         if stake > stakeMax:
             stakeMax = stake
       
